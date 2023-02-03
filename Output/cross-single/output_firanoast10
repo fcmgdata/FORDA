@@ -1,0 +1,304 @@
+add test case to test plan : ci reviewed by : marcinkosiba fbshipit-source-id : resolved fix
+[ hotfix ] [ runtime ] add test ] in DefaultServletWebServerFactoryCustomizerTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+fix typo in RunningDocumentationTests summary : the test plan : ci reviewed by : asp2insp fbshipit-source-id : coneko
+fix a bug in the tests with the boot boot tests for the tests
+remove unnecessary code
+fix javadoc : fix .
+remove @ ignore in DataMongoTestReactiveIntegrationTests
+fix a bug in the application
+fix the default constructor of tests that this commit modifies the tests that the getBrowserName the tests that the tests that will not be used for the version of the version of the version as the tests is not be used is not be used for the same the same tests that will be the
+fix npe on windows
+fix getArgumentResolvers tests in tests
+add test to test for in test
+fix npe in WebRequestTraceFilter of WebRequestTraceFilter ( # addTimeTaken ) of WebRequestTraceFilter ( ) if the default of WebRequestTraceFilter of WebRequestTraceFilter ( ) of trace ( ) is the next addTimeTaken ( ) ( ) ( as it is an error ( ) ( ) is not trace ( as it is a method but it is not the
+[ hotfix ] [ test ] add missing for test ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : http : http : http : http : //code.google.com/p/moe-java moe_migrated_revid=41527580
+remove unnecessary code
+remove unused imports
+fix a bug in the application
+add the test to the test to the test
+SpringApplicationBannerPrinter : fix issue # print ( ( ) the banner ( ) the patch by default ( )
+remove unused code
+[ hotfix ] [ test ] [ test ] [ boot test ] [ test ] [ test ] [ test ] test ] [ runtime ] - ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : http : http : http : http : http : //code.google.com/p/moe-java moe_migrated_revid=96227688
+[ hotfix ] [ runtime ] [ json ] [ runtime ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : http : http : http : http : http : //github.com/google/moe
+fix test on windows summary : test plan : ci reviewed by : jtorkkola fbshipit-source-id : jtorkkola
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] fix a expectMessage ] [ runtime ] [ 1 ] [ 1 ] [ runtime ] [ runtime ] [ runtime ] [ 1 ] [ 1 ] [ runtime ] [ ] [ ] [ runtime ] [ runtime ] [ runtime ] [ ] [ ]
+remove unused code
+add a method in HtmlIdentifier
+TikaConfig : add an exception in mime patch by jbellis
+[ hotfix ] [ runtime ] add additional resolveContextLoader ( ) to AbstractTestContextBootstrapper
+remove unnecessary code
+test : add test to test method as it is not available when it does not being used is not being used and this commit : elastic/x-pack-elasticsearch @ gmail.com >
+fix TikaCLI on windows
+remove unused import
+test : fix test in case of test was test that a bit test is not always this commit : elastic/x-pack-elasticsearch @ gmail.com >
+add javadoc to JpaTransactionManager summary : add missing test plan : ci
+remove unnecessary code
+fix issue for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658 fix
+add additional test for tests
+[ hotfix ] [ runtime ] [ identity ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : //code.google.com/p/moe-java -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+[ test ] [ tests ] add additional test ] to TestVarbinaryFunctions
+add missing tests .
+add servlet initServer method
+add missing license header
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix in TestApplicationContext
+fix cs for comment
+remove unnecessary boxing
+remove unnecessary code
+[ test ] [ test ] add some methods in TestCipher .
+add javadoc to Observable
+fix for https : //issues.apache.org/jira/browse/amq-3681
+remove unused test for in SampleAsyncTests
+remove unused imports
+remove unused code
+[ hotfix ] [ runtime ] add static
+PojoMethodMapping : use MethodType as well as it 's a parameter in case
+fix a bug in the check
+add javadoc to PDFParser
+do n't dss rsa dss in summary : there 's no longer created by : guozhang : guozhang : ci
+minor : fix certs in chrome firefox firefox firefox firefox ANY for firefox firefox firefox firefox firefox ANY for a check ( ) which can not firefox ANY to a bit firefox ( )
+remove unused code
+add test to AnnotationScopeMetadataResolverTests
+remove unused code
+fix for https : //issues.apache.org/jira/browse/amq-3681
+fix for https : //issues.apache.org/activemq/browse/amq-1796
+remove unused code
+fix a bug in the human the human the friendly of the file message of the fakeLauncherPath
+add missing deprecated method
+TransformUncorrelatedInPredicateSubqueryToSemiJoin : remove unused field
+make sure the compile to the TypeSignature to be a bit more than by default canonical the compile to the same to the right .
+add default constructor for ticker task
+remove unnecessary code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 is disabled
+add missing @ COMMENT in @ COMMENT
+update javadoc for comment
+remove unused code
+fix test on windows
+fix npe in GenericTableMetaDataProvider # : # : # : # GenericTableMetaDataProvider # GenericTableMetaDataProvider # GenericTableMetaDataProvider # GenericTableMetaDataProvider # GenericTableMetaDataProvider # : # : # : fix
+mime : add mime for framework
+fix test on windows
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 in PageBuilderStatus
+remove unused code
+do not use replaceInPredicateInAssignments in TransformUncorrelatedInPredicateSubqueryToSemiJoin
+TaskExecutor : remove unused field
+add missing convertFromPngBytes in case this commit
+fix typo in setUp this commit removes the port is present .
+add javadoc to javadoc
+CharSequenceEncoder : make it easier to CharSequenceEncoder to avoid npe
+add start ( ) to SqlQueryManager
+remove unused code
+mute testShouldHandleAlertOnPageLoadUsingGet test
+MapValues : use new for blockBuilder in MapValues constructor
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for end
+remove unused imports
+update TesterFirehoseServer constructor
+[ hotfix ] [ runtime ] remove unused field in apply ( cherry picked )
+avoid npe when creating a linux
+remove unnecessary code
+fix npe in ShardCompactionManager # if ( # 356 ) this commit fixes a method to the shards ( # : elastic/x-pack-elasticsearch @ gmail.com ) at the same >
+add javadoc to JdbcInterceptor
+remove dead code
+remove unused imports
+fix npe in FilterDispatcher # FilterDispatcher , add the filterConfig .
+fix for https : //issues.apache.org/jira/browse/amq-3681
+fix npe in TransformCorrelatedScalarAggregationToJoin to use resolve ( # 356 ) this commit fixes a method to the context if the correlated to the same to the same to the same to the resolve to the resolve to the same to the resolve to use the same to the same to the resolve to the resolve to use the same
+[ test ] [ test ] fix a system is print to SetValueTests
+fix memory leak in OperatorContext
+fix FormatHelper # formatMethodForMessage the FormatHelper # formatMethodForMessage the sb for the FormatHelper constructor , the formatMethodForMessage the FormatHelper # formatMethodForMessage the ClassUtils for the FormatHelper # formatMethodForMessage the method for the ClassUtils for the method for the list . this is not a null in FormatHelper # formatMethodForMessage the qualified instead of the list , we have to add a list of the
+fix typo in URIEditor # : fix : fix : add missing ` URIEditor # : add missing ` method the same code to the new method that it can be called on the rest of the same on the same on prefix with this commit this method but it is
+add add json and first by add the first , and from the same that was not being used .
+add a test to make sure the HttpInvokerFactoryBeanIntegrationTests is used .
+remove unused host , support in the utils
+add test case for order in TestQueries
+fix javadoc on the javadoc .
+remove unused code
+add null check
+remove unnecessary check in HashBuilderOperator .
+[ test ] [ test ] add some to TestCustomSsl in the test
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for commander the commander by using an npe when we have an empty a bug in the commander we have a bug in the commander the commander the commander commander commander commander when we have a bit more than the same the
+add test case for join test plan : ci reviewed by : marcinkosiba fbshipit-source-id : resolved
+add test for generics in tests
+[ hotfix ] [ runtime ] [ safari ] [ runtime ] on LOG ] closes # ]
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] test ] test ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : http : http : http : //github.com/google/moe
+add missing SET_ELEMENT_SELECTED
+fix a bug in the add the new sessions ( ) to a bit more reliably to use it
+add a test for the TestUtf8Extended , add a test the test , and replace that and test the end up and test plan : ci reviewed by : ttsugriy fbshipit-source-id : //github.com/google/moe
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix npe when handle ( ) add vals , so we have an empty vals if the same tests . test plan : ci reviewed by : philipjameson fbshipit-source-id : rohit yadav
+add mode to TikaCLI summary : TikaCLI to use the mime for the mime and with a bit more than a lot in case
+[ hotfix ] [ runtime ] add check to PolymorphicScalarFunction
+add missing exception
+minor : remove unnecessary code in TestCipher
+add a immutable to the addAction method .
+add javadoc to javadoc ( ) method
+remove unused code
+add null check
+remove unused code
+add more completed test plan : ci reviewed by : jtorkkola fbshipit-source-id : resolved
+remove unused code
+remove unused code
+remove unnecessary code
+add missing matchesPattern literal
+TilesResult # doExecute ( ) motivation : the location as it does not ServletUtil does not being used in a ServletUtil and we need to a ServletUtil to a ServletUtil to a ServletUtil for the setLocation tiles , but the setLocation tiles , which is to the same tiles ,
+add javadoc to javadoc .
+add test to TestStandardErrorCode
+fix test in the test after not be used for the test case to be used .
+fix bug in DynamicAttributesHandler # start ( # start ) motivation : DynamicAttributesHandler # start method for DynamicAttributesHandler # start to make it and DynamicAttributesHandler # start method , we need to make it does not a alt .
+remove unused import
+add some more info in Patterns
+fix test on windows
+remove unused code
+add test for generics in ResolvableTypeTests summary : this change adds a test plan : ci reviewed by : ttsugriy fbshipit-source-id : marcinkosiba
+remove unused code
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+[ hotfix ] [ runtime ] add test ] for profilerLogShouldBeDisabledByDefault ( )
+DefaultSubscriptionRegistry for session to use Object
+do n't version constant for not version constant
+fix npe on windows
+fix a bug on windows summary : ` ZeroSizeFileDetector ` was ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` . test plan : ` ( ) `
+fix for https : //issues.apache.org/jira/browse/amq-3681
+[ hotfix ] [ runtime ] add doHandshake to SockJsClient constructor
+add javadoc to Observable
+fix safely firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox safely if for a safely firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox when for
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+remove unnecessary code
+[ hotfix ] [ runtime ] add COMMENT to Property constructor
+[ hotfix ] [ runtime ] add blobstore to LocalCluster constructor
+remove unnecessary code
+fix npe in tests .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for WebMvcConfigurer in case
+add protected to GroovyBeanDefinitionSource
+add a test to make it is not needed to avoid npe
+[ hotfix ] [ runtime ] remove dead code
+fix for https : //issues.apache.org/activemq/browse/amq-1796
+fix DubboBootstrap on windows
+update javadoc for org.springframework.test
+update javadoc for org.springframework.test
+[ hotfix ] [ runtime ] add tests for RestTemplateBuilderTests constructor
+remove unused code
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+add javadoc for OkHttpClient summary : this closes https : //issues.apache.org/bugzilla/show_bug.cgi ? reviewed by : jtorkkola
+remove unused field from ConfigValidationUtils
+remove unnecessary cast in HttpTunnelPayload
+remove unused code ( ) .
+minor : remove unnecessary code in TokenFilter
+fix test in MethodSorterTest # getDeclaredMethods ( # testOne ) this commit fixes a Super . the test plan : elastic/x-pack-elasticsearch @ gmail.com >
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+fix a bug in the check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix issue : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658 build
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix bug in RunMojo
+[ hotfix ] [ runtime ] [ declaring ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : //code.google.com/p/moe-java moe_migrated_revid=86990876
+[ hotfix ] [ runtime ] add relativeUrl in RequestFactory
+[ hotfix ] [ runtime ] add Throwable for NettyWebServer constructor .
+fix typo in ConfigurationPropertySource # containsDescendantOf state
+add static methods in StartupInfoLogger
+remove unused code
+[ hotfix ] [ runtime ] add javadoc for OsgiTest
+add missing license header
+[ hotfix ] [ runtime ] add additional elasticsearch for ]
+fix javadoc : fix .
+fix issue with recent change
+add a method in JobLauncherCommandLineRunner
+add missing @ spring to JdbcRepositoriesAutoConfiguration
+test : add test for folder in test
+add a new method to the EndpointWebMvcAutoConfiguration constructor .
+make FilteredClassPathRunner more precise ( cherry picked protected )
+remove unused in TomcatGracefulShutdown
+fix Handler if the index static summary : the index is not a bit of PARENT_DIR is not a method in the of stream is if the last of stream is stream is stream . this is stream is the index is to the of the
+fix for https : //issues.apache.org/jira/browse/amq-3681
+fix for https : //issues.apache.org/jira/browse/amq-3681
+fix typo in ClasspathLoggingApplicationListener # if summary : fix the logging the started for the logging of the started in the logging of the logging for ClasspathLoggingApplicationListener # if is started for logging to if and started for logging of the started for logging of the started for logging for logging of the logging to avoid the same
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ runtime ] [ hotfix ] fix a test ] [ test ] [ runtime ] - ] - ] - ] [ 1 ] - ] - ] [ runtime ] [ test ] [ runtime ] [ runtime ] closes # tests ] [ test ] - ] - ] [ test ] closes # EndpointWebMvcAutoConfigurationTests #
+fix npe in OAuth2ClientPropertiesRegistrationAdapterTests patch by jbellis
+add missing deprecated method
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- release notes -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : //code.google.com/p/moe-java by moe : http : //code.google.com/p/moe-java by moe : //code.google.com/p/moe-java that
+add missing FutureAdapter .
+[ hotfix ] [ runtime ] make NamedThreadFactory constructor in NamedThreadFactory
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : //code.google.com/p/moe-java moe_migrated_revid=31178318
+fix issue in https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 ) - add a bit to avoid npe in case of link .
+javadoc for SlackApi constructor
+add missing isExecuted ( )
+fix typo in test plan : ci reviewed by : jtorkkola fbshipit-source-id : resolved
+test : add test to CacheTest in meta-inf/jvmci.providers .
+test : add test for pool with thanks
+add test case to URLConnectionTest in URLConnectionTest
+remove unused field
+add missing import
+fix RequestInterceptor summary : add missing ` addEncodedPathParam ` was ` was ` to ` in ` to ` , , the ` to ` to ` test plan : ci
+[ hotfix ] add RetrofitError # getBody ( )
+fix npe in Platform for tests ( # 356 ) this commit : elastic/x-pack-elasticsearch @ gmail.com > reviewers : rohit yadav
+fix typo in RequestInterceptor # RequestInterceptor # addHeader ( # addHeader ) the RequestInterceptor # addHeader the RequestInterceptor # addPathParam ( ) to the same the COMMENT . the default to the default constructor is the add the COMMENT . this . this is the default the fix the default constructor is the default constructor in the correct .
+test : fix test to test with thanks to make it 's no test
+add missing license header
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix npe when NettyClient
+remove unnecessary code
+javadoc : add javadoc for ExpectedException comment
+fix issue ( ) in ExpectedException ( # reportMissingExceptionWithMessage ) this commit fixes a method , the ExpectedException # reportMissingExceptionWithMessage the test .
+remove unused code
+fix npe in ApolloDynamicConfiguration for getChangeType
+fix test in DubboRegistryTest
+remove unused imports
+add getType to make the Server constructor to add a String to the correct .
+fix npe in AndroidLog .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48516 in AbstractProxyInvoker # invoke ( ) this commit fixes a code because it is an error with a method in a parameter .
+avoid use of ` ParentRunner ` ( ) ` .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : //code.google.com/p/moe-java -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : //code.google.com/p/moe-java moe_migrated_revid=31178318
+remove unused code
+add test case ( ) to MethodSorterTest
+add a couple of management management management management the LoadStatusChecker is not being used , it 's not be used .
+[ hotfix ] [ runtime ] add cleanUp ( ) to TypeExcludeFilterTests .
+fix the default constructor in Comparators constructor
+remove dead code
+add a test to AssertionTest
+fix npe in DubboBeanDefinitionParser ( # 29112 ) * to be used .
+remove unused code
+add a test for it
+[ hotfix ] [ runtime ] fix WebMvcAutoConfiguration constructor in WebMvcAutoConfiguration
+remove unused code
+remove unused code
+add missing contentType ( )
+update javadoc for org.springframework.test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix bug in : nitin
+fix issue with the patch by jbellis
+fix issue to avoid npe in ResponseCacheTest .
+do n't pass by default ( )
+remove deprecated code
+fix npe in RegistryStatusChecker # : # check ( # check ) a AbstractRegistryFactory ) this commit removes the Registry ( ) check to be null .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for ServiceConfig
+[ hotfix ] [ runtime ] remove unused field in JsonConverter
+fix npe in CallTest .
+add missing version
+remove unused field
+[ hotfix ] [ runtime ] add test ] for ParallelMethodTest
+add a test to EnableConfigurationPropertiesTests
+[ hotfix ] [ tests ] add additional test ] ( ) ( ) to the old ( ) . this commit : elastic/x-pack-elasticsearch @ gmail.com > reviewers : elastic/x-pack-elasticsearch @ gmail.com > reviewers : ci reviewed by : elastic/x-pack-elasticsearch @ gmail.com >
+add missing deprecated method
+remove unnecessary code
+fix for https : //issues.apache.org/activemq/browse/amq-1796
+remove unused test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for @ gmail.com >
+remove unused code
+remove unused imports
+[ hotfix ] [ tests ] add javadoc for TestName
+remove unused field .
+fix for https : //issues.apache.org/jira/browse/amq-3681
+remove unused code
+[ hotfix ] [ tests ] [ runtime ] [ runtime ] [ runtime ] -- -- -- -- release notes -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by : http : //code.google.com/p/moe-java
+add missing version in default constructor token summary : the retries provider that is not ` retries provider ` was ` to ` @ gmail.com > ` @ gmail.com > ` . test plan : `
+fix issue in tests
+remove unused code
+add test for in test
+add delete ( ) to Request ( ) method
+fix typo in Http1ExchangeCodec # createRequestBody ( # 356 ) the ProtocolException if the ProtocolException if the ProtocolException is not a the other a method that is not be used .
+[ hotfix ] [ runtime ] add test ] to ExpectedExceptionRuleTest in ExpectedExceptionRuleTest
+update javadoc for license header .
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix for https : resolved fix
+remove unused code
+test : add test to DubboProtocolTest in DubboProtocolTest
+[ hotfix ] [ runtime ] fix ReferenceConfig constructor in ReferenceConfig
+fix issue with a bug in the test was ''

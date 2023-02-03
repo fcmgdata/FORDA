@@ -1,0 +1,304 @@
+[ test ] add test to verify that the user does not exist
+test : add more debug info
+fix for : https : //issues.apache.org/activemq/browse/amq-1804
+fix RunningDocumentationTests summary : the test plan : ci reviewed by : coneko fbshipit-source-id : 7abdc8b
+[ test ] fix RunningDocumentationTests to use absolute paths in RunningDocumentationTests
+use handlerStrategiesBuilder in HttpHandlerAutoConfiguration
+update copyright year
+ignore DataMongoTestReactiveIntegrationTests
+[ test ] do n't use false as well as well
+fix for : https : //issues.apache.org/activemq/browse/amq-2385
+fix a bug in AbstractReactiveWebServerFactoryTests summary : the test plan : ci reviewed by : marcinkosiba fbshipit-source-id : f2e8f16
+fix test bug in WebFluxAnnotationAutoConfigurationTests
+add a test for bang properties
+add `` trace '' to WebRequestTraceFilter
+[ test ] add missing @ springboottest annotation to make it easier
+remove debug system.out
+remove @ order
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix a problem with master
+[ test ] add ArgumentMatcher to LocalHostWebConnectionHtmlUnitDriverTests
+[ ml ] remove unused variable in SpringApplicationBannerPrinter
+[ test ] remove deprecated method
+use EmbeddedWebServer instead of ServletContextInitializer .
+add missing space
+[ test ] fix SpyBeanWithNameOnTestFieldForMultipleExistingBeansTests # testSpying
+[ test ] fix TestEntityManagerTests
+use StandardAnnotationMetadata ( ) instead of StandardAnnotationMetadata
+improve logging of html in HtmlIdentifier
+handle Node in TikaConfig
+make AbstractTestContextBootstrapper extensible
+improve stability of AbstractTestQueries # assertQuery
+add a test case for issue 437
+[ hotfix ] [ runtime ] use correct output in TikaCLI
+remove unused import
+[ java ] [ test ] add output to suite
+correct typo in comment
+SpringExtension : use Store ( ) instead of NAMESPACE ( )
+use SingleMapBlock in MapType
+add some more tests
+use unmodifiableSet instead of ImmutableSet
+fix the test case on windows
+add more tests
+simonstewart : add the new option to the selenium server for the selenium server
+update javadoc for sqlscriptstestexecutionlistener
+add some more tests
+add missing imports
+simonstewart : making the toJson methods of the toString methods of the toString method
+use saturatedSubtract in InternalResourceGroup
+add more tests to TestCipher
+update javadoc for cache
+fix for : https : //issues.apache.org/activemq/browse/amq-2385
+[ test ] use MockRestServiceServer in SampleAsyncTests
+remove unused import
+remove debug code
+use the array of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the list of the typed .
+PojoMethodMapping uses MethodType instead of creating a MethodType
+add null check
+javadoc : add missing license header
+use EC instead of ECC in SSLHostConfigCertificate
+simonstewart : allowing the htmlunit driver to be able to run in the selenium server
+remove unused method
+add test for issue # 509
+remove useless synchronized
+fix for https : //issues.apache.org/activemq/browse/amq-2385
+do n't use byte byte for RcFileReader
+remove unused method
+danielwagnerhall : fix the error message in the error message
+deprecate hover methods in hover
+refactor TransformUncorrelatedInPredicateSubqueryToSemiJoin to use rewriteInPredicates
+remove unused variable
+increase default minDrivers for task in TaskExecutor
+danielwagnerhall : add a check for windows . fixes issue 6770
+improve error handling in PlanFragmenter
+update javadoc for @ DateTimeFormat
+polish javadoc for testtransaction
+remove unused import
+danielwagnerhall : add more info to test
+GenericTableMetaDataProvider : add more information about logging patch by jbellis
+allow to specify a custom request in DispatcherPortlet
+add test for now that the up of the default messageSource is used
+add long constructor
+remove unused code in TakesScreenshotTest
+do n't use the mappings for semi node when creating a predicate of a predicate from a node , it should not be used as the same way .
+rename minimumNumberOfTasks to minimumNumberOfDrivers
+add toString method
+danielwagnerhall : use default port instead of the default port
+update javadoc for onBackpressureBuffer
+make CharSequenceEncoder more robust .
+add start method to SqlQueryManager
+remove some javadoc comments .
+mute failing marionette marionette tests as well
+use new BlockBuilder in MapValues
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403 when using a reloading a reloading a reloading a patch provided by sheldon shao
+handle null values in end
+remove unused import
+increase default time time time time to reduce number of firehose .
+simonstewart : making the apply methods for the apply methods in the htmlunit driver
+fix linux add linux for linux with linux
+[ test ] fix AbstractSockJsIntegrationTests to not use the same way as the same way as well .
+remove redundant cast
+update javadoc for JdbcInterceptor
+remove debug system.out
+simonstewart : deleting a little more efficient displayed on behalf of this class
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47828 do n't allow filterConfig to be able to use a new filterConfig .
+server : fix npe on information in information ( gunther hagleitner via ashutosh chauhan )
+remove redundant cast in TransformCorrelatedScalarAggregationToJoin
+fix SetValueTests on windows
+fix memory leak in OperatorContext .
+refine FormatHelper # formatMethodForMessage
+URIEditor : simplify code
+simonstewart : allowing the origin of the json in the json action to make it easier to run the origin
+add a test to verify that the refresh is used with the same configuration
+MailreaderSupport : use copyProperties ( ) instead of setValues
+add test for AggregationOperator
+update javadoc for sqlscriptstestexecutionlistener
+rename getAutocompleterModel to getAutocompleter
+improve error message when topology topology metrics
+use partitionIndex ( ) method
+fix test on windows
+add missing space in WindowAssertions
+kristianrosenvold : add a little more information to the error message on the server
+add a test case for issue # 509
+add test to BeanFactoryGenericsTests
+douniaberrada : fix the logging of the logging message on the server
+remove unused imports from AnnotatedConfigClassesWithoutAtConfigurationTests
+simonstewart : allowing the selected to be able to be able to set in the selected selected
+simonstewart : updating the ie driver in the selenium server from the selenium server
+add more tests to TestUtf8Extended
+simonstewart : add the missing space to the docs . fixes issue 6770
+add support for `` detector ''
+fix for : https : //issues.apache.org/jira/browse/amq-3887
+simonstewart : add a todo to the screenshot comment to be able to make it easier to release notes -- release notes -- -- [ ] -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=91343420
+fix the cipher test .
+simonstewart : add a new method to add a asList copyOf method to add a new method to add a new method to add a asList method to add a new method to add a new method to add a method to add a new method to add a new method to the number of list of the number of actions . r18135
+more javadoc for Observable # dereference
+[ hotfix ] [ tests ] remove unused method in TestLimitLatch
+prevent npe in GeometryType
+remove unused method
+[ scene2d ] add done to OperatorOnErrorReturn
+use setMaxTaskParallelism instead of HashMap
+remove unused code
+[ ml ] [ rest ] fix AbstractErrors # isMatchingFieldError
+add boolean flag in ExpressionUtil
+fix for https : //issues.apache.org/activemq/browse/amq-2385
+2.x : improve javadoc for Observable ( # 6137 )
+add test for next and previous
+danielwagnerhall : add missing teardown ( ) to make it easier
+add support for attributes to DynamicAttributesHandler
+remove unused method .
+add groupingKeys ( ) method
+increase the timeout for the batch output
+remove some javadoc comments .
+add a test for generics
+remove deprecated code
+[ hotfix ] [ tests ] remove unused imports
+fix compilation error in AbstractTestDistributedQueries
+ignoring a test to run by default
+DefaultSubscriptionRegistry : use debug instead of Object .
+simonstewart : allowing the htmlunit driver to be able to be able to be able to run them in the selenium emulation , but it 's possible to be able to be able to be able to be able to be able to run . reviewers : randall hauch < wangguoz @ gmail.com >
+refactor to simplify code
+fix file descriptor leak in ZeroSizeFileDetector
+add missing null check
+use the WebSocketClient instead of a AbstractWebSocketClient .
+add missing @ since tag
+danielwagnerhall : add null check for null check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47828 do n't factory .
+simonstewart : add the ability to use the default value of the server in the server
+add comment to Property constructor
+topology cluster local var
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] remove the tick tuple ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ elasticsearch ] [
+add a check to avoid npe
+update javadoc for WebMvcConfigurer
+add @ functionalinterface to GroovyBeanDefinitionSource ( )
+[ test ] fix CentralDirectoryParserTests to not use a MockCentralDirectoryVisitor instead of a MockCentralDirectoryVisitor instead of just use it .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42390 use connectionFactory ( ) to return value
+avoid npe .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42390 when add exportedServices .
+update copyright year
+update javadoc for sqlscriptstestexecutionlistener
+[ test ] fix RestTemplateBuilderTests to use InOrder instead of InOrder
+[ hotfix ] [ tests ] fix AssumingInTheoriesTest # noTheoryAnnotationMeansAssumeShouldIgnore
+[ test ] fix AbstractReactiveWebServerFactoryTests to not use a ArrayBlockingQueue instead of MonoProcessor
+use accessLogDirectory instead of createWorker
+update javadoc for OkHttpClient
+[ hotfix ] [ network ] remove redundant cast in ConfigValidationUtils
+remove unnecessary boxing
+remove unnecessary boxing
+improve error message in error message
+fix for : https : //issues.apache.org/activemq/browse/amq-2385
+fix bug in OkHttpCall ( ) . the http : //code.google.com/p/guava-libraries/issues/detail < sudison @ gmail.com >
+fix npe in RealWebSocket when no socket is used . motivation : we should use the closeQuietly in RealWebSocket when it 's possible . modifications : use null . result : no more leaks .
+update javadoc for Converter
+add optimizedLaunch property to RunMojo
+add @ nullable annotations to Utils . -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=31182172
+add nullable annotations to RequestFactory .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403 when a web application is not found by a user
+[ hotfix ] [ network ] add default containsDescendantOf to ConfigurationPropertySource
+[ test ] add more logging to StartupInfoLogger
+remove logging from AbstractLoggingSystemTests
+[ hotfix ] [ tests ] use @ beforeeach annotation in OsgiTest
+add missing license header
+[ hotfix ] [ runtime ] [ auto ] [ auto ] [ auto ] [ runtime ] add CouchbaseDataAutoConfiguration to auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto cassandra from auto jest
+update copyright year
+minor refactoring .
+add default ctor to JobLauncherCommandLineRunner
+[ hotfix ] [ network ] add proxyBeanMethods to JdbcRepositoriesAutoConfiguration # proxyBeanMethods
+[ test ] add a test to verify that the loader is used on the file of the class resolve thread .
+add support for setting static initializers to EndpointWebMvcAutoConfiguration
+make FilteredClassPathRunner more robust .
+use StandardContext in TomcatGracefulShutdown
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403 when using handler in Handler
+camel-aws ec2 - use regions.valueof in the auto auto jpa
+add more logging to ImageBanner
+use ApplicationEnvironmentPreparedEvent instead of ApplicationStartedEvent in ClasspathLoggingApplicationListener
+[ test ] fix EndpointWebMvcAutoConfigurationTests
+fix bug on registration of registration adapter in tests
+add @ deprecated annotation
+use Collections in DynamicConfiguration
+update javadoc for FutureAdapter
+rename mDaemo to mDaemon .
+use a new one in Main when using a new one
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38197 fix a bug where the thread pool was n't used to be used .
+fix typo in comment .
+add isExecuted method to Call
+use MockResponse # enqueue in CallTest
+fix for : https : //issues.apache.org/activemq/browse/amq-2385
+add a test case for issue 437
+add test for redirect to verify that the gzip does not work .
+increase default timeout to reduce flakiness
+add missing import
+correct typo in RequestInterceptor javadoc
+fix a typo in getBody ( ) javadoc .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=50228 do n't need a ignored to return an exception .
+update javadoc for RequestInterceptor
+add a test case for issue # 333
+minor : fix typo in javadoc author : ismael juma < ismael @ juma.me.uk > reviewers : ismael juma < ismael @ juma.me.uk > closes # ismael juma from praveend/poll_doc_changes
+better error message for netty error message
+simplify RpcUtils # getInterface ( )
+improve ExpectedException javadoc
+improve error messages for exception handling
+remove unused code
+ApolloDynamicConfiguration : use key instead of ConfigChangeEvent in ApolloDynamicConfiguration summary : instead of ` ApolloDynamicConfiguration ` uses the ` ConfigChangeEvent ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : ed1869a
+[ hotfix ] [ tests ] rename DubboRegistryTest to getRegisteredSize
+[ test ] remove @ disabled in ZookeeperMetadataReportTest
+add getType ( ) method
+add a little more logging
+remove unnecessary boxing
+[ test ] make ParentRunner implement boolean
+[ tests ] remove @ suppresswarnings in RestAdapterTest
+[ hotfix ] [ tests ] [ tests ] fix MethodSorterTest
+add test case for issue # 4470
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403 when load a method is not found
+[ test ] add null checks to TypeExcludeFilterTests
+update javadoc for Comparators
+remove redundant null check
+add new test for true ( ) method
+add support for `` ONINVOKE '' and `` ONINVOKE ''
+remove @ parameter from ConfigCenterConfig this commit removes the ` ConfigCenterConfig ` from the ` key ` method from the ` key ` method from the ` key ` key ` . the ` was n't used by using the ` key ` method from the ` key ` method , so that it was n't used in the same as it , so it . issue by add the ` ConfigCenterConfig ` method .
+add some methods to MetadataReport
+simonstewart : updating the docs for the auto auto mvc auto handlers
+rename test ( ) to testComparisonErrorWithActualNull ( )
+use encodeString ( Charset ) to encodeString
+update javadoc for RequestBody # contentType
+update javadoc for Call
+use tlsVersions ( ) instead of tlsVersions ( )
+use printStackTrace instead of RuntimeException
+use HttpDate in ResponseCacheTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) should not build ( ) in localhost method
+remove deprecated method
+use registries # check method in RegistryStatusChecker
+remove unnecessary null check
+ServiceConfig : use next ( ) instead of iterator
+json : fix the bug in JsonConverter to use the default values as well .
+[ test ] use correct call in CallTest
+update version to help
+fix Stopwatch to use endNanos for Stopwatch . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=114967372
+[ java ] [ tests ] make ParallelMethodTest # two
+[ test ] add test for register in EnableConfigurationPropertiesTests
+mute testJarClassLoading ( ) ( ) ( # 38684 )
+deprecate Assert # assertThat ( String ) as deprecated methods .
+[ hotfix ] [ network ] [ network ] [ network ] [ rest ] [ runtime ] [ network ] [ network ] [ network ] [ network ] [ runtime ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ network ] [ error ] [ ]
+improve error message when the exception is not found
+remove unused null
+Utils : use toString ( ) for toString
+[ hotfix ] [ tests ] fix UnsuccessfulWithDataPointFields # dataPointsMustBePublic
+[ hotfix ] [ tests ] fix unit tests
+make TestName volatile ( volatile ) public
+fix javadoc for RequestInterceptor
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset .
+use ArrayList in RouterChain
+fix compilation error in ConsulRegistry
+add some javadoc
+[ hotfix ] [ tests ] mute AccessLogFilterTest # testCustom
+remove unnecessary code
+add test for issue # 509
+add delete method to Request
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55570 change correct exception message in exception message
+fix a bug in ExpectedExceptionRuleTest
+update javadoc for sqlscriptstestexecutionlistener
+remove todo .
+remove unused parameter
+remove unused field in ProjectInfoAutoConfiguration
+add after to DubboProtocolTest
+use prefix instead of prifix
+use ArrayList in DubboProtocol

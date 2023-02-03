@@ -1,0 +1,304 @@
+add test for placeholder test
+add a test to make sure the test that are not be used in a bit
+[ hotfix ] [ runtime ] [ tests ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ javac ] [ runtime ] [ javac ] [ runtime ] [ runtime ] ] [ javac ] [ javac ] [ runtime ] [ javac ] [ runtime ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [
+remove unnecessary cast
+tests : fix bootRunSourceResources in RunningDocumentationTests summary : there 's no need to be used in the tests . test plan : ci reviewed by : coneko fbshipit-source-id : fabe4e7
+remove unused code in HttpHandlerAutoConfiguration
+update javadoc for comment
+remove unused DataMongoTestReactiveIntegrationTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in ConfigFileApplicationListenerTests
+fix a bug in the version of the tests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in AbstractReactiveWebServerFactoryTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in WebFluxAnnotationAutoConfigurationTests
+add test case for tests
+remove unnecessary code
+[ hotfix ] [ tests ] [ tests ] [ test ] test ] -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=41527580
+remove unused code
+remove unused imports
+make SpringBootVersion constructor
+[ hotfix ] [ tests ] [ tests ] [ tests ] test ] -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=33141201
+remove unused code
+remove unused code
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=41591180
+fix typo in HalBrowserMvcEndpoint
+remove unnecessary cast
+[ hotfix ] [ runtime ] remove unused TestEntityManagerTests # getIdForTypeWhenTypeIsWrongShouldThrowException ( )
+remove unused code
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] add ] add ] ( )
+TikaConfig : fix TikaConfig ( ) ( ) ( ) should be used in the TikaConfig ( )
+[ hotfix ] [ tests ] add resolveContextLoader to AbstractTestContextBootstrapper
+[ hotfix ] [ tests ] fix AbstractTestQueries
+test : add test to test case of the test case of the test that are not being used in the test ( ) and the test that the same thing that are not be used in the test that are not being used in
+fix a bug in TikaCLI
+remove unused import
+[ test ] add test to test
+update javadoc for JpaTransactionManager # COMMENT
+remove unused code
+fix a bug in MapType
+add TestCipher constructor
+Analysis : use addTypes ( )
+add more test case for TestVarbinaryFunctions
+add a test case for ApplicationContextExpressionTests
+add missing initServer ( )
+add missing license header
+[ test ] fix test to use the test as well as well as well as the test is not need to be found .
+fix cs for camel-couchdb
+remove unnecessary method
+remove unnecessary cast
+[ test ] [ tests ] add tests for TestCipher
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in ArrayIntersectFunction
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ runtime ] [ javac ] [ javac ] [ javac ] [ runtime ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ runtime ] [ javac ] [ runtime ] [ javac ] [ javac ]
+remove unused imports
+remove unused code
+make TypedSet more robust to use instanceSize in TypedSet
+make PojoMethodMapping more robust .
+fix a typo in PageSinkManager # providerFor ( )
+add javadoc to PDFParser
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in SSLHostConfigCertificate
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in case of chrome patch provided by jbellis
+remove unused method
+add a test to make it easier to make sure that we have been created the test case of the test .
+remove unused code
+avoid npe in SqlQueryManager
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix typo in RcFileReader
+remove unused method
+improve error message for couldNotFindAnyInstallationMessage
+add deprecated method .
+remove unused code
+remove unused field
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ javac ] [ runtime ] [ runtime ] [ javac ] [ runtime ] [ javac ] [ runtime ] [ javac ] [ javac ] [
+[ hotfix ] [ runtime ] add PlanFragmenter # setDistribution for PlanFragmenter
+javadoc : add javadoc for DATE interface .
+update javadoc for COMMENT
+remove unused code
+fix test on windows
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 - GenericTableMetaDataProvider
+DispatcherPortlet : add DispatcherPortlet # doRender
+fix test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue # setUp
+[ hotfix ] [ runtime ] add getSizeInBytes in PageBuilderStatus
+remove unused code
+avoid npe in TransformUncorrelatedInPredicateSubqueryToSemiJoin
+remove unused code
+add missing convertFromPngBytes ( )
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] remove unused field ]
+add javadoc to Observable
+make CharSequenceEncoder more robust .
+add start to SqlQueryManager
+remove unused code
+mute testShouldHandleAlertOnPageLoadUsingGet ( )
+remove unnecessary boxing
+avoid npe in ReloadingClassLoader
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in ElseIf
+remove unused imports
+make TesterFirehoseServer constructor
+avoid npe in apply ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in shouldPickMostSpecificOperatingSystem patch provided by jbellis
+remove unnecessary cast
+remove unnecessary cast
+update javadoc for JdbcInterceptor
+remove unused code
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix javadoc for FilterDispatcher
+avoid npe in getAdditionalInformation ( )
+remove unused code
+[ test ] fix test to use the test for SetValueTests # SetValueTests
+add freeMemory check for the memory free
+FormatHelper : fix FormatHelper if FormatHelper is not use the List ( )
+URIEditor : fix bug in URIEditor
+[ hotfix ] [ runtime ] fix encodesWrappedElementInMoveOrigin in encodesWrappedElementInMoveOrigin
+add test case for HttpInvokerFactoryBeanIntegrationTests
+remove unused code
+test : add test to TestQueries
+update javadoc for comment
+remove unnecessary method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi in TopologyContext patch provided by jbellis
+remove unnecessary cast
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in TestCustomSsl
+remove unnecessary code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in case
+add test case for TestLogicalPlanner
+add test for generics
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix a bug in case of the safari on the safari on the safari , so we do n't have the same the same the same as the safari , so that is not be a the safari .
+remove unused imports
+add setSelected ( ) to isSelected ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in configureConnectors ( ) ( ) ( ) method ( cherry picked from commit f7a17ad )
+add more test for cases
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in handle patch provided by jbellis
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 tests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in PolymorphicScalarFunction
+add javadoc for getScreenshotAs
+add some more test case of the TestCipher .
+add missing getNumberOfActions method
+add javadoc to javadoc .
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in GeometryType
+remove unused code
+[ hotfix ] [ runtime ] add OperatorOnErrorReturn # call
+remove unused method
+remove unused code
+remove unnecessary code
+add ExpressionUtil methods
+TilesResult : fix TilesResult # doExecute ( ) motivation : we do n't rely on the TilesResult # doExecute . modifications : TilesResult # doExecute . modifications : - remove the TilesResult # doExecute ( ) . modifications : - fix the TilesResult # doExecute . result : - fix ( ) at doExecute ( ) .
+add javadoc to javadoc .
+add a test case that is used to the codes .
+fix test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54011 fix the test case of the test
+add support to DynamicAttributesHandler
+remove unused imports
+add some methods to Patterns
+[ hotfix ] [ tests ] [ tests ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] [ runtime ] [ runtime ] fix ] [ runtime ] fix ] fix ] fix ] [ runtime ] [ runtime ] [ runtime ] [ javac ] [ javac ] [ runtime ] [ runtime ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ] [ javac ]
+remove unused code
+add a test to ResolvableTypeTests
+remove unused code
+remove unused imports .
+remove unnecessary cast
+add a test for the test
+[ hotfix ] [ runtime ] fix DefaultSubscriptionRegistry in DefaultSubscriptionRegistry
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug on windows patch provided by jbellis
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix for TransactionAspectSupport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in ZeroSizeFileDetector
+make AnnotationMetadataReadingVisitor more robust ( )
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] -- release notes -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=99631857
+add javadoc .
+add null check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in BeanSelectionProvider
+remove unused code
+[ hotfix ] [ runtime ] add missing COMMENT constructor
+LocalCluster : add TOPOLOGY_MIN_REPLICATION_COUNT to LocalCluster
+remove unused code
+fix a bug in BasicDRPCTopology
+update javadoc for extendMessageConverters
+make GroovyBeanDefinitionSource definition of BeanDefinitionLoader .
+add a test case to make sure the test case of the test case of the test case .
+remove unnecessary method
+remove unnecessary cast
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in DubboBootstrap
+update javadoc for comment
+update javadoc for comment
+[ hotfix ] [ tests ] [ tests ] [ tests ] test ] -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=99631857
+remove unused code
+remove unused code in AbstractReactiveWebServerFactoryTests
+remove unnecessary code
+update javadoc for OkHttpClient
+remove unused code
+remove unnecessary cast
+remove unused code
+fix a bug in TokenFilter
+make MethodSorterTest more robust ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in OkHttpCall
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 fix npe when using RealWebSocket
+update javadoc for convert
+add parameter to RunMojo
+make Utils constructor
+make RequestFactory constructor
+allow to be used by default to be able to be used in the user
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix javadoc
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java : //code.google.com/p/moe-java : http : //code.google.com/p/moe-java : //code.google.com/p/moe-java : //code.google.com/p/moe-java moe : //code.google.com/p/moe-java : //code.google.com/p/moe-java moe : //code.google.com/p/moe-java moe_migrated_revid=29790005
+remove unused code
+make OsgiTest more robust
+add missing license header
+[ hotfix ] [ runtime ] [ runtime ] [ cassandra ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] fix ]
+update javadoc for comment
+remove unnecessary cast
+make JobLauncherCommandLineRunner more robust .
+fix JdbcRepositoriesAutoConfiguration # @ false : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 for the JdbcRepositoriesAutoConfiguration # @ boot
+add a test case for https : test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in EndpointWebMvcAutoConfiguration
+make FilteredClassPathRunner more robust ( )
+remove unused code
+make Handler more robust to be more precise
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug on windows
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in ImageBanner
+[ hotfix ] [ runtime ] add if methods in ClasspathLoggingApplicationListener
+[ hotfix ] [ runtime ] [ test ] [ test ] [ test ] [ runtime ] [ runtime ] [ runtime ] fix ]
+remove debug output
+add @ deprecated method
+remove unused code
+add missing javadoc .
+remove unused field
+make Main more robust .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in Crawler
+update javadoc for SlackApi
+add isExecuted to Call
+remove unnecessary cast
+add test for vary
+add test for interceptors test
+add test case for header
+[ hotfix ] [ tests ] [ tests ] [ test ] -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=26197988
+add missing import
+update javadoc for RequestInterceptor
+add javadoc to RetrofitError
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in Platform
+update javadoc for addHeader
+add a test case for the test case
+update javadoc for setAuthenticator
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix typo in NettyClient
+RpcUtils : use getInvoker ( ) instead of invokerInterface ( )
+update javadoc for ExpectedException
+remove unnecessary cast
+remove unused code
+do n't use the key in ApolloDynamicConfiguration
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=31082777
+remove unused code
+add getType ( ) method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in AndroidLog
+remove unused code
+do n't use statement in ParentRunner
+[ hotfix ] [ tests ] [ tests ] [ tests ] RestAdapterTest -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=33141201
+remove unused code
+add a test case
+add a check for the cpu
+make TypeExcludeFilterTests more robust .
+update javadoc for Comparators
+remove unnecessary code
+add a test case for the test
+remove unnecessary cast
+remove unused method
+add exported to MetadataReport
+fix a typo in WebMvcAutoConfiguration
+fix AssertTest # testComparisonErrorWithNullArgument ( # testComparisonErrorWithNullArgument ) the AssertTest # testComparisonErrorWithNullArgument . the AssertTest # testComparisonErrorWithNullArgument .
+remove unused code
+update javadoc for RequestBody
+update javadoc for Call .
+remove unnecessary cast
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in MockSpdyPeer
+remove unnecessary cast
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in SslContextBuilder
+remove unused method
+remove unnecessary code
+remove unnecessary null check
+remove unnecessary boxing
+minor : remove duplicated code from JsonConverter
+fix test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in CallTest
+add missing main method
+remove unused field
+remove unused code
+add test case to EnableConfigurationPropertiesTests
+mute testJarClassLoading ( )
+deprecate Assert .
+make getParts ( ) more robust .
+remove unnecessary boxing
+remove unused code
+remove unnecessary cast
+[ hotfix ] [ tests ] remove unused field in UnsuccessfulWithDataPointFields
+remove unused method
+[ hotfix ] [ tests ] make TestName # starting
+update javadoc for RequestInterceptor
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in DubboCodec
+remove unused imports
+make ConsulRegistry # convert ( ) motivation : we can be used in the consul ( ) method to be used in ConsulRegistry ( ) . modifications : ConsulRegistry # convert ( ) method to be used in ConsulRegistry ( ) . modifications : make it 's not be able ( )
+add some more version to interfaceName
+remove unused test
+remove unused code
+add test for test
+add delete to Request
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix typo in Http1ExchangeCodec # createRequestBody
+remove unnecessary ExpectedExceptionClause
+add missing license header
+remove unused imports
+remove unused field
+remove unused imports
+[ test ] add test to DubboProtocolTest
+make ReferenceConfig more robust ( )
+remove unused imports

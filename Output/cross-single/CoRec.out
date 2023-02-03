@@ -1,0 +1,304 @@
+Get the RepositoryFactoryTest threshold on to take effect.
+Remove unused methods from PluginManager
+[TEST] Mute <unk> Relates #32034
+DanielWagnerHall: Removing redundant import <unk>
+allow special <unk> in stronger super console
+fixed compile error after ScriptType after merge
+Add IntegerList.addAll overload for Collection<Integer>, add contains, <unk> hashCode, equals, toString.
+Only ever test so that the test is ever <unk>
+Java Tika interface uses javascript factory method
+[hotfix][tests] Remove toString field in UnlimitedRawBatchBuffer Signed-off-by: Jacques Nadeau <jacques@apache.org>
+Added setting in tasks to increase default size of completion
+Validate in millis
+bug 6991: add <unk> to response status 6991: resolved fixed
+Fix <unk> test case
+Standardise on HTTPConstants, not the file
+make EXTRACT Parsing an invalid field in EXTRACT Parsing an invalid field in EXTRACT Parsing an invalid field in EXTRACT such loops.
+Remove reference description
+Fixed compilation problem with <unk>
+Add a test for not found constant
+Rename to allow to apply to notify with.
+Catch all the transport client in the transport client
+Set compiled methods in the default package (resolves antlr/antlr4#94)
+removed illegal use of Debug.handle()
+Improved number of tests for the number of resources
+Deprecate <unk> in CallsiteHolder constructor, part 1
+Do not wait till the components are configurable in the list of threads created by default)
+Truffle: fix for eu-west-2 issue
+[java] Deleting deprecated methods
+Added missing space to log file
+fixed error message for <unk>
+added <unk> method to csv file
+Only add the connection on the command line
+Removed debug fix
+Fixed CS for Camel-test
+No need to repeat lefover...
+Fix a possible cast exception in Javadoc.
+Update gdx-ai version to 1.8.0
+First pass at updating unmapped list for Oracle
+Add @Beta to old interface changes in GWT Reflection Cache
+[added] Vector2.rotate()
+remains final when it is not JDK
+[TEST] Reduce visibility of internal indices cluster service
+Need to have access IOException from internal packages
+Addressed review comments
+Added disabled integer properties in the default flow
+merge from 0.7
+remove useless synchronized
+add more debug info to PropertyNode#setClosureSharedVariable
+Further <unk> Relates to KeySpec... ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126025605
+Optimize array_intersect using PageBuilder
+Remove unused constructor
+modify automatic constructor for <unk> events
+Remove duplicate log message
+TraceRA: remove redundant assignment
+add <unk> to HttpRequest
+fix for https://issues.apache.org/activemq/browse/AMQ-1803
+Publish <unk> on postgresql
+Changes the default separator to the selector handler
+change default level of clustersToindexes to protected to enable subclasses access to it
+Removed @deprecation (cherry picked from commit e8f8e0e3f23732559a2664b3b9573be8ef76f479) Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+MINOR: fix typos in common code Author: Tomasz Nurkiewicz <nurkiewicz@gmail.com> Reviewers: Guozhang Wang Closes #3522 from dicej/trunk
+add more javadoc.
+Use factor function for TraceBytecodeParser
+disable XS event
+Remove unused code
+Correct ES inlining
+Fix Tests that fail on windows. Fixes #764
+CA-1555 : 'getRegisteredServiceJwtSigningSecret' method is supposed to return longer than comma. This reverts commit d98c79e9be2ff038a4cfc2def20d04e7237d3991.
+Adding check for why Adding tests
+removed wait timeout for AddExchanges to TableLayoutRewriter
+Add methods to <unk>
+Specify the destroyed flag for a better message.
+added toString() method
+skip method used for wrong, only the properties should be SkipForDialect, but RequiresDialect used
+Remove unused Jersey annotations.
+Rectangle, add new methods
+clarify the proper error message for invalid parameters
+Test: mute test
+Better assertion message for DynamicRecords
+[hotfix][tests] Remove unused methods in MetadataDao
+Fixed CS for camel-dropbox
+Reuse than already assigned buffer. This patch by jbellis; reviewed by dbrosius for cassandra-7253
+Use serialization count for unit test
+Fix for https://issues.apache.org/activemq/browse/AMQ-2533
+Unignoring a test in standard expression
+Fixed the build to not use lost <unk>
+Fix for http://issues.apache.org/activemq/browse/AMQ-659
+Remove broken assertion in TestShardManagerDao
+Added a new scope
+Protect against a NPE
+Added null check to findNodeSuchThat
+Increase a sleep time to check if a call to /_cache/clear?id_cache=true
+More useful performance for <unk>
+Truffle-DSL: removed unused import <unk>
+Update tests to use immersive mode
+Implement EquiJoinClause.toString()
+Link to https://github.com/google/guava/wiki/Why-we-deprecated-Throwables.propagate ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=93648231
+Improve performance of generateKey Only compute the error message to return if the values are equal. with the same type as well.
+refactor from <unk>
+initialize the same class in the TCK method
+Remove unused imports
+Remove debug call
+removed usage of <unk>
+Fix issue 449
+GROOVY-2105 make category counter style to avoid multithreading problems
+Fixed object cache issue in procedures list
+keep sure as ready is ready to be loaded.
+r/m unused method from <unk>
+still rename the buffer before sending it to the FsDataInputStream.
+Add better cross-browser support for the <unk> header in PropertyContainerLocker
+Make QueryTemplate#replaceAll(List<Parameter>...) return a Stream
+Add support for INTEGER session properties
+Add check for null profile limit
+Fixed test for embedded
+WW-1764 Rename fremarker tag model "comboBox" to "combobox"
+Fix regression on Redirect Handling
+Pass log level on debug message
+db.indexes <unk>
+Fixed an issue in the console for compiled tests
+Bug 60112 - Report / Dashboard : Add ability to customize APDEX thresholds per Transaction name Move file Bugzilla Id: 54259
+Make VertexAttributes comparable, for plugins creation
+Fix the <unk> test case
+Make test methods as Serializable
+Add additional sub methods
+Add more filenames
+Revert AnimatedTiledMapTile.updateAnimationBaseTime(); into <unk>
+let user start / enable split on <unk>
+Copy the list directly in the configuration
+Regression for TM processes to parse the file names.
+Add support for REPARTITION and REPLICATE
+Clarify <unk> of inlinable call sites
+truncate default sstables truncate thread
+Fix a null check in groovy task task uses a no-op function
+More useful error message in DefaultFileSystemWatcher.
+Fix for compilation issues in <unk>
+Add disabled imports
+Fix timeout of CommentsIndentationCheck, issue #333
+Simplify TraceDataHandlerTest Summary: I'm modifying TracesHelper and found in the order of '*' in the <unk> we might need to include the target types in the entitlements. Test Plan: Ran upcoming integration test Reviewed By: dinhviethoa fbshipit-source-id: d1386e4
+Fixing a build failure
+Fix for Bolt server in CC
+remove extended self limit to ConcurrentHashMultiset.removeExactly. Pull request from Alberto Goffi <alberto.goffi@usi.ch>: factory)
+change description to sysout
+ninja fix to use filename and null values
+2.x: Add marbles for Observable (12/06) (#5755)
+Add missing annotation
+clarify the javadoc in Stevo
+Add performance test for HAVING without GROUP BY
+Removed unused import in <unk>
+Add toString() to DiscreteDomains ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=39793649
+Selection between original
+Prevent potential NPE
+Add the missing newline at the dependencies
+Deleting empty static methods deprecated
+Working on cypher tests updated
+Fixed CS for Camel-test
+small tweak to the test error
+Remove unused import
+Revert forgot to add some logging
+Revert "Let ProtobufEncoder extend CheckedConsumer<RestChannel, Exception>
+More JavaDoc for ChannelEvent
+[Test] Fix false positives on CHECK DATABASE
+Remove the callAllGets 'feature' of CombinedFuture. This should only be necessary for buggy future implementation.
+Bug containingPhrase fix of Calls to llvm Intrinsics
+Fix a method resize in case of SQL function
+Fixed the issue notifications with comma per parameter
+wait till the index gets removed
+Tests: Add random in random place
+Remove extra <unk> header
+also support _percolate for bulk item requests
+Bump for free cluster buffer
+Remove unused parameter
+Cleanup fix
+Guard timeout in <unk>
+Allow to add a buffer to set to null Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Add more test for prove Firefox passes
+TraceRA: use BouncyCastle). Added the locale here
+Add a space
+Add JavaDoc for javadoc.
+Mute failing test Tracking #38100
+Be more efficient in case why build fails
+Fix for NPE caused by commit b20add810e5751f53946f695b6223a8016f104a5.
+Shuffling from internal change. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=85333830
+Improve <unk> add the return value of the <unk> class.
+HIVE-20098 : Statistics: NPE when decreasing the overcommit to SimpleClientHttpRequestFactory (SPR-8614)
+Make G1 implement CheckedConsumer<RestChannel, Exception>
+Construct a byte array for ISO-8859-1 encoded
+Improve entity parameters in TraceBuilderResult.
+removed the System.out.println
+Remove sessions suppression
+GlyphLayout uses fontColor e.g. modification in spring-test
+Add javadocs for PageSwapperFactory.streamFilesRecursive
+Make fields private
+Supplemental update to CASSANDRA-13234 - more accurately checking submission
+Update inline javadoc for 'LLVMGlobal.Managed'.
+Clean up formatting issues
+Rename methods to get handled by EMC
+Added test for executeScript that returns recursive structures
+fix for 0.8
+Add a test that looks like a lot of files on windows.
+Fix NPE on show (encode UUIDs)
+Add filtering aliases to proxies
+Add IntegerList.addAll overload for Collection<Integer>, add contains, <unk> hashCode, equals, toString.
+file is not found in the DB
+Use bug in <unk> instead of always deopting
+Remove call to deprecated method
+Add more -> <unk>
+Fix compile issue with `{@link}` to method that no longer exists. Test Plan: ant dx-tests
+Added throws clause to <unk>
+More useful error message in DefaultFileSystemWatcher.
+merge <unk>
+Minor: improved error message for fields
+Remove unnecessary code
+Adjust bwc for JDBC consumer version check Issue: SPR-13973
+Cleans up imports
+Apply patch for https://issues.apache.org/activemq/browse/AMQ-1620
+Remove some unused code
+added test class for issue #1373 * aggregate implementations do not seem to change in the test class
+add '@' to a new interface.
+Remove useless duplication
+added <unk> method
+JasonLeyba: Make executeAsyncScript independent headers for <unk>
+Bug 53480 - Add Kerberos support to Http Sampler (HttpClient4) Fix a warning Bugzilla Id: 62540
+Minor: improved message
+Fix up some concurrent changes in Nexmark too
+Added test case for bug 60013
+Fix for https://issues.apache.org/activemq/browse/AMQ-1796
+Fixing test case
+SimonStewart: Adding some additional tests to the htmlunit driver <unk>
+removed unused imports
+Add support for INTEGER JMX properties
+Fix the NPE
+Include SQL key in exception message
+https://issues.apache.org/jira/browse/AMQ-6182 Adding two methods to HttpTunnleingClientSocketChannel methods
+Better logging of shard requests in case of high <unk>
+better documentation on session update
+added a method that allows for a closure from different store to the closure
+Fix for https://issues.apache.org/jira/browse/AMQ-4638
+Add misleading warning message for the unsafe element type
+Remove unused code.
+add better javadoc for Image return type desc
+wait for yellow before we wait for the serverConnectedChannel to be initialized before recovering a logging
+Remove code duplication in JobGraphGeneratorTest
+Fix non compile error in HotSpotTruffleRuntime.
+Document how again test again
+Remove volatile two volatile variables
+Use special implicit null check check for null values. Use Validate.validState for state checking.
+facets can be used in build
+Add TrustedInterface to list of tests for debugging
+MagicNumberCheck updated to follow Cyclomatic Complexity rule. #954
+Unignoring a test
+AlexeiBarantsev: Fixing issue on <unk> <unk>
+Improved class definition in tests
+GROOVY-8295: Groovyc ant task can overflow Windows command line if it's needed.
+[scene2d] Added Fixed#toString.
+Go back to avoiding AssertionError(String, Throwable), which isn't available in backward compatibility
+Add some more class handling in features
+Prevent NPE on no client
+updates the version example
+Attach Attach rows to better <unk>
+Reduce the fix for using objects
+speed up test
+[ML] Decrease visibility of public method It was accidentally minor change to usage of cluster-state into the data meta data location.
+More <unk> method in FileManager#isReloadConfigs() method
+Fix https://issues.apache.org/bugzilla/show_bug.cgi?id=56039 Enable JmxRemoteLifecycleListener to work with SSL. Patch by esengstrom.
+Fixed CS for Camel-Core
+Follow up on S3 AbortedException
+Follow up on <unk> - Add a method that addopts children and counts slots
+Remove unused field
+<unk> remove unused call.
+csv file (don't allow a INFO argument description
+Log IndexShard.refresh logs under full exit log
+Remove <unk> and <unk> in PortablePipelineOptions is dead code.
+Simplify keyspace calculation Summary: There is a lot of small performance improvement in the htmlunit diff. Reviewed By: styurin fbshipit-source-id: 7df039f
+Calculate length of leftBoundary only once
+Consistent disable test for remove class switch
+MINOR: remove unnecessary call to CoordinatorEventListener.onThriftServerStarted. Summary: [stampede] Ignore another plugin that does not trigger it. Test Plan: CI Reviewed By: jtorkkola fbshipit-source-id: 3a4e852
+Polish Javadoc for `StaticTypesLambdaWriter`
+Include all hits in the search log message This commit changes the log level on the REST tests.
+Note that it's possible for null values in a weak field.
+Fix select tag by replacing Validate.notNull return type of execute(..) method
+[feature] compatibility build. Thanks to charset for the file name <unk>
+Removing TODO about Buildable from <unk> Methods in helpers.Format.
+Revert "Add oauth options to allow find out of file generation.
+Fixup fix from ODiskCache class was partially missed in recent BP marks
+Under Java 8, use Math.nextDown instead of FpUtils.nextDown. FpUtils is going away in the sub class.
+Update server/src/main/java/com/orientechnologies/orient/server/task/OAbstractRecordDistributedTask.java java.util.IllegalFormatConversionException: Complexity rule. #954
+Debugger: remove unneeded label in test method
+Add missing import statement.
+Use a static constructor to override it.
+Added a test for standard #35365
+Improve documentation of SettingsLoaderFactory
+replace constants with AtomicLong
+Revert statically initialize the <unk> This reverts commit d98c79e9be2ff038a4cfc2def20d04e7237d3991.
+Issue #7679, <unk> is enabled.
+Add missing license header
+fix for: https://issues.apache.org/jira/browse/AMQ-4435
+Ignores test failure on a build failure Relates to #37681
+DouniaBerrada: Removing deprecated method in RequireThisCheck
+Extract WebMvcConfigurerAdapter from computeIfAbsent
+Fixing a NPE
+Ensure both offset and 0 in 0
+Remove unused import
+Avoid possible NPE in CompositeParser.
+Remove unused field.

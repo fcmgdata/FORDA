@@ -1,0 +1,304 @@
+add test for issue : spr-13888
+add a test case for now
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in PropertySourcesPropertyValues
+remove debug output from bootRunSourceResources ( ) summary : the tests were n't needed , but not the tests . test plan : ci reviewed by : coneko fbshipit-source-id : c6f15fe
+fix project tests on windows summary : this was failing to use the tests for the tests . test plan : ci reviewed by : coneko fbshipit-source-id : fabe4e7
+[ hotfix ] [ runtime ] remove unused method in HttpHandlerAutoConfiguration
+add missing copyright header
+remove unused import
+tests : fix npe in ConfigFileApplicationListenerTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in LocalHostWebConnectionHtmlUnitDriverTests patch provided by dbrosius reviewed by jbellis for cassandra-382
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset to avoid npe in AbstractReactiveWebServerFactoryTests patch provided by jeremy hanna
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset of https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+add test for value in OriginTrackedPropertiesLoaderTests
+use the timeTaken instead of the timeTaken
+[ hotfix ] [ tests ] add test to EndpointMvcIntegrationTests
+remove debug output
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+[ hotfix ] [ tests ] add test to LocalHostWebConnectionHtmlUnitDriverTests
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix
+add a bit
+fix test in SpyBeanWithNameOnTestFieldForMultipleExistingBeansTests
+[ hotfix ] [ tests ] fix TestEntityManagerTests
+remove unused code
+HtmlIdentifier : improve error message
+TikaConfig : add a check for the NodeList ( ) method
+add some more logging
+[ hotfix ] [ tests ] fix AbstractTestQueries
+add a test case for issue with
+use correct method
+remove unused import
+add outputTestNames to suite
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54476 issue fix typo
+[ hotfix ] [ tests ] fix SpringExtension
+fix issue on windows
+add test case for # 4470 .
+fix for https : //issues.apache.org/jira/browse/amq-4237
+minor : fix test case of TestVarbinaryFunctions
+add more tests
+add a test case to the same name
+add missing license header
+improve error message ( )
+fix cs for dataformatreifier
+simonstewart : add the missing toJson method
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in InternalResourceGroup
+[ test ] [ test ] [ test ] [ test ] [ test ] add some tests for test ]
+[ hotfix ] [ javadoc ] remove unused methods in Observable
+add support for rightArray to ArrayIntersectFunction
+remove unused code
+remove unused import
+remove unnecessary code
+make TypedSet more precise
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in PojoMethodMapping
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in PageSinkManager
+add javadoc to PDFParser
+do n't ECDH to EC in SSLHostConfigCertificate
+simonstewart : fix the firefox certs from the certs to the certs from the certs to the certs
+remove unused method
+add test case for issue #
+[ hotfix ] [ runtime ] remove unused code in waitForPageToLoad
+make SqlQueryManager more robust .
+avoid npe in RcFileReader # if ( )
+remove unused method
+fix a bug in the couldNotFindAnyInstallationMessage message
+deprecate hover .
+TransformUncorrelatedInPredicateSubqueryToSemiJoin : use rewrittenNode ( ) ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327 patch by jbellis
+add default constructor to TaskExecutor constructor
+simonstewart : add some more logging to the test case of the test case of the test case
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue # 655
+javadoc : add the @ param to the javadoc .
+update javadoc for COMMENT
+remove unused code
+simonstewart : fix the build failure in the test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+add support for view to DispatcherPortlet
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in the test case of the test suite
+add a long method to PageBuilderStatus
+remove unused code
+avoid npe in TransformUncorrelatedInPredicateSubqueryToSemiJoin
+https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+add toString method to convertFromBase64Png
+[ hotfix ] [ runtime ] remove unused code in setUp
+update javadoc for onBackpressureBuffer
+add support to CharSequenceEncoder
+add start to SqlQueryManager
+[ hotfix ] [ runtime ] remove unused methods in SocketWrapperBase
+mute testShouldHandleAlertOnPageLoadUsingGet tracked at # testShouldHandleAlertOnPageLoadUsingGet
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54963 fix bug in MapValues
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in ReloadingClassLoader patch provided by jbellis
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+remove unnecessary import
+add missing constant .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) ( ) call to be used ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) should be used by default ( jesus camacho rodriguez )
+[ hotfix ] [ tests ] remove unused variable in AbstractSockJsIntegrationTests
+remove unnecessary boxing
+add javadoc to JdbcInterceptor
+remove debug output
+remove unused code
+FilterDispatcher : allow to be used by default .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) call to be used by @ gmail.com >
+remove unnecessary boxing
+[ test ] fix test to use the test in SetValueTests relates to # 522
+add driverContext to OperatorContext constructor
+fix a bug in FormatHelper .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in URIEditor patch provided by jbellis
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711
+add a test for issue : test
+fix for https : //issues.apache.org/jira/browse/amq-4638
+add test for tax
+fix cs for camel-support
+remove unnecessary method
+add a null check for the RuntimeException ( ) in TopologyContext
+use spilledLookupSourceHandle instead of setPartitionSpilledLookupSourceHandle
+add more logging
+improve error message in WindowAssertions
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in mainInt commander . patch provided by jbellis
+add test case for ImmutableList in TestLogicalPlanner
+add test for issue with
+simonstewart : remove the debug info from the Exception
+remove unused test
+simonstewart : add the missing of to the isSelected
+improve error message
+add more test to TestUtf8Extended
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in vals in vals in the vals and should be able to the vals .
+add a test for issue with thanks to master
+add support for polymorphic methods in PolymorphicScalarFunction
+simonstewart : add a missing method to the getScreenshotAs ( ) method
+minor : add some docs for the test .
+[ hotfix ] [ tests ] add asList addAction to addAction
+add javadoc to Observable
+[ test ] remove unused method in TestLimitLatch
+add null check for null check
+remove unused method
+add support for Subscriber in OperatorOnErrorReturn
+remove unused method
+remove unused code
+do n't use the fieldError instead of the fieldError
+add a helper method
+fix tiles in TilesResult
+2.x : add marbles for Observable ( # )
+add a test to make it easier that a bit more readable
+simonstewart : making the teardown of the polling of the polling of the polling the polling of the teardown after the teardown .
+add support to DynamicAttributesHandler to DynamicAttributesHandler
+remove unused code
+add support for AggregationNode in Patterns
+[ hotfix ] [ tests ] fix BatchProcessTest
+remove unused code in NioChannel
+add a test to set the test that the executable that the executable that a different methods are set
+remove unused code
+remove unused imports
+increase timeout for AbstractTestDistributedQueries
+simonstewart : add missing method to the test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52999 more precise in DefaultSubscriptionRegistry
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue of TransactionAspectSupport
+fix issue with read ( ) .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+simonstewart : making the vars to use the extensions in the listenable is not the listenable .
+add javadoc to Observable
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38570 patch provided by jbellis
+remove unused code
+add some documentation .
+[ hotfix ] [ runtime ] add TOPOLOGY_MIN_REPLICATION_COUNT to LocalCluster
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in BasicDRPCTopology
+add javadoc to WebMvcConfigurer # configureHandlerExceptionResolvers
+add missing @ protected
+add a test case to make it easier to run by using a bit
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in PoolingConnectionFactoryBean
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48516 fix npe in AbstractInvoker patch provided by jbellis
+add missing add to DubboBootstrap
+update javadoc for comment
+update javadoc for comment
+[ hotfix ] [ tests ] add test for RestTemplateBuilderTests to RestTemplateBuilderTests
+rename method to theoryMeansOnlyAssumeShouldFail
+[ hotfix ] [ runtime ] fix AbstractReactiveWebServerFactoryTests constructor
+minor : fix typo in UndertowEmbeddedServletContainerFactory author : rajini sivaram < damian.guy @ gmail.com > reviewers : ismael juma < ismael @ juma.me.uk > closes # 1021
+add missing javadoc
+remove unnecessary boxing
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix
+better exception message
+[ hotfix ] [ tests ] fix MethodSorterTest
+add missing rawBody to OkHttpCall
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54963 fix npe in RealWebSocket patch provided by jbellis
+minor : fix javadoc
+add support for variables to variables in variables
+make Utils methods ( )
+[ hotfix ] [ tests ] add headers in RequestFactory
+add a little more info to the netty
+add containsDescendantOf method
+add a test case for issue # 1373
+remove unused code
+[ hotfix ] [ tests ] add OsgiTest # setUp
+add missing license header
+[ hotfix ] [ tests ] fix cs for jms in elasticsearch 1.4.0
+add missing copyright header
+minor : remove unused code .
+make JobLauncherCommandLineRunner implement ApplicationEventPublisherAware
+add missing @ boot annotation
+add a test for issue : test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711
+make FilteredClassPathRunner more robust .
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in Handler patch provided by jbellis
+fix issue on windows
+better exception message
+add if ( ) to ClasspathLoggingApplicationListener
+[ hotfix ] [ test ] fix test failure in EndpointWebMvcAutoConfigurationTests
+remove debug output
+add missing @ deprecated annotation
+remove unused import
+add missing javadoc .
+make NamedThreadFactory final
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+update javadoc
+add isExecuted method to Call
+fix test case in CallTest
+add test case for date time in tests
+add test for # 1298
+add test case for issue # 1373
+increase timeout in ConnectionPoolTest
+add missing import
+fix typo in RequestInterceptor interface javadoc
+add @ since to RetrofitError .
+avoid unnecessary catch blocks in Platform
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56039 fix javadoc name in RequestInterceptor # addPathParam ( ) * fix javadoc in RequestInterceptor # addPathParam method
+add tests for tests
+update javadoc for setAuthenticator
+minor : improve error message in exception message
+RpcUtils : do n't use the invokerInterface
+update javadoc for ExpectedException
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in ExpectedException patch provided by jbellis
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54963 fix issue of https : //github.com/netty/netty/pull/4257
+[ hotfix ] [ tests ] fix DubboRegistryTest
+remove @ disabled
+add getType ( ) .
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in AbstractProxyInvoker
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in ParentRunner patch provided by jbellis
+tests : add unit tests to RestAdapterTest
+remove unnecessary code
+add testJvmMethodSorter ( ) to MethodSorterTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327 patch provided by jbellis
+add cleanUp to TypeExcludeFilterTests
+correct comment in Comparators
+remove unnecessary null check
+add a test case for the boolean are closed
+add more logging
+[ hotfix ] [ runtime ] remove unused methods in ConfigCenterConfig
+add more info to MetadataReport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55469 : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) returns a bug in the configuration name of the handlers
+rename testComparisonErrorWithNullArgument to testComparisonErrorWithExpectedNull
+remove unused code
+add missing @ nullable annotation
+update javadoc for Call .
+remove unnecessary boxing
+fix issue on error
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in SslContextBuilder if the synchronized is null .
+remove unused method
+remove unnecessary check in RegistryStatusChecker
+remove unnecessary null check
+simplify ( ) method in ServiceConfig
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in JsonConverter
+fix test case .
+add version constant
+remove unused field
+remove unnecessary volatile
+add a test to verify the EnableConfigurationPropertiesTests
+mute TestCaseClassLoaderTest # testJarClassLoading
+deprecate assertThat ( ) . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe deprecated
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+remove unused code
+do n't use a rawType instead of the result
+[ hotfix ] [ test ] fix test in UnsuccessfulWithDataPointFields
+add succeedsWhenInnerMatcherSucceeds method
+make name volatile volatile in TestName
+fix typo in addPathParam ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+remove unused field
+fix for ConsulRegistry
+add some documentation
+fix test on windows
+remove unnecessary getContext
+add test case for # 77
+add delete method
+fix exception message
+remove test cases .
+add missing license header
+remove the javadoc warning
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ network ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] add ] add ] [ runtime ] add ] add ] [ runtime ] [
+remove unused code
+[ hotfix ] [ tests ] add after to DubboProtocolTest
+[ hotfix ] [ runtime ] fix ReferenceConfig constructor
+remove unused method in DubboProtocol

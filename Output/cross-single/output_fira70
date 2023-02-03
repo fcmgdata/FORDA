@@ -1,0 +1,304 @@
+add a test case for the override of the properties
+test : add more test for now .
+remove unnecessary boxing
+fix compilation error in RunningDocumentationTests test plan : ci
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+simplify HttpHandlerAutoConfiguration # httpHandler
+update copyright year
+ignore DataMongoTestReactiveIntegrationTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 use correct exchange in AbstractReactiveWebServerFactoryTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54011 fix issue on a bug in a regression
+add test for bang and bang to bang .
+remove trace from WebRequestTraceFilter
+[ test ] add springboottest to envEndpointNotHidden
+remove debug code
+remove @ order
+make it clear that the pkg is null .
+[ test ] add test for now
+remove unnecessary cast
+remove deprecated test
+use EmbeddedWebServer instead of UndertowEmbeddedServletContainerFactory .
+add missing space for mvc
+fix test on windows
+test : use correct exception in TestEntityManagerTests
+use getBasePackages in IntegrationAutoConfigurationScanRegistrar
+[ hotfix ] [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] add INJECTION_THRESHOLD [ html ] add INJECTION_THRESHOLD [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] [ html ] [ javac ] [ javac ] [ html ] [ javac ] add threshold `` `
+add support of the list of the node
+add null check to AbstractTestContextBootstrapper
+update assertQuery ( ) test to use correct type
+add a test for the list of a test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unused import
+[ test ] add missing outputTestNames to outputTestNames
+correct typo in JpaTransactionManager
+remove unused code
+use SingleMapBlock in MapType .
+add some more test for now
+use unmodifiableSet instead of ImmutableSet
+minor : fix the test error message
+add more tests
+simonstewart : making the default value of the initServer name of the initServer name of the server
+add missing copyright header
+add the version of the test
+add missing imports
+simonstewart : making the toJson methods of the methods of the toJson method
+use saturatedAdd instead of ArithmeticException
+add more test cases
+update javadoc for cache
+fix a bug in ArrayIntersectFunction
+remove MockRestServiceServer from SampleAsyncTests
+remove unused imports
+remove unused code
+make TypedSet more robust to be able to make it easier to work for a bit more reliable
+do not use a MethodType error when creating a mapping
+add null check to catalog
+add missing license header
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+simonstewart : making the default capability of the certs for the firefox driver . r12742
+remove unused method
+add test case for issue : spr-13933
+simonstewart : remove the unused synchronized
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unnecessary byte code
+remove unused method
+simonstewart : making the browser browser name of the browser name for the friendly
+deprecate the visibility of hover
+remove unused node variable
+do n't use order for order order order order order .
+add missing false to TaskExecutor constructor
+simonstewart : making the default up of the defaultBrowser of the defaultBrowser of the defaultBrowser of the defaultBrowser
+use chooseDistribution instead of chooseDistribution in PlanFragmenter
+update javadoc for @ DateTimeFormat
+update javadoc for sqlscriptstestexecutionlistener
+remove unused import
+simonstewart : making the error message in the test cases
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+fix for https : //issues.apache.org/jira/browse/amq-3573
+add test for now
+add a little more page to the page page
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unused variable
+add a toString to the png of the base64Png
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+update javadoc for onBackpressureBuffer
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 do n't create a charset when using Float .
+add start to SqlQueryManager
+remove unused code
+mute failing ignore tests
+use BlockBuilderStatus instead of BlockBuilderStatus
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 do n't use a new root instead of File
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 do n't use a null check for the Boolean
+remove unused imports
+increase firehose for firehose
+simonstewart : making the apply more than the OSS in the apply for the apply encoded as well
+simonstewart : making the default list of the any to be used in the linux
+tests : fix AbstractSockJsIntegrationTests to use refresh refresh refresh scheduler
+use stream instead of ShardMetadata
+add missing javadoc
+remove debug code
+[ hotfix ] [ runtime ] remove unused import in isDisplayed
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+douniaberrada : fix npe in getAdditionalInformation ( )
+remove unnecessary cast
+tests : fix SetValueTests to not use a lContext to a lContext tests for the tests
+fix memory leak in OperatorContext
+avoid npe in FormatHelper
+URIEditor : use getURI ( ) .
+[ hotfix ] [ runtime ] add toType to encodesWrappedElementInMoveOrigin
+add test for refresh to HttpInvokerFactoryBeanIntegrationTests
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+add test for order
+add missing copyright header
+make getAutocompleterModel public
+add a null check to the exception
+[ hotfix ] [ runtime ] [ runtime ] add partitionIndex to HashBuilderOperator
+add missing ROLE
+remove unused code
+add a test case for https : //stackoverflow.com/questions/54023107/apache-camel-how-to-implement-an-optional-consumer-for-a-wire-tap/54049958
+add test for join join join join with a test .
+add toMock test
+simonstewart : remove the debug output from the log
+remove unused imports
+simonstewart : add the DriverCommand to the command line
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 by default value for server
+add test for swallows trailer
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 do n't use hdr as a single vals
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+handle nullable of nullable in polymorphic function
+simonstewart : add the documentation of the screenshot of the comment
+add missing space for cipher
+add asList to addAction
+javadoc : add marble diagram to the javadoc .
+remove useless code
+add null check for null check
+remove unused method
+[ hotfix ] [ runtime ] add done to OperatorOnErrorReturn
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unused code
+[ hotfix ] [ runtime ] [ runtime ] fix isMatchingFieldError in AbstractErrors
+add if ( ) method
+TilesResult : allow to be able to be able to be used as well .
+2.x : add marble diagrams ( ) marble diagram ( # 5759 )
+add test case
+simonstewart : remove the teardown ( ) from the afterSession ( ) method
+add support to DynamicAttributesHandler .
+remove unused code
+implement groupingKeys for Patterns
+fix a couple of the test
+remove unused code
+add test for generics
+remove deprecated code
+add missing @ needslocalenvironment annotation
+fix a distributed test
+alexeibarantsev : add a test for old test
+remove unnecessary boxing
+simonstewart : making the version of the version of the DesiredCapabilities method in the version , so we do n't do n't need to be able to make it , so we do n't do n't do n't do n't have a rawMap , but it 's a lot of the version , but it 's a
+refactor TransactionAspectSupport to use transactionManager instead of null
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+add missing null check
+make SockJsClient more robust to be used by using a WebSocketHttpHeaders
+add missing javadoc
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+BeanSelectionProvider : add factory
+simplify the code to avoid using the tempContext
+add missing final keyword
+add missing TOPOLOGY_MIN_REPLICATION_COUNT in LocalCluster
+fix a typo in MockTupleHelpers
+better handling of builder
+minor : add javadoc to WebMvcConfigurer . author : matthias j. sax < matthias @ confluent.io > reviewers : guozhang wang < wangguoz @ confluent.io > < wangguoz @ confluent.io > ( ? < wangguoz @ gmail.com > ) < jason @ confluent.io > ; > ( ? < jason @ confluent.io > ( ) < jason @ confluent.io > closes # 4228
+make GroovyBeanDefinitionSource protected in BeanDefinitionLoader
+make CentralDirectoryParserTests more robust in CentralDirectoryParserTests
+use connectionFactory ( ) instead of username
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 avoid npe . patch provided by keiichi fujino
+fix for https : //issues.apache.org/jira/browse/amq-3573
+update copyright year
+update copyright year
+[ test ] fix RestTemplateBuilderTests to use InOrder in RestTemplateBuilderTests
+minor : remove test for now .
+remove unused field
+remove unnecessary cast
+update javadoc for open
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unused field
+improve error message .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+do not close http code if it is null .
+remove unnecessary null check
+update javadoc for convert
+add optimizedLaunch to RunMojo
+make declaringClassOf static
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+add ERROR_NO_EACCES to the ERROR_NO_EACCES
+add default containsDescendantOf method
+add more logging to StartupInfoLogger
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+add missing @ beforeeach annotation
+add missing license header
+[ hotfix ] [ runtime ] add CouchbaseDataAutoConfiguration to CouchbaseDataAutoConfiguration
+update copyright year
+ShellProperties , add Integer for Integer
+add setOrder method
+add missing @ configuration annotation
+add a test for now that while waiting for a test
+add more information to EndpointWebMvcAutoConfiguration
+add perform method
+use getInProgressAsyncCount in TomcatGracefulShutdown
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+[ hotfix ] [ runtime ] add ArtemisAutoConfiguration to HibernateJpaAutoConfiguration
+add more logging to the ImageBanner
+use ApplicationEnvironmentPreparedEvent instead of ApplicationEnvironmentPreparedEvent for ApplicationStartedEvent and ApplicationStartedEvent
+fix tests in EndpointWebMvcAutoConfigurationTests
+fix bug on adapted of adapted tests
+add missing @ deprecated annotation
+use emptySortedSet ( ) instead of custom content
+add missing javadoc
+made sure that NamedThreadFactory is used as well
+use ReentrantLock instead of ReentrantLock
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 by using a originalName instead of originalName
+update javadoc for SlackApi
+add isExecuted to Call
+do not use MockResponse in call .
+add more test cases
+add a test case for the synchronous of a test
+add test case for issue # 4470
+increase default connection in ConnectionPoolTest .
+add missing import
+correct typo in RequestInterceptor .
+fix a typo in RetrofitError .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52999 not not used in a ignored .
+minor : fix javadoc typo in RequestInterceptor author : ismael juma < ismael @ juma.me.uk > reviewers : ismael juma < ismael @ juma.me.uk > , ismael juma < ismael @ juma.me.uk > , ismael juma < ismael @ juma.me.uk > , ismael @ juma.me.uk > , ismael @ juma.me.uk > closes # 2819 from enothereska/hotfix-smoke-test-commit-interval
+add a test case for the apache server
+update javadoc for setAuthenticator
+minor : improve error message
+refactor RpcUtils to use Method
+update javadoc for ExpectedException
+[ hotfix ] [ tests ] ExpectedException # reportMissingExceptionWithMessage in ExpectedException
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 use listener instead of key in ApolloDynamicConfiguration
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove disabled tests
+add getType to Server
+add logChunk to AndroidLog
+remove unused method
+make sure the statement is used in the same thing the same as the statement is not used .
+remove unused code
+use assertArrayEquals instead of assertEquals
+add test case for issue # 4470
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+[ test ] add cleanUp to TypeExcludeFilterTests
+update javadoc for Comparators
+remove unnecessary null check
+add a test for not not not needed
+add more logging to DubboBeanDefinitionParser
+remove @ parameter from ConfigCenterConfig
+add default exportedServicesRevision for ls
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 by fix a typo .
+minor : fix the AssertTest of a bit more
+use encodeString instead of bytes in Credentials
+add missing javadoc
+update javadoc for Call
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+use printStackTrace instead of RuntimeException
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 to avoid npe
+remove deprecated method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 use registries in RegistryStatusChecker
+remove unnecessary null check
+remove unnecessary null check
+minor refactor - remove unused code
+fix test on windows
+fix a typo in the Version .
+remove unused field
+remove unnecessary code
+add test for refresh with refresh
+add a null check
+deprecate Assert .
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ ] [ byte ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ 2 ] [ runtime ] [ ] [ javac ] [ runtime ] [ byte ] [ byte [ byte [ byte ] [ ] [
+improve error message ( )
+remove unused code
+Utils # toString ( toString ) add toString to toString ( ) method
+[ hotfix ] [ tests ] fix UnsuccessfulWithDataPointFields in UnsuccessfulWithDataPointFields
+fix a test
+make name volatile .
+remove @ since tag
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+use ArrayList instead of CopyOnWriteArrayList
+make ConsulRegistry more robust .
+add some javadoc
+add missing @ test to testCustom ( )
+remove unused code
+add test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47512
+add delete method to Request
+[ hotfix ] [ runtime ] add missing exception message to createRequestBody
+minor : remove ExpectedExceptionClause
+add missing copyright header
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+remove unused code
+add after to DubboProtocolTest
+ReferenceConfig : use prefix instead of prifix .
+use ArrayList instead of CopyOnWriteArrayList in DubboProtocol

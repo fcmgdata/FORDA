@@ -1,0 +1,304 @@
+add test to test case
+[ test ] test ] add test to make test plan : test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix issue on windows
+tests : fix tests .
+[ hotfix ] [ runtime ] remove unused code
+fix javadoc for the javadoc .
+remove unused field
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix tests to be used to make sure that are reactive code .
+[ hotfix ] [ runtime ] [ tests ] [ tests ] [ tests ] [ tests ] [ runtime ] tests WebFluxAnnotationAutoConfigurationTests javadoc for WebFluxAnnotationAutoConfigurationTests ]
+test : add test for loader
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix test in EndpointMvcIntegrationTests
+remove unused code
+remove Registrar
+fix a bug on windows summary : this is not SpringApplication in the version version version . test plan : ci
+[ hotfix ] [ test ] add test for test ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unused code
+[ hotfix ] [ test ] [ test ] fix a test ] [ test ] [ test ] [ test ] [ test ] [ test ] fix a test ] fix a test ] [ test ] [ test ] [ runtime ] [ test ] [ runtime ] [ test ] [ test ] [ runtime ] [ runtime ] [ test ] [ test ] test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ runtime ] [ test ]
+remove unused field
+fix test in SpyBeanWithNameOnTestFieldForMultipleExistingBeansTests
+[ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] fix a test ] [ test ] [ runtime ] [ runtime ] [ test ] [ test ] test ] test ] [ runtime ] test ] test ] test ] test ] [ runtime ] [ test ] [ test ] test ] test ] [ test ] test ] test ] [
+remove unused code
+HtmlIdentifier : fix npe in HtmlIdentifier .
+TikaConfig for TikaConfig
+test : fix issue with thanks
+fix test in AbstractTestQueries
+test : add test to test for list
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658 fix a check for the patch provided by jbellis
+remove unused import
+[ test ] [ test ] fix a test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] fix a test ] [ test ] [ test ] [ test ] fix the test ] [ test ] [ test ] test ] test ] test ] test ] [ runtime ] [ test ] [ test ] test ] test ] [ test ] test ] test ]
+fix the javadoc for the javadoc .
+remove unnecessary test .
+MapType : use check for single exception message
+add some test case
+add copyOf to Analysis
+fix test for http : elastic/x-pack-elasticsearch test
+add a tests for the tests
+fix issue on windows
+add missing license header
+fix test in TestApplicationContext
+fix cs for camel-couchdb
+remove unused code
+remove unused code
+make TestCipher only trim .
+remove unused code
+fix function array in ArrayIntersectFunction summary : this is not a few the size . test plan : ci reviewed by : ci
+remove unused code
+remove unused import
+remove unused code
+remove useless typed
+PojoMethodMapping : use ON_OPEN .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+add missing license header
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unused code
+add test case .
+remove unused field
+remove unnecessary code
+remove unused field
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+add deprecated to javadoc
+remove unused field
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+[ hotfix ] [ runtime ] [ runtime ] [ ] [ ] [ ] [ runtime ] [ runtime ] [ runtime ] task ] [ ] [ ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] task ] task ] task ] [ runtime ] task ] [ runtime ] [ runtime ] [ ] [ runtime ] [ runtime ] [ runtime ] task ] [ runtime ] [
+use runtimeBrowserString in runBare method
+fix npe in PlanFragmenter summary : this is a few to use the plan : ci reviewed by : marcinkosiba fbshipit-source-id : marcinkosiba
+remove unused field
+update javadoc for license
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 indexOf
+GenericTableMetaDataProvider to avoid npe
+[ hotfix ] [ runtime ] [ render ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ render ] render ] [ ] [ runtime ] [ runtime ] render ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] render ] render ] [ runtime ] [ runtime ] [ ] [ ] [ runtime ] [ runtime ] render ]
+[ test ] test ] fix a test in DefaultMessageContextTests
+add getSizeInBytes in PageBuilderStatus
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 isEmpty
+TaskExecutor : remove unused code
+add a toString in the png
+remove unused field
+add javadoc for Observable
+make CharSequenceEncoder more robust of encoder summary : it 's no need to work on it . test plan : ci reviewed by : styurin fbshipit-source-id : marcinkosiba
+[ hotfix ] [ start ] add start with start ( ) .
+remove unused field
+[ test ] [ test ] add testShouldNotHandleAlertInAnotherWindow to testShouldNotHandleAlertInAnotherWindow in testShouldNotHandleAlertInAnotherWindow
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658 patch by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 null check for end ( # end ) this reverts commit fixes a null check that are not null check for the same with the same with the check is null check is null as it .
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 any from a bit to a npe when the patch from the patch from the right to a parameter .
+fix tests for https : //issues.apache.org/activemq/browse/amq-2085
+fix a bug in the shard compaction for the shard in ShardCompactionManager .
+add missing header
+remove unused field
+remove isDisplayed method
+fix a bug in the dispatcher of the dispatcher of the Dispatcher .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 information
+remove unused field
+[ test ] [ test ] fix a test ] [ tests ] [ tests ] [ tests ] test ] test ] test ] test ] fix a lContext tests lContext code in SetValueTests # 1555 . this change to the test for the test for the test to TestScenarioCreator to set
+fix a bug in the operator
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=58384 and fix a bug in FormatHelper # formatMethodForMessage ( )
+remove unused code
+[ hotfix ] [ encodesWrappedElementInMoveOrigin ] fix encodesWrappedElementInMoveOrigin in encodesWrappedElementInMoveOrigin ( )
+add test case .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 null check
+add test for test case
+update javadoc to javadoc ( )
+remove getAutocompleter from getAutocompleterModel ( )
+[ hotfix ] [ runtime ] fix a topology
+[ hotfix ] [ runtime ] remove unused field in HashBuilderOperator
+fix test in TestCustomSsl
+remove unused field
+[ hotfix ] [ runtime ] add ParameterException in mainInt .
+add test for test case
+add test case .
+fix a bug in case of a log with log .
+remove unused field
+fix issue with thanks to setSelected
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+add a test case for the TestUtf8Extended
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 indexOf - add indexOf
+[ hotfix ] [ runtime ] add TikaConfig in TikaCLI
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+add javadoc for getScreenshotAs
+[ test ] [ test ] [ test ] -- -- -- -- -- -- -- -- - created by moe : http : http : http : http :
+add asList .
+update javadoc to ( )
+remove unused field
+add null check
+remove unused code
+add a done
+remove unnecessary code
+remove unused code
+remove unnecessary code
+[ hotfix ] [ matches ] add literal to ExpressionUtil
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+add missing )
+test : test to avoid npe
+remove unused field
+fix npe in DynamicAttributesHandler summary : this is a syntax for the a in the handler for the class . test plan : ci reviewed by : ttsugriy fbshipit-source-id : marcinkosiba
+remove unused literal
+add a Aggregation
+fix test in BatchProcessTest
+remove unused code
+add a test case for a forMethodParameterWithSameSignatureAndGenerics ( )
+remove unused code
+[ test ] fix InternetExplorerDriverTest # InternetExplorerDriverTest
+fix test in AbstractTestDistributedQueries
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+DefaultSubscriptionRegistry to use debug in DefaultSubscriptionRegistry
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 rawMap
+remove unused code
+fix issue ( ) in the detect ( ( ) method in the method
+fix a bug in AnnotationMetadataReadingVisitor # : https : //issues.apache.org/bugzilla/show_bug.cgi ? reviewed by : resolved fix
+[ hotfix ] [ runtime ] add doHandshake to SockJsClient
+[ hotfix ] add javadoc for Observable
+add null check
+fix a bug on windows
+remove unused code
+add missing license header
+add missing in LocalCluster
+remove unused code
+add builder to topology
+add missing ( )
+make protected protected .
+CentralDirectoryParserTests : fix npe in CentralDirectoryParserTests .
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+update javadoc for comment
+update javadoc for nics
+[ hotfix ] [ runtime ] add InOrder in RestTemplateBuilderTests
+remove test in AssumingInTheoriesTest
+fix npe in AbstractReactiveWebServerFactoryTests summary : this is a few to be used . test plan : ci reviewed by : marcinkosiba fbshipit-source-id : ci
+[ hotfix ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] directory ] directory ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] directory ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ]
+javadoc : add missing call to open
+remove dead code
+HttpTunnelPayload ( ) method
+remove unnecessary code
+remove unnecessary token in TokenFilter
+remove redundant Super
+close the close
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unused field
+add deprecated to RunMojo
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unused field
+[ hotfix ] [ runtime ] add ERROR_NO_EACCES to NettyWebServer
+remove default constructor in ConfigurationPropertySource # containsDescendantOf .
+add some more startup in StartupInfoLogger
+remove unused code
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : //code.google.com/p/moe-java moe : http : http :
+add missing license header
+[ hotfix ] [ runtime ] [ cassandra ] [ runtime ] [ runtime ] -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http : http : http :
+fix javadoc for the javadoc .
+fix ShellProperties . summary : to use to use to use to use port instead to valueOf . test plan : ci
+add setOrder and setOrder and setOrder
+make JdbcRepositoriesAutoConfiguration javadoc
+add a test case for the test from the test .
+[ hotfix ] [ runtime ] add servlet be more ]
+[ hotfix ] [ test ] add perform in FilteredClassPathRunner
+remove unnecessary shutdown .
+make Handler only indexOf summary : the SEPARATOR to be used . test plan : ci reviewed by : ci
+[ hotfix ] [ runtime ] [ conditionalonproperty ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ conditionalonproperty ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ]
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 finally
+ClasspathLoggingApplicationListener : fix issue with logging
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ runtime ] [ tests ] [ tests ] tests tests tests tests ] tests ] tests ] fix a mapping in EndpointWebMvcAutoConfigurationTests ] [ runtime ] [ runtime ] [ runtime ] tests ] tests ] tests ] tests ] [ runtime ] auto tests ] [ runtime ] [ runtime ] [ 1 ]
+fix issue on windows
+add deprecated to ExtensionFactory
+remove unused field
+add javadoc for FutureAdapter
+make NamedThreadFactory not be a bit more
+fix a bug in case the LOCK to make the LOCK synchronized synchronized class when a Condition is not be used
+thread : fix issue with thanks
+update javadoc for api
+add missing header
+[ test ] [ test ] fix a test ] [ test ] [ test ] [ test ] [ test ] fix a test ] [ test ] fix a test ] [ runtime ] [ test ] [ test ] [ test ] [ runtime ] test ] test ] test ] test ] test ] [ runtime ] [ test ] [ test ] test ] test ] test ] test ] test ]
+[ test ] test ] add test for CacheTest .
+add test case .
+add test case .
+remove unused field
+add missing import
+fix the javadoc for the request
+fix the javadoc for the error
+remove unnecessary method
+remove unused field
+test : fix test to avoid npe
+fix the javadoc for the ok
+fix a bug in the netty in netty on netty on windows
+remove unnecessary service .
+update javadoc for expected summary : the expected to be consistent with no more . test plan : ci reviewed by : coneko fbshipit-source-id : asp2insp
+remove redundant exception in ExpectedException
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+DubboRegistryTest ( )
+remove unused field
+add some more javadoc
+fix for https : //issues.apache.org/activemq/browse/amq-2085
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+[ test ] RestAdapterTest # testServiceDeleteSimple ( )
+fix test in MethodSorterTest
+add test for method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658 patch by jbellis for https : rohit yadav < rohit.yadav @ shapeblue.com >
+test : cleanUp method in TypeExcludeFilterTests
+remove unused field
+remove unused code
+add a test case
+[ hotfix ] [ runtime ] [ ONRETURN in DubboBeanDefinitionParser
+remove unused code
+add missing header
+fix a bug in the add missing auto locations .
+fix testComparisonErrorWithActualNull in AssertTest summary : this commit fixes a testComparisonErrorWithNullArgument to be a test plan : ci reviewed by : ci
+remove unnecessary code
+[ hotfix ] [ runtime ] add to RequestBody javadoc
+remove unused code
+remove unnecessary code
+remove unnecessary code
+remove unnecessary code .
+remove unnecessary code
+remove deprecated code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+remove unnecessary null check
+remove unnecessary toUrl method
+[ hotfix ] [ json ] [ json ] [ to JsonConverter ] [ to JsonConverter ] -- -- -- -- -- -- -- -- -- -- -- -- - created by moe : http : http : http : http : http : http :
+fix test in CallTest
+fix the javadoc for the Version
+Stopwatch : fix issue with L
+remove unused code
+add test for test case
+[ test ] add check for the test
+add deprecated to javadoc
+use getParts method
+fix exception message in MultipleFailureException .
+remove unused field
+remove unnecessary code .
+remove unnecessary code .
+fix test in StacktracePrintingMatcherTest
+fix test in TestName
+remove unused field
+DubboCodec : fix npe in DubboCodec .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658
+fix a bug on the registry
+add javadoc to callbacks
+fix test in AccessLogFilterTest
+remove unused code
+add missing test for test
+add delete ( ) to the body
+fix a bug in the http exception .
+remove test , test .
+update javadoc for comment
+remove unused field
+make the default constructor of CommandContext command line
+remove unused code
+[ hotfix ] [ test ] add test for test ]
+fix prifix in ReferenceConfig . summary : the prifix to use ` prifix ` . test plan : ci reviewed by : ci
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=51658

@@ -1,0 +1,304 @@
+add a test case to make sure that the refresh is created .
+fix the test case on windows
+fix for https : //bz.apache.org/bugzilla/show_bug.cgi
+fix the tests in RunningDocumentationTests summary : this is a test plan : ci reviewed by : coneko fbshipit-source-id : dca4cf9
+fix RunningDocumentationTests to use contains summary : this is not sure that it 's a lot of a lot of files in the tests . test plan : ci reviewed by : ttsugriy fbshipit-source-id : dca4cf9
+remove unused code
+update copyright header
+[ hotfix ] [ test ] remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset ( ) in ConfigFileApplicationListenerTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38570 patch provided by keiichi fujino
+fix a bug in AbstractReactiveWebServerFactoryTests patch by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 mapping ( ) fix issue with getCustomArgumentResolvers ( )
+add test for tracked of tests
+remove unnecessary boxing
+[ hotfix ] [ tests ] fix test failure in EndpointMvcIntegrationTests
+remove the system.out
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38553 patch provided by jbellis
+add a test to make it easier to make it easier to make it easier .
+[ hotfix ] [ runtime ] remove unused code in SpringApplicationBannerPrinter
+remove unused code
+fix test on windows
+fix the json of the HalBrowserMvcEndpoint .
+fix test
+fix a typo in TestEntityManagerTests
+remove unused code
+fix a bug in the HtmlIdentifier .
+add a check for tika mime to avoid npe
+make AbstractTestContextBootstrapper more precise
+fix AbstractTestQueries # assertQuery
+simonstewart : add a test for the test case
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38570 patch provided by jbellis
+remove unused import
+add a outputTestNames to the test for the firefox firefox driver
+update javadoc for JpaTransactionManager
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 use correct SingleMapBlock instead of position
+add more test for openssl
+use unmodifiableSet in Analysis
+fix TestVarbinaryFunctions to use sql test
+add more test to ApplicationContextExpressionTests
+add more logging to the console
+add missing license header
+fix the TestApplicationContext to use the tomcat 's setWebappVersion
+clean up imports
+simonstewart : making the new toJson .
+use toMillis in InternalResourceGroup
+[ test ] add support to TestCipher
+remove javadoc warning
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 fix npe in ArrayIntersectFunction
+make SampleAsyncTests extend AsyncRestTemplate
+remove unused import
+remove unused code
+make TypedSet more robust .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in PojoMethodMapping
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38570 patch provided by keiichi fujino
+add javadoc for PDFParser
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48582 fix a bug in order to make it easier to be set .
+simonstewart : making the certs to use the certs to the firefox firefox driver to the firefox driver
+remove unused code
+add a test case to make it easier to make it easier to work
+remove unnecessary synchronized
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54721 fix npe in SqlQueryManager
+fix a bug in RcFileReader .
+remove unused method
+simonstewart : add a missing space message to the message
+deprecate hover ( ) .
+remove dead code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327 make it easier to make it easier to make it easier to be consistent .
+[ hotfix ] [ runtime ] fix TaskExecutor constructor
+simonstewart : making the bare the test case of the system property and add a null check to the bare the test case
+fix for https : //issues.apache.org/activemq/browse/amq-1446
+update javadoc for @ COMMENT .
+update javadoc for COMMENT
+remove unused code
+simonstewart : making the error messages in the error message . this is not sure that the error message . signed-off-by : rohit yadav < rohit.yadav @ shapeblue.com >
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+add support to DispatcherPortlet
+fix the test failure in DefaultMessageContextTests
+add a long method to PageBuilderStatus
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+make TaskExecutor # minimumNumberOfTasks
+add toString ( ) method
+simonstewart : making the default buffer of the default buffer of the default buffer . r10041
+fix javadoc for Observable # onBackpressureBuffer
+add a couple of method to make it easier to use it
+add start to SqlQueryManager
+remove unnecessary javadoc
+add missing @ notyetimplemented annotation
+use getPositionCount ( ) instead of blockBuilder in MapValues
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset to avoid npe .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47462 avoid npe when using null
+remove unused import
+[ hotfix ] [ runtime ] [ runtime ] TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # TesterFirehoseServer # SEND_TIME_OUT_MILLIS is not as it 's by default .
+simonstewart : making sure we have to be able to use the same values for the Map
+simonstewart : making the match the match the server to the match the server
+fix a bug in AbstractSockJsIntegrationTests .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 fix npe in ShardCompactionManager
+update javadoc for JdbcInterceptor
+remove debug output
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47462 avoid npe in FilterDispatcher
+fix a bug in the getAdditionalInformation ( ) method .
+remove unnecessary call
+fix test on windows
+add missing freeMemory to OperatorContext
+FormatHelper : improve error message
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in URIEditor patch provided by jbellis
+fix a bug in encodesWrappedElementInMoveOrigin ( ) .
+add unit test for HttpInvokerFactoryBeanIntegrationTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+add test for tax
+update javadoc for COMMENT
+make getAutocompleterModel method
+add missing null check for null check
+[ hotfix ] [ runtime ] fix HashBuilderOperator
+add more logging
+remove debug code
+fix for https : //issues.apache.org/activemq/browse/amq-1446
+add test case for TestLogicalPlanner
+add a test for BeanFactoryGenericsTests
+simonstewart : making sure the safari log the safari log the safari on the safari on the safari on the safari , so that the the safari is not set to the the safari , so it is not be a LOG . this change the safari by the a
+remove unused imports
+simonstewart : add the missing of to the selected of the selected of the isSelected ( ) to the selected , so we can be able to the selected . this change to make sure that the selected is not being used . signed-off-by : luke inman-semerau < luke.semerau @ apache.org >
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 use correct connectors in configureConnectors ( )
+add more tests
+simonstewart : add a couple of logging to the vals the http : //code.google.com/p/guava-libraries/issues/detail
+TikaCLI : add support for ` initParser `
+add support for java methods in PolymorphicScalarFunction
+simonstewart : add some javadoc
+add some more tests
+[ hotfix ] [ runtime ] add addAction to addAction
+update javadoc for Observable
+[ test ] remove redundant cast
+handle null check in GeometryType
+remove unused code
+OperatorOnErrorReturn , add missing false .
+remove unused method
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in AbstractErrors
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 use correct error in ExpressionUtil
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+2.x : add marble diagrams to the javadoc ( )
+add a test for codes
+simonstewart : add a missing the polling of the polling of the polling
+add support for alt of alt
+remove unused code
+add support for Patterns
+fix test on windows
+remove unnecessary javadoc
+add a test case for generics
+remove unused code
+remove unused imports
+make sure the computeActual is set
+simonstewart : add the test for the test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52999 more efficient in DefaultSubscriptionRegistry
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 fix a patch provided by yukim
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403
+fix bug on zero in ZeroSizeFileDetector
+fix for : https : //issues.apache.org/jira/browse/amq-4180
+make SockJsClient more robust .
+add javadoc for aggregate
+add missing null check for null check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset if the selection is set
+fix a bug in JettyAppServer ( ) method . summary : we do n't need to use ` JettyAppServer ( ) ` JettyAppServer ( ) ` and ` and ` and ` to ` and ` and ` and ` . this change the ` to use the ` to use it . test plan : ci reviewed by : coneko fbshipit-source-id :
+add some javadoc .
+[ hotfix ] [ runtime ] [ tests ] [ tests ] [ tests ] add missing TOPOLOGY_MIN_REPLICATION_COUNT to LocalCluster # LocalCluster # TOPOLOGY_MIN_REPLICATION_COUNT
+remove dead code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in BasicDRPCTopology
+add javadoc for WebMvcConfigurer
+make BeanDefinitionLoader extend protected
+add test for central
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327 make it easier to be used by default
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52999 fix npe in AbstractInvoker patch provided by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 map.entryset in DubboBootstrap
+fix a typo in javadoc
+update javadoc for COMMENT
+fix test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+rename noTheoryAnnotationMeansAssumeShouldIgnore to theoryMeansOnlyAssumeShouldFail
+fix compilation error in AbstractReactiveWebServerFactoryTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48049 patch provided by jbellis
+update javadoc for OkHttpClient
+remove unnecessary code
+remove unnecessary code
+remove unused code
+improve error message for TokenFilter
+[ hotfix ] [ tests ] make Super test case
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=50228 fix npe in OkHttpCall
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 fix npe in RealWebSocket patch provided by jbellis
+minor : fix typo in javadoc
+add support for variables to variables
+make Utils methods
+[ hotfix ] [ runtime ] make RequestFactory # headers
+fix for https : //issues.apache.org/activemq/browse/amq-1446
+fix a bug in ConfigurationPropertySource
+add a couple of logging
+remove unused code
+remove unused imports
+add missing license header
+[ hotfix ] [ core ] fix the MongoAutoConfiguration in elasticsearch of the jms of the cassandra cassandra cassandra cassandra jms the jms the cassandra cassandra cassandra cassandra cassandra cassandra cassandra jms the original commit : elastic/x-pack-elasticsearch @ 2a236d62f328a79f1983fe3cdeb7e256b097cecc
+update copyright header
+remove unnecessary cast
+make JobLauncherCommandLineRunner implement ApplicationEventPublisherAware
+fix a typo in JdbcRepositoriesAutoConfiguration
+add a test to verify that the connection is not null
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38197 allow more efficient to work on a patch provided by jbellis
+make FilteredClassPathRunner more extensible
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in Handler
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue with thanks to avoid npe
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54496 do n't do n't have an exception .
+fix for https : //bz.apache.org/bugzilla/show_bug.cgi
+fix the mapping tests
+OAuth2ClientPropertiesRegistrationAdapterTests : use the default value instead of the tests
+add missing @ deprecated annotation
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45403 fix potential npe in DynamicConfiguration
+update javadoc for FutureAdapter
+make NamedThreadFactory extend mDaemo
+make Main more robust .
+fix npe in Crawler
+update javadoc for SlackApi
+add isExecuted method
+fix the test case in CallTest
+add more tests to CacheTest
+add tests for InterceptorTest
+add test case for addHeader
+increase timeout in ConnectionPoolTest
+add missing import
+fix javadoc for RequestInterceptor
+add missing javadoc for getBody
+fix a bug in the Platform .
+fix javadoc for RequestInterceptor
+add a test case to make it easier to make it easier
+update javadoc for OkHttpClient
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212 use correct error message for null .
+simplify RpcUtils # getInterface
+update javadoc for ExpectedException
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52999 fix potential npe in ExpectedException summary : when using the ` ExpectedException ` to use ` to use ` providedMessage ` to ` to ` to ` , it 's ` in the ` , the ` providedMessage ` , so that it is not ` , it can
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38553 patch provided by jbellis
+DubboRegistryTest : fix DubboRegistryTest to use assertEquals
+remove unnecessary @ disabled
+add getType ( ) method
+add AndroidLog # log .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in AbstractProxyInvoker
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49171 fix npe in ParentRunner to avoid npe in ParentRunner
+fix RestAdapterTest .
+remove unnecessary code
+add a test case for MethodSorterTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47462 avoid npe when creating a invoke for a npe
+[ test ] add test to TypeExcludeFilterTests
+update javadoc for Comparators
+remove unnecessary null check
+add a test case to make it easier to make it easier to make it easier
+DubboBeanDefinitionParser : use ONRETURN instead of ONTHROW
+[ hotfix ] [ tests ] fix ConfigCenterConfig # getCluster
+add support for MetadataReport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57216 the correct error message when the handlers is found
+fix a typo in AssertTest
+remove unused code
+update javadoc for RequestBody
+update javadoc for Call
+remove unnecessary cast
+fix issue on error message
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38553 patch provided by jbellis
+remove unused method
+fix a bug in RegistryStatusChecker .
+remove unnecessary null check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=38553 patch provided by jbellis
+JsonConverter : fix typo in JsonConverter
+fix the test case in CallTest
+fix typo in Version
+remove unused code
+make ParallelMethodTest extend volatile
+add a test case to make it easier to make it easier to work on ci servers
+add some more tests
+deprecate assertThat ( ) method in Assert
+make sure that the output is used .
+improve error message
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52327 fix npe in Utils
+fix a bug in UnsuccessfulWithDataPointFields
+rename to succeedsWhenInnerMatcherSucceeds method
+make the volatile volatile of the name
+fix javadoc for RequestInterceptor
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45212
+use ArrayList instead of CopyOnWriteArrayList
+fix npe in ConsulRegistry
+add some javadoc .
+fix test on windows
+remove unused code
+add unit test for local tests
+add delete method
+minor : fix error message in error message
+[ hotfix ] [ tests ] make ExpectedExceptionRuleTest # ExpectedExceptionClause
+fix a typo in javadoc
+remove unnecessary javadoc warning
+fix a typo in CommandContext .
+remove unused code
+add a test case for DubboProtocolTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix bug in ReferenceConfig patch provided by jbellis
+use clients instead of clients in DubboProtocol

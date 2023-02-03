@@ -1,0 +1,304 @@
+add a test case for a property
+[ test ] add missing IOException to DefaultServletWebServerFactoryCustomizerTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue with a patch provided by jbellis
+tests : fix bug in ` RunningDocumentationTests ` summary : this is a test plan : ci reviewed by : marcinkosiba fbshipit-source-id : dreiss
+[ test ] fix javadoc run on documentation
+[ hotfix ] [ runtime ] remove unused method in HttpHandlerAutoConfiguration
+fix typo .
+[ test ] remove @ ignore
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a patch provided by jbellis
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on a patch provided by dbrosius reviewed by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch provided by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on windows ( )
+add test case to OriginTrackedPropertiesLoaderTests
+add missing timeTaken check
+[ test ] add missing envEndpointNotHidden
+remove unnecessary cast
+remove order from EntityScanPackages
+add missing annotation
+[ test ] add a test to make it easier to a test
+remove unnecessary cast
+remove unused test method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix test with a patch provided by jbellis
+fix the cs error
+[ test ] fix test for test
+[ test ] fix failing TestEntityManagerTests .
+remove unused method
+[ html ] [ runtime ] fix HtmlIdentifier on windows
+add a check for the mime config
+[ hotfix ] [ tests ] fix javadoc for AbstractTestContextBootstrapper
+fix test for large -- release notes -- -- -- [ ] -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=49578904
+add a test case for a list
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch by jbellis
+remove unused import
+[ test ] add missing outputTestNames ( ) to a method
+minor : fix typo in JpaTransactionManager 's javadoc .
+remove unused method
+[ hotfix ] [ runtime ] use SingleMapBlock in MapType
+add more info
+use unmodifiableSet instead of unmodifiableSet
+add a more info
+[ comment ] add some more logging to ApplicationContextExpressionTests
+add more info
+add missing license header
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when running tests
+add missing imports
+fix toString ( ) method
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi cpu
+[ test ] improve error message in TestCipher
+javadoc for cache
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when function
+[ hotfix ] [ runtime ] remove unused method in SampleAsyncTests
+remove unused import
+remove unnecessary null check
+use IntArrayList instead for TypedSet
+add a few more info
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a bit
+add missing license header
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a bug .
+fix a bug by default .
+remove unused method
+add a test case for a tests .
+remove unnecessary cast
+add missing annotation to SqlQueryManager
+remove unnecessary cast
+remove unused method
+improve error message when creating a path
+deprecate hover ( )
+remove unnecessary cast
+remove unnecessary cast
+[ hotfix ] [ runtime ] [ executor ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ javac ] [ javac ] [ javac ] [ runtime ] [ javac ] [ runtime ] [ runtime ] [ runtime ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when up the patch provided by jbellis
+add more info to PlanFragmenter
+javadoc : add @ since annotation .
+add missing license header
+remove unused Http11AprProtocol from Http11AprProtocol
+fix testFailure ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi ?
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on a patch provided by jbellis
+tests : fix bug in DefaultMessageContextTests
+add a exception message to the currentSize .
+[ test ] remove unused method in TakesScreenshotTest
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when join with a patch provided by jbellis
+[ hotfix ] [ runtime ] add minimumNumberOfDrivers to TaskExecutor
+add a toString method
+[ hotfix ] [ runtime ] remove unused variable
+more javadoc for onBackpressureBuffer
+make CharSequenceEncoder more robust .
+add start ( ) method
+remove unused method .
+[ test ] mute failing ignore tests
+use BlockBuilderStatus instead of BlockBuilderStatus in MapValues
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe on a patch by jbellis
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when creating a patch provided by dbrosius
+remove unused import
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on a fix . fix issue with a fix .
+fix a bug in apply ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on a patch by jbellis
+tests : fix AbstractSockJsIntegrationTests # refresh .
+fix a bug in the compaction shard is not found
+add missing javadoc
+remove debug code
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when creating a patch provided by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi ?
+remove unnecessary cast
+[ test ] fix failing SetValueTests to use a lContext .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix memory leak
+fix formatMethodForMessage ( ) in FormatHelper
+remove unnecessary cast
+[ hotfix ] [ runtime ] fix encodesWrappedElementInMoveOrigin in encodesWrappedElementInMoveOrigin
+add a test case for HttpInvokerFactoryBeanIntegrationTests
+use copyProperties instead of deprecated method
+add a test case for a test class
+add missing license header
+add getAutocompleter ( ) .
+add null check
+remove unnecessary cast
+fix test on windows
+add language to WindowAssertions
+add a test case for a message of a help
+add a test case for a plan : ci reviewed by : marcinkosiba fbshipit-source-id : 6ce9927
+add a test case for a test method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a close the log message
+[ test ] remove unused test method
+add some more info
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a patch by jbellis
+add some more info
+add a check for a val in a val ( )
+add TikaConfig to TikaCLI
+fix a bug on windows for the function
+add javadoc to getScreenshotAs
+[ test ] add some cases to the default value . this test case is now .
+add asList ( ) method
+add missing javadoc
+remove unnecessary cast
+add a null check
+remove unused method
+add done to OperatorOnErrorReturn
+remove unnecessary cast
+remove unnecessary code
+fix error ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when expression .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe in TilesResult
+add missing javadoc .
+[ test ] fix TestStandardErrorCode # testOrdering ( ) a error to a error message when the code is used
+remove unnecessary cast
+make DynamicAttributesHandler more robust for DynamicAttributesHandler
+remove unused code
+add a test case for Aggregation
+do n't use length on the correct test
+remove unused method
+add a test case for a method .
+remove deprecated code
+remove the unused imports
+fix test on windows
+[ hotfix ] [ test ] add missing driver for old test
+fix bug in DefaultSubscriptionRegistry .
+fix a bug in case where the version is not found in case
+[ hotfix ] [ runtime ] remove unused method in TransactionAspectSupport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix ZeroSizeFileDetector on a patch by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi ?
+[ hotfix ] [ runtime ] add WebSocketHttpHeaders sock
+add missing javadoc .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a profile is null .
+[ hotfix ] [ runtime ] add missing ObjectFactoryDelegateFactory to BeanSelectionProvider
+add missing annotation
+add missing javadoc
+[ hotfix ] [ runtime ] add missing replication to LocalCluster
+remove unnecessary code
+add a few more info
+update javadoc for extendMessageConverters
+make GroovyBeanDefinitionSource a protected .
+test : add visitEnd to CentralDirectoryParserTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when connection
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch provided by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a executor .
+add missing license header
+add missing license header
+[ test ] add a InOrder to a InOrder to a inOrder
+add a test case to AssumingInTheoriesTest
+fix issue with a bug in AbstractReactiveWebServerFactoryTests
+remove unnecessary cast
+add missing javadoc
+remove unnecessary cast
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when HttpTunnelPayload .
+remove unnecessary cast
+fix https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi ?
+make sure the Super a test methods are not needed
+close the http response
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a patch provided by jbellis
+update javadoc for convert
+add optimizedLaunchArgs for property
+make Utils more robust ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using headers in RequestFactory
+[ hotfix ] [ runtime ] add a ERROR_NO_EACCES to NettyWebServer
+add missing annotation
+add a test case for startup
+[ hotfix ] [ runtime ] remove unused method in AbstractLoggingSystemTests
+[ test ] add missing setUp to OsgiTest
+add missing license header
+[ hotfix ] [ runtime ] add @ configuration to auto couchbase
+fix typo .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix typo in ShellProperties
+add some methods to JobLauncherCommandLineRunner
+[ hotfix ] [ runtime ] add @ configuration to JdbcRepositoriesAutoConfiguration
+[ test ] add test to LaunchedURLClassLoaderTests
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue with thanks to avoid npe when auto .
+[ test ] fix FilteredClassPathRunner # createTest
+use getInProgressAsyncCount ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch provided by jbellis
+[ hotfix ] [ runtime ] add missing @ conditionalonclass
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch provided by jbellis
+[ hotfix ] [ runtime ] add ApplicationEnvironmentPreparedEvent to ClasspathLoggingApplicationListener
+[ tests ] add missing mapping in EndpointWebMvcAutoConfigurationTests
+[ test ] fix tests to use adapted
+add missing annotation
+use Collections for DynamicConfiguration
+add missing javadoc .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi this
+make Main more robust to use Condition
+fix https : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi : //issues.apache.org/bugzilla/show_bug.cgi ;
+fix typo in javadoc comment
+add a boolean method to Call
+[ test ] fix CallTest to use enqueue ( )
+add a test case for a test case
+add a test case for a test original commit : elastic/x-pack-elasticsearch @ gmail.com
+add a test case for a test code with a test case .
+increase connection test connection to reduce connection
+add missing import
+add missing javadoc .
+add missing javadoc .
+[ hotfix ] [ runtime ] add missing ignored to Platform
+add missing javadoc
+make OkApacheClientTest more robust to use setUp
+fix typo in javadoc ( )
+fix a bug in case of a exception .
+use Method in RpcUtils
+update javadoc for ExpectedException
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix exception in ExpectedException
+remove unused ReferenceConfig constructor
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when dynamic : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue .
+[ hotfix ] [ tests ] add methods to DubboRegistryTest
+remove unused disabled from ZookeeperMetadataReportTest
+add getType .
+add a test case to log message when log .
+remove unused method
+[ hotfix ] [ runtime ] add missing statementHasTestsToRun for ParentRunner
+[ hotfix ] [ tests ] remove unused method in RestAdapterTest
+use assertArrayEquals instead of assertEquals
+add test case ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix issue on a patch provided by dbrosius
+[ test ] add cleanUp to TypeExcludeFilterTests .
+javadoc .
+remove unnecessary null check
+add a test case for the test .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a bug . patch provided by jbellis
+remove @ parameter
+add some methods to MetadataReport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when using a patch provided by dbrosius reviewed by dbrosius
+add a unit tests to the unit test .
+use encodeString ( ) instead of ( )
+add missing javadoc
+update javadoc to the javadoc .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix ConnectionSpec to avoid npe when using ConnectionSpec .
+remove unnecessary cast
+remove unnecessary code .
+revert `` fix the ssl SslContextBuilder '' this reverts commit 0dccfa557b99993989920cab997a5b2cc8d9020a .
+remove deprecated method
+remove unnecessary regsitries
+remove unnecessary null check
+use next ( ) in toUrl ( )
+add missing annotation to JsonConverter
+[ test ] fix failing CallTest # canceledBeforeResponseReadSignalsOnFailure
+fix typo in Version # id
+[ hotfix ] [ tests ] remove unused variable
+[ test ] use currentThread in ParallelMethodTest
+add unit test
+mute failing test
+deprecate unused method
+make MimeHelper more robust for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix
+add more info
+remove unused test
+fix toString ( ) method
+remove unnecessary cast
+add a test case for a test
+make TestName use volatile
+add missing javadoc
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix npe when a patch provided by jbellis
+use ArrayList instead of CopyOnWriteArrayList
+fix a bug in ConsulRegistry , add a test case of a consul
+add missing javadoc
+update the test for the test case
+remove unused code
+add a test case for host
+add delete .
+[ hotfix ] [ runtime ] fix Http1ExchangeCodec # createRequestBody ( ) this closes # 5942 .
+remove unnecessary code .
+add missing license header
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54711 fix javadoc for CommandContext
+remove unused variable in ProjectInfoAutoConfiguration
+add after to DubboProtocolTest
+fix ReferenceConfig to use prefix instead for prifix
+use ArrayList instead of CopyOnWriteArrayList .
