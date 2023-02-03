@@ -1,0 +1,312 @@
+fix bug in ManagementConfiguration and ManagementConfiguration
+remove unnecessary type from JsonTestersAutoConfiguration
+ResourceEndpointConfiguration : ResourceEndpointConfiguration mvc tests .
+remove unnecessary methods
+add a STATUS_NOT_FOUND to STATUS_OK
+[ streaming ] remove package
+fix bug in HealthStatusHttpMapper ( ) -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=30534531
+[ streaming ] add support for aggregate that
+add valid .
+remove unnecessary methods
+add a test to RunArguments and RunArguments
+remove connectionFactory and tests
+fix up tests .
+EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # the EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # the EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint # EnvironmentEndpoint ( ... ) test plan : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id :
+add missing @ conditionalonwebapplication and conditionalonwebapplication on tests
+add test for tests to AnnotationConfigApplicationContext
+fix bug in RedisReactiveHealthIndicator and RedisReactiveHealthIndicator summary : this commit adds the indicator connection to be used to be used . reviewed by : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id :
+fix LOWEST to use of AutoConfigurationSorter
+[ hotfix ] add support METHOD ( ) test .
+add a converters .
+add a pair of pair lowestIndexOf to pair
+[ streaming ] [ boot ] boot ] this closes # 17085
+remove unnecessary type from FlywayEndpoint and FlywayEndpoint
+fix bug in tests .
+add of and EndpointWebMvcAutoConfigurationTests and EndpointWebMvcAutoConfiguration and EndpointWebMvcAutoConfigurationTests and EndpointWebMvcAutoConfigurationTests and EndpointWebMvcAutoConfigurationTests and EndpointWebMvcAutoConfigurationTests .
+remove unnecessary methods
+fix bug in ReflectionUtils
+remove ok from InfluxDbAutoConfiguration
+add test for db to influx
+add LinkedHashMap to TestPropertyValues
+add test for assertion to StandardContextLoaderTests
+add parent .
+fix bug on java 8
+remove unused imports
+remove unused imports
+add a autoConfigFirst to ContextLoader
+add test for redis to password to the tests .
+fix bug in DefaultServletWebServerFactoryCustomizerTests ( )
+remove unused imports
+fix bug in AbstractDependencyFilterMojo and AbstractDependencyFilterMojo
+remove dataSource from dataSource ( ) to use the tests to use the dataSource method to use the use the use of the default context ( ) in HikariDataSourceConfigurationTests .
+fix bug in LettuceConnectionConfiguration
+add after .
+remove RedisStandaloneConfiguration from jedis
+add isActive ( ) methods .
+[ hotfix ] add support to QuartzAutoConfiguration
+remove unused imports
+add a test to BinderTests .
+add a clear method .
+add a openBracketCount and ConfigurationPropertyName to ConfigurationPropertyName
+fix bug in HeapdumpMvcEndpoint and HeapdumpMvcEndpoint
+fix bug in AutoConfigurationReportEndpoint test
+fix bug in LoggersMvcEndpoint . summary : this commit adds the documentation of the mvc and the documentation of the mvc and the mvc to use it . reviewed by : dinhviethoa fbshipit-source-id : coneko
+add a test to CollectionBinderTests to CollectionBinderTests
+add test for MapBinder and MapBinderTests to MapBinder
+add filter and source and filter
+remove unused imports
+remove unnecessary methods
+add resolvedTarget and resolvedTarget and bind to MapBinderTests .
+remove unused imports
+remove unused imports
+make EmbeddedServerPortFileWriterTests .
+fix bug in EmbeddedServerPortFileWriter and WebServerInitializedEvent .
+remove unused imports .
+[ streaming ] FlywayAutoConfiguration .
+use a annotation instead of a annotation to be a annotation .
+tests : add more to tests .
+add isValid to ConfigurationPropertyName
+add ignoreNested for the new unbound ignore
+fix tests on tests
+remove unused imports
+add a binder and hasCustomServerPort to hasCustomServerPort method to hasCustomServerPort method to hasCustomServerPort method to hasCustomServerPort to hasCustomServerPort method to add to hasCustomServerPort to hasCustomServerPort to hasCustomServerPort method to the use of the java 8 of boot is not needed for the use of the
+fix bug in AuditEventsMvcEndpointTests ( )
+add missing deprecated methods in InetAddressEditor to deprecated methods in javadoc . -- -- -- -- -- -- -- -- - created by moe : http : http : //code.google.com/p/moe-java moe_migrated_revid=100974066
+fix tests in SampleWebFluxApplicationTests
+fix bug on java 8
+fix bug in SpringApplicationAdminMXBeanRegistrar and onWebServerInitializedEvent .
+[ streaming ] hashCode outcome
+add configurer to WebFluxAnnotationAutoConfiguration
+add missing javadocs
+fix use of put in JpaProperties and JpaPropertiesTests .
+fix use of put in JpaProperties and JpaPropertiesTests .
+remove unused imports
+remove unused imports
+fix bug in DefaultServletContainerCustomizer and SessionConfiguringInitializer this commit fixes the default of the default of the default of the customizer of the default of the default of the default of the same this commit fixes issue : resolved fix
+[ streaming ] package
+fix bug on java 8
+remove EnumSet from EnumSet .
+remove unused imports
+remove unused imports
+add result and result and result and result and result and add a to EnableConfigurationPropertiesTests .
+remove unused imports
+[ streaming ] StatsdMetricWriter and StatsdMetricWriter and StatsdMetricWriter
+[ streaming ] [ boot ] remove boot ]
+remove unused imports .
+fix bug in visitGroupId ( )
+remove redundant com # com # QueryRunner
+[ streaming ] path and resolveArgument and resolveArgument ( )
+fix bug in JdbcClient . summary : this will be used to be used . reviewed by : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : coneko
+make Http2AsyncParser a upgradeHandler
+fix bug on java 8
+add a N_PAGES to MetadataExtractor
+tests : add missing @ @ @ @ @ @ since that issue : resolved fix
+remove unused imports
+remove unused code - add to the javadoc of the qualifier
+add forClassWithGenerics ( ) method
+remove unused imports
+fix bug in DefaultActionMapper and DefaultActionMapper
+remove unused imports
+make RowDistinctFromOperator a block
+add getDistribution ( ) method to getDistribution ( )
+add a installExtension ( ) method in installExtension ( )
+add getPositions .
+make DriverContext a max .
+add FirefoxOptions and FirefoxDriver ( ) method
+fix bug in FormHttpMessageReader .
+add test to ReflectiveMethodResolver .
+remove unnecessary methods
+add a getMessageConverters to AnnotationMethodHandlerAdapter
+remove unused imports
+fix bug in QueryCardinalityUtil . -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=30534531
+add writableChannel .
+add missing license headers .
+remove unnecessary methods
+remove unused imports
+add missing license headers .
+add a index to ConstructorArgumentValues
+[ streaming ] [ streaming ] add
+remove unnecessary methods
+fix bug in ExpressionFormatter and ExpressionFormatter
+remove unused code
+remove unnecessary methods
+add a httpMethod and methods to argument
+fix bug in AprEndpoint and apr
+to use toString ( ) and toString ( )
+make WebTestExecutionListener and WebTestExecutionListener execution execution
+add error and error
+remove unused imports
+test : add more to by ignore
+move ApacheHttpClient to ApacheHttpClient
+fix bug in UrlPathHelper and UrlPathHelper
+add some javadoc to Flowable
+add setDriverClass ( ) method to ConnectionProperties
+add contextInitialized ( )
+fix bug in UIBean and Component
+[ streaming ] test to use of the configuration to use of the configuration to use of the same before to be used in the default to be a configuration .
+DefaultListableBeanFactory and DefaultListableBeanFactory and DefaultListableBeanFactory
+remove redundant page
+fix bug in XenServerGuru and hypervisorVersion
+FormTag : FormTag path and RequestContext to be used with - use the RequestContext
+add hasWebjarsResolver javadoc for ResourceChainRegistration and hasWebjarsResolver
+add test for tests to tests .
+remove unused imports
+fix bug in MathFunctions and round ( )
+add coreExecutor to Executor
+fix bug in TransactionalSpoutCoordinator and PartitionedTransactionalSpoutExecutor .
+AssertionError ( ) ( ) statement
+add ResolvableType to NoSuchBeanDefinitionException
+add a SET_NETWORK_CONDITIONS for the driver
+add support for not not not not not test
+add missing license headers .
+remove unused imports
+fix bug in TransactionInterceptorTests ( ) when a PlatformTransactionManager .
+add test for StompSubProtocolHandlerTests to StompSubProtocolHandler
+remove unused imports
+remove unnecessary methods
+fix bug on java 8
+remove unused imports
+add test for PropertySourceAnnotationTests ( )
+add missing license headers .
+add missing license headers .
+add a ConfigValidation .
+ExchangeFilterFunctions and use password .
+add test for LambdaObserver and LambdaObserver and LambdaObserver and LambdaObserver and disposedObserverShouldReportErrorOnGlobalErrorHandler methods . -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=100974066
+add missing license headers .
+add equals method to equals ( )
+[ streaming ] set to String
+remove unnecessary methods
+fix bug in AbstractListenerWebSocketSession test
+remove unused imports .
+add ErrorHandlingAsyncListener .
+fix bug in ResponseStatusExceptionHandler and DefaultHandlerExceptionResolver
+add a chain and chain option
+fix bug in File ( )
+remove unused imports
+remove unused code from QueryManagerConfig and fix
+remove unused imports
+fix bug on java 8
+add cacheUnresolved false to AbstractCachingViewResolver
+remove unused imports
+add a deprecated methods in Jar , the Jar is no need to be used for the Jar
+fix bug in WsSession . -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=30534531
+add resolveUrlWebJarResourceNotFound .
+remove redundant method
+add getTaskInstanceId ( ) to SqlTaskManager
+fix bug on java 8
+[ streaming ] interface and interface
+add test for TreeRewriter and TreeRewriter and node class .
+remove unused code - add a few more descriptive to use it is no need to use the Locale
+fix bug on java 8
+remove unused code - add a few more and add a more to the OfficeParser .
+[ streaming ] [ streaming ] add
+add missing javadocs for form
+add missing license headers .
+add missing license headers .
+fix bug in ConventionsServiceImpl *
+add isOpen .
+add test for n to n
+fix valueOf to use to use to use of valueOf of valueOf in GroupingOperationRewriter
+AnnotationCacheOperationSourceTests : add multiAnnotations .
+MarshallingView and MarshallingViewTests methods in MarshallingView
+add javadoc to Observable
+remove unused imports
+add a add to add .
+fix tests on java 8
+remove unused imports
+fix bug on java 8
+add a : add an
+add shouldNotChokeOnFinalFields ( ) and copyFields ( ) methods .
+add a add to HttpHandlerConnectorTests
+fix the tests to use of when the invisible the invisible the default the default the default the same the same the default the default the same the same the same the same the same the same the same the
+add a flatten method .
+remove unused imports
+make JoinFilterFunction a filter ( ) of the filter ( ) ( ) of the same of the filter method to be used for now
+add a ofNullable to SqlQueryScheduler
+remove unused imports
+add clear to clear .
+fix a bug in Nio2Endpoint
+add test for tile from bing .
+Ordered : fix bug in Ordered
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47161 fix a few fix a fix a bug .
+add toJson .
+VariableTree ( ) of the expression in a expression in the cast to use of the expression in a instance
+remove unused imports
+add missing @ @ @ @ @ @ @ @ @ since that issue : elastic/x-pack-elasticsearch @ @ @ @ @ since that issue : elastic/x-pack-elasticsearch @ confluent.io >
+remove unused imports .
+add test for web beans in EmbeddedWebApplicationContext
+LocaleHandle should use value .
+add baseUrl to Retrofit
+add inEscape and inEscape and basic in BasicJsonParser
+add missing license headers .
+add missing license headers .
+add a protocol .
+add support ( ) method .
+add a mvc to mvc to mvc test plan : ci reviewed by : coneko fbshipit-source-id : coneko fbshipit-source-id : ttsugriy fbshipit-source-id : coneko
+remove unused imports
+add a T to Converter
+make delegates ( ) object .
+[ streaming ] mvc mvc as well as well as well as well as the mvc as well as well as well as well as well as well as it is no longer that are not used to the mvc it 's not needed
+fix bug in BackgroundPreinitializer and BackgroundPreinitializer summary : this commit adds a ` result a ` to ` to be ` ( ) ( ) ` expressionCollector ` in the ` which is not be used to be used to ` ( ) ` ( ) ` expressionCollector ` ( ) ( ) ( ) ( ) ` ( ) ` (
+remove unused imports
+[ streaming ] add in CassandraAutoConfiguration
+add a ofNullable and tests for the tests
+add environment to PersistenceExceptionTranslationAutoConfiguration
+remove unused imports
+fix bug on windows
+remove unnecessary methods
+add a put to JavaCompilerFieldValuesParser
+remove unused imports
+add a deprecated methods to SpringProfileDocumentMatcher
+add ConditionEvaluationReportTests to ConditionEvaluationReport
+remove unused imports
+add a hiddenHttpMethodFilter ( ) method to OrderedConfiguration
+add test for mvc that that are mvc that are that are that are that are that are that are that are that are that is no need to the same of the same to be used to the following this is the same of the same of the same is the same
+add SampleTestNoMockitoApplicationTests to ResetMocksTestExecutionListener
+remove ignoreNestedProperties ( ) from ignoreInvalidFields ( ) as well as well as it is not the ignoreInvalidFields method as it is not be used as it is not have it is not used in the elements by default .
+tests : use of tests to tests .
+add a Method and ServerTransportFilter
+add parameter to ReferenceConfig .
+add isLimitExceed .
+Serializable : fix bug in Serializable
+add test for CookiesTest to CookiesTest
+add missing license headers .
+remove isNetworkError from isNetworkError .
+add missing license headers .
+[ streaming ] add support to FormUrlEncodedTypedOutput
+remove unused imports .
+fix bug on java 8
+method : add # isMetaMethod
+add Map to AetherGrapeEngine
+fix bug on java 8
+[ streaming ] TemporaryFolder ( ) and IllegalArgumentException
+remove unnecessary methods
+[ streaming ] [ streaming ] add
+[ streaming ] [ actual ] add
+fix tests on tests .
+add a parser of RSocketMessagingAutoConfigurationTests .
+add value to counts
+add test for manager to SecurityAutoConfigurationTests
+add a test to PropertySourcesPropertyValues to PropertySourcesPropertyValues
+add source and result .
+add group and setGroup to DynatraceProperties
+remove unused imports
+remove unused imports
+add test for TestRestTemplate and TestRestTemplate to TestRestTemplate
+fix bug on java 8
+update child ( ) ( ) . -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=30534531
+add field and each
+remove unused imports
+fix bug on java 8
+remove unused imports
+remove unnecessary methods
+remove redundant NetUtils
+add test for Retrofit and callAdapterFactories in Retrofit
+remove method from method .
+remove unused imports
+add a isException to isException .
+URL and URL methods in URL
+remove unnecessary methods . summary : this will be used to be a ` indexOf ` ( ) ` . reviewed by : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id :
+add Collection to hibernate
+remove unused imports
+add IntegrationComponentScanAutoConfiguration to IntegrationAutoConfiguration

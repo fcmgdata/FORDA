@@ -1,0 +1,312 @@
+[ hotfix ] [ tests ] add missing annotations
+fix bug on java 8
+add a test to ResourceEndpointConfiguration .
+remove unused appDirectory from launcher .
+fix bug on WebEndpointResponse with STATUS_OK
+[ hotfix ] [ tests ] [ tests ] -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=37032710
+fix bug on WebEndpointResponse in AuditEventsWebEndpointExtension motivation : when using the number of unavailable is not used in AuditEventsWebEndpointExtension itself . modifications : * can be used in the audit ( AuditEventsDescriptor ) . result : no need to allow the case of a WebEndpointResponse of a OK_STATUS field a principal . result : more
+support bind in bind
+add dump and getDump method
+remove unused method from SpringApplication
+RunArguments # parseArrayContainingEmptyValue ( ) and RunArguments # 1555 fixes ` inspection ` inspection violations . description : > reports any calls to ` RunArguments ` RunArguments ` .
+clean up tests
+remove ` Health ` Health `
+add a test for the environment and a sanitize a environment the sanitize as the environment the sanitize of the sanitize a way to the sanitize the environment the sanitize the sanitize `` the sanitize `` the sanitize '' with an `` real '' , which is the sanitize `` the ``
+add nullness annotations on the field in lists.java
+support Annotation in extensions
+use RedisReactiveHealthIndicator # ReactiveRedisConnection ( ) instead of ` RedisReactiveHealthIndicator ` and ` RedisReactiveHealthIndicator ` RedisReactiveHealthIndicator `
+clean up AutoConfigurationSorterTests and javadoc
+add produces ( ) to DeleteOperation ( ) and DeleteOperation ( )
+minor refactoring : remove duplicated code
+remove unused pair from key
+use ManagementFactory instead for ` url ` and ` main ` main ` summary : there is no need to use the ` main ( ) instead of ` . test plan : ci reviewed by : coneko fbshipit-source-id : illicitonion
+[ hotfix ] [ runtime ] FlywayEndpoint
+rename stopApplication to stopApplication ( ) in LaunchedApplication
+mvc : add more eip as specialized mbeans
+rename bind to hasBoundBean ( ) in Binder
+add a e to the e message and a custom message in the ex ( ) .
+clean up auto builder
+add OkHttpClient to a auto auto auto db
+[ test ] add LinkedHashMap to TestPropertyValues
+add assertionErrorsAreAvailableAsIs ( ) to StandardContextLoaderTests .
+add a parent parent parent parent parent that we should be used in the parent .
+remove unused method from redis
+minor : fix javadoc .
+rename HCP ( ) method to isActive ( )
+ContextLoader supports `` autoConfigFirst '' autoConfigFirst
+add an option to the connection password with a redis of redis of config ( ) .
+rename method in DefaultServletWebServerFactoryCustomizerTests
+remove unused method
+clean up warnings in spring-test
+use HikariDataSource in HikariDataSource
+fix bug on LettuceConnectionFactory in configuration .
+add before method
+minor refactoring : remove duplicated code
+add isActive ( ) and isActive ( ) method .
+add test for primary auto primary multiple thread
+rename WebMvcRegistrations to WebMvcRegistrations
+support for bind
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ add ] [ table-common ] [ table-common ] [ add ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [
+fix ConfigurationPropertyName # openBracketCount
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ mvc mvc mvc mvc ]
+https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49953
+[ hotfix ] improve logging in documentation .
+add test of MockConfigurationPropertySource collection in tests
+fix bug in MapBinder and MapBinder
+add test cases
+remove unused method
+rename resolveFaviconLocations to resolveFaviconLocations
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [ runtime ] [ runtime ] [ binder ] bind target of ConfigurationPropertyName name ] [ runtime ] add ] [ bind ( ]
+remove unused method
+remove unused imports and javadoc
+add servlet 3.1 methods for servlet api
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] use WebServerInitializedEvent ServletWebServerInitializedEvent ] make sure the WebServerInitializedEvent port to WebServerInitializedEvent .
+remove unnecessary methods from system
+add emptyList to FlywayAutoConfiguration ( )
+use getAnnotation in annotation
+add missing @ test for tests .
+add isValid ( ) to ConfigurationPropertyName and ConfigurationPropertyName
+add ignoreNested support for BeanPostProc
+update properties to use SampleProperties
+remove unused method and javadoc
+remove unused binder from spring api
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=58397 fix a bug in mvc in AuditEventsMvcEndpoint with an mvc and mvc and mvc and AuditEventsMvcEndpointTests the events that was mvc .
+add nullness annotations on the field in lists.java
+remove tests for tests for tests
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ indicator ] [ indicator status code ] [ indicator ] [ indicator status code ] [ indicator ] [ indicator ] [ indicator ] remove ] remove ] remove ] remove
+add onWebServerInitializedEvent method for ApplicationReadyEvent bean
+use hashCode in AnnotationCustomizableTypeExcludeFilter
+WebFluxAnnotationAutoConfiguration # configureArgumentResolvers ( HandlerMethodArgumentResolver ) with configurer issue : # addArgumentResolvers
+use JavaPlugin in Plugin
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] fix ]
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] fix ]
+[ hotfix ] [ tests ] remove unused imports
+rename UnknownHostException # mongo .
+update servlet 3.1 on servlet api
+[ hotfix ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=26103222
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] SecurityProperties for SecurityProperties
+clean up EnumSet to use EnumSet
+update DefaultUriBuilderFactory to use DefaultUriBuilderFactory
+remove unused method
+add result and support
+rename close ( ) to cleanUp .
+update StatsdMetricWriter and YamlConfigurationFactory
+fix bug in ml by default . fixes # 1555 fixes ` inspection violations . description : > reports any calls to be used in the code .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] remove ]
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+use empty for runner
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] use test ] remove the resolveArgument mavContainer method ] remove the resolveArgument ( ) .
+rename getStatement to PreparedStatement
+add upgradeHandler to Http2AsyncParser
+[ hotfix ] [ tests ] [ tests ] [ tests ] fix ]
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ summary : ] [ table-common ] [ table-common ] [ table-common ] [ summary : ] [ runtime ] add ] summary : ] [ table-common ] [ summary : ] [ summary : ] [ table-common ] [ table-common ] [ runtime ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [ summary : ]
+camel-7999 : more components include documentation
+remove unused imports
+update javadoc for BeanFactoryAnnotationUtils and HttpServerErrorException
+add generics to ResolvableType and ResolvableType
+updated javadoc for EmbeddedDatabaseBuilder and javadoc
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] use the same jvm ] use the check .
+rename HttpClient to ApacheHttpClient
+[ hotfix ] [ operator ] [ tests ] [ tests ] [ tests ] [ junit ] [ row test ] add ] [ operator of class ] RowDistinctFromOperator
+add getDistribution ( ) method for system distributed system is now we do a custom getDistribution ( ) method in the system and the system .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+add getPositions to LazyBlock ( )
+use DriverContext # max instead of ` Math ` abs ( # ` ) ` and ` to ` is a ` and ` to ` Math ` Math ` and ` .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] make FirefoxDriver ( )
+javadoc : remove duplicated code
+ReflectiveMethodResolver supports `` MethodResolver '' ReflectiveMethodResolver '' ReflectiveMethodResolver
+minor refactoring : remove duplicated code
+add a MediaType to AnnotationMethodHandlerAdapter
+remove unused imports
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] add ] QueryCardinalityUtil for QueryCardinalityUtil
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] add ] [ table-common ] add ] writableChannel method ] writableChannel .
+fix javadoc issues
+fix bug in ml
+remove unused StaticSelector from FileResourceGroupConfigurationManager
+add missing license headers
+support for hasIndexedArgumentValue
+rename sql flag to SessionFactoryBuilderSupport
+remove unused method
+add a grouping expression method for GroupingSets
+remove unused method
+polish javadoc in HttpServletRequest
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] make sure ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+add support for the current apr thread
+use ENTER to use ENTER .
+rename tests to match names
+polish javadoc in PackageBasedActionConfigBuilder
+[ hotfix ] [ tests ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=37032710
+eranmes : add tests for symbol tests as well as well as well as well ( )
+rename ApacheHttpClient to ApacheHttpClient
+fix issue with `` requestUri ''
+2.x : fix some javadoc warnings and javadoc fixes javadoc
+rename setDriverClass ( ) to setDriverClass ( ) .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ git-p4 : ]
+fix the issue of the ognl ognl the ognl ognl ognl ognl ognl the populate in with an ognl ognl ognl ognl ognl res . issue : //code.google.com/p/guava-libraries/issues/detail
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests test ] [ tests ] [ tests ] remove ]
+add support for `` primary '' ( `` requiredType ) '' ( `` beanNames '' )
+remove unnecessary methods
+fix bug in ml by jbellis
+add servlet 3.1 to FormTag and FormTag issue : spr-12594
+add hasWebjarsResolver ( ) to ResourceChainRegistration issue : spr-13188
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests test ] make sure ] [ tests
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] make sure ] [ runtime ] remove ] remove ]
+[ hotfix ] [ tests ] [ tests ] [ tests ] -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=100974066
+clean up remote and tests
+rename method in TransactionalSpoutCoordinator
+add createQueryRequests support for TaskInfo
+add ResolvableType type support in NoSuchBeanDefinitionException issue : spr-12594
+add DELETE ( ) to ChromeDriverCommandExecutor
+fix bug on classpath in classpath tests
+update javadoc for AbstractContextLoaderInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and AbstractDispatcherServletInitializer and javadoc .
+remove getCount from Block
+add support for `` qualifier ''
+add test for ` StompSubProtocolHandler ` and ` StompSubProtocolHandlerTests ` StompSubProtocolHandlerTests `
+clean up warnings in spring-test
+minor refactoring : remove duplicated code
+fix bug on java 8
+remove unused imports
+[ hotfix ] [ tests ] add a empty lists to the locations with resource empty .
+add missing license headers
+add missing license headers
+[ hotfix ] [ tests ] add missing javadocs for config
+clean up ExchangeFilterFunctions .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ table-common ] [ table-common ] [ table-common > onError > onError > onError > onError on error message ] this closes # 3435
+add missing license headers
+add equals ( ) to AbstractType
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ warning ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [ table-common ] [ table-common ] [
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] fix ]
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] add ] [ table-common ] [ table-common ] [ table-common ] [ table-common > suspend > offer ] [ runtime ] [ runtime ] [ table-common ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] add ] [ warning ] [ runtime ]
+remove unused imports .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ runtime ] add ] ServletHttpHandlerAdapter
+improve logging of error messages
+[ hotfix ] [ table-common ] add ] OpenSessionInViewInterceptor in OpenSessionInViewFilter
+add a couple of a couple of a bug where it 's easier for the same from a bit of a single install . also fix for a bug .
+remove unused imports
+[ hotfix ] [ tests ] [ tests ] remove unused methods
+remove unused imports
+add planNode ( ) to IterativeOptimizer and planNode
+add isCacheUnresolved method for cacheUnresolved and AbstractCachingViewResolver
+clean up javadoc
+minor refactoring : remove duplicated code
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [ table-common , ] [ runtime ] [ runtime ] [ table-common , ] [ runtime .
+support for locations
+add a executor to AsyncExecutionInterceptor
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ runtime ] [ sql ] [ sql ] [ sql ] [ sql ] [ sql ] [ sql ] [ sql ] [ sql ] [ sql ] [ table-common ] [ sql ] [ sql ] [ sql ] [
+use SimpleValueWrapper in get
+clean up ValidationGroup parameter to ValidateGroup
+https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49953
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ ROOT ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+ExtendedBeanInfo supports `` handleNonVoidWriteMethod '' method '' extended
+rename OfficeParser to OfficeParser
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 pass a few more clear that is no need to be used in ForkClient and the same object
+javadoc : add missing javadocs .
+add missing license headers
+updated javadoc for JmsProvider
+use getClass instead of in ConventionsServiceImpl
+add isOpen ( ) to WsHttpUpgradeHandler
+add testOutOfBound to support for MAX_NUMBER_OF_VALUES
+fix bug in GroupingOperationRewriter and GroupingOperationRewriter and TestGroupingOperationRewriter the code groupingOrdinals is used to be used to be able to use the code .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test ] [ cacheable cacheremove ] remove ] noAnnotation ( ) .
+add support for MarshallingView and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests and MarshallingViewTests ( ... ) to MarshallingView issue : spr-13188
+polish javadoc in Observable and javadoc
+remove unused imports
+rename method to SeleniumServer
+fix a bug in ViewResolutionResultHandler and InvocableHandlerMethodTests as an empty signal . we use collectList in error instead .
+update AbstractServerHttpMessageReader to use resolveReadHints
+[ hotfix ] [ tests ] [ tests ] [ tests ] use DefaultFlashMapManager
+add test cases
+add test cases
+[ hotfix ] [ tests ] [ tests ] improve error messages for unmodifiable
+add test for tests to pass from tests .
+add flatten ( )
+remove unused method
+rename filter to JoinFilterFunction
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ sql > reports .
+use EnumMap in EnumMap
+add clear method ( )
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ streaming ]
+add isDistinctFrom method
+fix bug in Ordered and WebToHttpHandlerAdapter
+add missing javadocs
+move toJson to List
+update ExpressionTree to use ReflectionWrapper
+remove unused method
+suppress warnings in spring-test
+remove instantiate ( ) from CassandraAutoConfiguration summary : a ` instantiate ( ) ` and ` XADataSourceAutoConfiguration `
+clean up beans
+rename variant to LocaleHandle
+add baseUrl ( ) to Retrofit and Retrofit ( )
+basic support for build
+update javadoc for documentation .
+update license headers
+add a protocol ( ) method to the annotation
+fix bug on Tag in exception ( ) motivation : exception ( ) when using the exception ( ) should be used to exception ( ) . modifications : - add unit test result : add unit tests .
+add externalFile to the mvc outcome .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] make Categories ] make HashSet are a HashSet .
+add convert to Converter
+issue # 2161 : unify test as well as well
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] remove ]
+add run method for BackgroundPreinitializer # BackgroundPreinitializer
+[ hotfix ] [ tests ] remove unused imports
+fix bug in CassandraAutoConfiguration and CassandraAutoConfiguration
+use Optional in LoggingApplicationListener
+PersistenceExceptionTranslationAutoConfiguration supports `` Environment '' PersistenceExceptionTranslationAutoConfiguration issue : spr-12594
+clean up RSocketMessagingAutoConfiguration .
+add isMissingTopicsFatal to isMissingTopicsFatal
+minor refactoring : remove duplicated code
+add a unmodifiable to values and a unmodifiable
+remove unused method
+add deprecated method in ArrayDocumentMatcher issue : spr-12594
+support Condition in ConditionEvaluationReport issue : spr-12594
+update HttpMessageConvertersAutoConfiguration and HttpMessageConvertersAutoConfiguration
+rename HiddenHttpMethodFilter to OrderedHiddenHttpMethodFilter
+add test for objectMapperBuilder with Jackson2ObjectMapperBuilder
+add missing javadocs .
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] use auto ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ runtime ] [ auto ]
+improve error message when protocol is not available in ClientInterceptor
+add parameter to a String name as well as well as well as well as it .
+add isLimitExceed method for limit
+add isValid ( ) and isValid ( )
+add test for subdomain accept cookies to CookiesTest
+add Retrofit # baseUrl ( )
+remove unused method
+add missing license headers .
+use addField instead of a ByteArrayOutputStream
+remove unused method
+fix issue on java 8
+add isMetaMethod ( ) and isMetaMethod ( )
+add Map to AetherGrapeEngine and AetherGrapeEngineTests
+remove unnecessary Theories # toString
+rename method to IllegalArgumentException .
+remove unnecessary FrameworkMember from FrameworkMember
+issue # 2161 : unify test for folder
+rename method in Types
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] remove ]
+add PathPatternParser to RSocketMessagingAutoConfiguration
+add value to PrefixMetricGroupExporter
+add test cases
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test ] PropertySourcesPropertyValues for PropertySourcesPropertyValues
+support Comparator in JavaBeanBinder issue : spr-12594
+add group group to DynatraceProperties
+remove ` Binder ` Binder `
+rename TestWatcher to TestWatcher .
+update TestRestTemplate to use TestRestTemplate
+minor refactoring : remove duplicated code
+update javadoc for child
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] TestClass ] make each ] make each ] [ each ] [ each ] each ] each ] [ each ] [ each ] [ each ] [ each ] [ each ] [ each ]
+[ hotfix ] [ tests ] remove unused imports
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] fix ]
+update javadoc to use config .
+call writeTo ( ) to OkHttpClientTest
+rename NetUtils to getLocalHost ( ) and NetUtils
+add callAdapterFactories method
+remove unused method
+remove unused imports
+[ hotfix ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [ table-common ] [
+add a test for URL and URL
+remove unused method from URL .
+https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49953
+remove unused method
+make sure that auto integration tests

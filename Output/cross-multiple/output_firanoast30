@@ -1,0 +1,312 @@
+[ hotfix ] [ conditionalonexpression ] add conditionalonexpression
+fix bug in TypeExcludeFiltersContextCustomizer issue : resolved fix
+add ResourceEndpointConfiguration to AbstractWebEndpointIntegrationTests
+fix tests to use the reverse in JarFileRemoteApplicationLauncher
+AuditEventsWebEndpointExtension : allow to allow to be able to be used in AuditEventsWebEndpointExtension
+[ hotfix ] [ tests ] [ tests ]
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for the default values and the AuditEventsWebEndpointExtension .
+add support to AggregateBinder
+add getDump ( ) methods
+remove unused method
+[ test ] [ tests ] add test tests to the RunArguments
+remove unused method
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi @ test
+add test for tests
+[ hotfix ] [ conditional ] add support for conditional servlet
+add support for empty Endpoint as well as well as well as well as well as well issue :
+add support to RedisReactiveHealthIndicator this commit adds a a more than up to RedisReactiveHealthIndicator and adds a ReactiveRedisConnection in RedisReactiveHealthIndicator . test plan : ci
+add return to AutoConfigurationSorter
+add produces method
+fix issue on unmodifiable .
+fix bug in key ( ) this commit fixes the ` pair ` in ` .
+fix tests for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in BootRunApplication and fix a bug in BootRunApplication a bug .
+use String in FlywayEndpoint
+add stopApplication ( )
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48399 add unit tests
+remove unused method
+add test for tests
+remove unused method
+add support to InfluxDbAutoConfiguration this commit adds a a ObjectProvider beans and add test to InfluxDbAutoConfiguration for the issue : http : //code.google.com/p/moe-java moe_migrated_revid=49401524
+add test for tests
+add test cases to AbstractContextLoader
+add self ( ) to AbstractContextLoader
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in RedisCacheConfiguration # 1555 fixes ` CacheAutoConfigurationTests ` inspection violations in ` in ` in ` ( ) ` ( ) ` and ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` in ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` in ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) `
+remove unused imports
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi ? # 1555 fixes ` inspection violations in ` HCP ` in ` ( ) ` and ` HCP ` HCP ` in ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` , as a ` ( ) ` , the ` ,
+add test cases to ContextLoader
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48399 add unit test for a bug where a bug where a bug where a bug where a bug are not have a bug in the same tests are not have been add a bug in the sentinel in the same
+fix bug in DefaultServletWebServerFactoryCustomizerTests to use acceptCount .
+remove unused method
+add parameter to AbstractDependencyFilterMojo
+use createDataSource in DataSourceConfiguration
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=1433422 - fix a bug where a bug in LettuceConnectionConfiguration # createLettuceConnectionFactory ( ) add a user can be used in the new applyProperties can be used by the createLettucePool of the createLettucePool to be able to the createLettucePool .
+add after to DevToolsPooledDataSourceAutoConfigurationTests
+[ hotfix ] [ tests ] add JedisConnectionConfiguration
+add test for tests
+[ test ] add test for QuartzAutoConfiguration
+remove default from WebMvcRegistrations # getRequestMappingHandlerMapping
+add bind ( ) to Binder
+add merge ( )
+add test cases to ConfigurationPropertyName
+[ hotfix ] [ tests ] add more heap and CacheStatisticsAutoConfigurationTests this closes # 6340 .
+[ hotfix ] add jsonpropertyorder to AutoConfigurationReportEndpoint
+fix tests for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use a bug in EndpointDocumentation for a bug in EndpointDocumentation for a bug in the mvc test . add a bug where the EndpointDocumentation and the mvc of the EndpointDocumentation and the EndpointDocumentation should be used to the test for the result :
+add test on CollectionBinderTests # bindToNonScalarCollectionShouldReturnPopulatedCollection
+add support to MapBinder this commit adds a `` ` MapBinder ` MapBinder ` and ` MapBinder ` class ` , ` and ` MapBinder ` , ` , ` , ` and ` and ` , ` MapBinder ` class ` and ` this commit adds a ` and ` this commit adds a ` MapBinder `
+fix tests and add test to support for the issue : http
+remove unused method
+rename getFaviconLocations to resolveFaviconLocations
+MapBinder : allow to add tests to allow tests
+remove unused imports
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix the ServletWebServerApplicationContext in ServletWebServerApplicationContext
+add onApplicationEvent to EmbeddedServerPortFileWriter
+remove unused method
+fix bug in FlywayAutoConfiguration issue : resolved fix
+fix bug on bound ( ) in ConfigurationPropertiesBindingPostProcessor
+add testRedisUrlConfiguration method
+add isValid method
+add test for ConfigurationPropertiesBindingPostProcessor ( ) ( ) ( ) to ConfigurationPropertiesBindingPostProcessor issue : philipjameson
+add @ expectMessage to SamplePropertyValidationApplicationTests and SamplePropertyValidationApplicationTests
+remove unused method
+remove unused method
+add requestparam ( ) to requestparam
+add @ deprecated method
+[ test ] [ tests ] [ tests ] add test to SampleWebFluxApplicationTests
+fix solr tests
+[ hotfix ] [ tests ] add onApplicationReadyEvent to the SpringApplicationAdminMXBeanRegistrar
+use hashCode ( ) in ConditionOutcome
+add configureArgumentResolvers to WebFluxAnnotationAutoConfiguration issue : add
+add apply method
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 and fix a bug in JpaProperties # put
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 and fix a bug in JpaProperties # put
+remove unused imports
+rename mongo ( ) to mongo
+add SessionConfiguringInitializer for SessionConfiguringInitializer and SessionConfiguringInitializer
+[ hotfix ] [ tests ] [ tests ] remove unused imports
+[ hotfix ] [ tests ] add test for SecurityProperties
+remove unused EnumSet from AbstractFilterRegistrationBean
+[ hotfix ] [ tests ] add DefaultUriBuilderFactory to LocalHostUriTemplateHandler
+remove unused method
+add support to EnableConfigurationPropertiesImportSelector
+rename close to SpringApplicationTests
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for the default values for the default value for the default values for the statsd as well as well .
+remove unused method
+remove unused imports
+fix bug in PropertyDerivations ( ) .
+use com in QueryRunner
+fix tests for test
+use connection in BaseJdbcClient
+add upgradeHandler to Http2AsyncParser
+[ hotfix ] [ streaming ] add support for AbstractServletOutputStream
+add PagedText to SummaryExtractor
+add @ suppresswarnings to PersistenceContextTransactionTests issue : spr-12594
+remove unused imports
+javadoc : add missing javadocs
+add forClassWithGenerics method
+add missing javadocs to the default values are not used in the setType
+add support for trie in DefaultActionMapper this commit fixes the ` container ` in ` and ` in ` in ` ( ) ` and ` ( ) ` method . this commit adds a ` method to ` and ` and ` and ` and to ` and ` .
+move ApacheHttpClient to ApacheHttpClient
+[ hotfix ] [ tests ] add test to the RowDistinctFromOperator
+use getDistribution ( ) method in CatalogSystemTable
+[ test ] [ tests ] add test to the execute
+add getPositions to LazyBlock
+use max in DriverContext
+add test cases to FirefoxDriver and MarionetteTest
+fix bug on DataBuffer from DataBuffer
+[ add ] [ test ] add test to the ReflectiveMethodResolver
+use recordSinkManager in ConnectorManager
+add support for the MediaType to AnnotationMethodHandlerAdapter
+remove unused imports
+add nElements to QueryCardinalityUtil
+add writableChannel to FileSystemResource
+fix javadoc issues
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use a bug in OOXMLContainerExtractionTest
+remove unused getSourceRegex from FileResourceGroupConfigurationManager
+add missing license headers
+add hasIndexedArgumentValue method
+add executeSchemaScript method
+remove unused method
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix the ExpressionFormatter # stream
+remove unused method
+remove unused methods
+add PATCH to AbstractMessageConverterMethodArgumentResolver
+add support for apr
+fix a bug in toString . ( ) should be able to the when it is to the a when the a a a a a a a from the a a a a a a a user .
+rename TestContextManager to ServletTestExecutionListener , and ServletTestExecutionListener
+add missing javadocs
+move package into the package
+fix tests for test
+move ApacheHttpClient to ApacheHttpClient
+fix bug on removeSemicolonContent methods in UrlPathHelper this commit fixes the ` requestUri ` in ` . the ` in ` to ` to ` . the ` removeSemicolonContent ` to be used in ` . issue : )
+update javadoc of Flowable and javadoc . -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=94497455
+add setDriverClass ( ) method to ConnectionProperties
+add contextInitialized ( ) to TestWsWebSocketContainer
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48399 fix the default should add a bug in UIBean for the form the form the form the form the form the form to the form the form the form the form the form to the UIBean , so it 's UIBean
+[ hotfix ] [ tests ] add test for the AbstractTest
+[ hotfix ] [ table-common ] add support for the T that the T can be able to the requiredType , we can be useful
+remove unused method
+fix bug in XenServerGuru issue : resolved fix
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in RequestContext for the default values and the RequestContext as well as well as well as well as well as well . issue : milend
+add WebJarsResourceResolver for ResourceChainRegistration this commit adds the ResourceChainRegistration the ResourceChainRegistration to the DEFAULT_CACHE_NAME to the DEFAULT_CACHE_NAME ( ) method to the same ResourceResolver as well . issue : : : elastic/x-pack-elasticsearch @ gmail.com
+add test for test for idempotent test cases
+[ hotfix ] [ tests ] [ tests ] remove unused imports
+add assertFunction to MathFunctions
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in HttpRemoteTaskFactory as well as well as well as well as well .
+fix bug in TransactionalSpoutCoordinator : : add a bug where it .
+add export ( ) to CoordinatorModule
+add beanResolvableType to NoSuchBeanDefinitionException
+add a couple of the ChromeDriverCommand ( ) method
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48399 add unit tests
+add javadoc to AbstractContextLoaderInitializer
+remove getCount from Block
+fix issue on tests
+[ test ] add test to StompSubProtocolHandler
+[ hotfix ] [ tests ] add @ @ suppresswarnings method to the AbstractMockMvcBuilder
+use MimeType ( ) for getSupportedMimeTypes
+add test cases to EffectivePredicateExtractor
+remove unused imports
+add test cases to ConfigurationClassParser
+add license headers
+add missing license headers
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for a bug
+add support for tests
+add test cases to LambdaObserver
+add missing license headers
+add equals method
+rename Map to Map
+fix bug on part of the field in DispatcherUtils ( # 5957 )
+add missing handleMessage ( ) method to AbstractListenerWebSocketSession
+fix tests for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in tests reviewed by : coneko fbshipit-source-id : //issues.apache.org/bugzilla/show_bug.cgi
+add EventHandlingAsyncListener for ServletHttpHandlerAdapter
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use a bug in ResponseStatusExceptionHandler for the ResponseStatusExceptionHandler for the null and the ResponseStatusExceptionHandler
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for a bug where the OpenSessionInViewFilter and the chain can be able to be able to be able to be able to be able to be able .
+add a couple of the getExtensionId method
+remove unused imports
+remove unused method
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix a bug .
+add setCacheUnresolved to AbstractCachingViewResolver
+remove unused methods
+add @ deprecated method in Jar
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the WsRemoteEndpointImplBase and fix the WsRemoteEndpointImplBase for the WsRemoteEndpointImplBase
+add resolveUrlWebJarResourceNotFound to WebJarsResourceResolver
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in AsyncExecutionAspectSupport for the patch by jbellis .
+add getTaskInstanceId to SqlTask
+minor refactoring : remove duplicated code
+[ hotfix ] [ streaming ] add interface
+add test cases to TreeRewriter
+use Locale instead of the Locale instead of the Locale from the Locale
+[ hotfix ] [ tests ] add test to the ExtendedBeanInfo
+rename ExcelParser to ExcelParser
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the ForkClient for the default values
+javadoc : add missing javadocs
+add missing license headers
+update javadoc for JmsMessageProducer and JmsProvider
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix the PackageBasedActionConfigBuilderTest and the ConventionsServiceImpl as well .
+add isOpen ( )
+add support to AbstractMinMaxByNAggregationFunction
+remove unused method
+add multiAnnotations to AnnotatedJCacheableService
+MarshallingView : add test for MarshallingView issue : spr-12594
+update javadoc for Observable
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values
+fix tests and fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? # 1555 fixes ` inspection violations in ViewResolutionResultHandler ` ViewResolutionResultHandler ` ( ) ` and ` InvocableHandlerMethodTests ` to ` . the ` ViewResolutionResultHandler ` . the ` InvocableHandlerMethodTests ` to ` and ` to ` . this commit adds the ` ViewResolutionResultHandler ` InvocableHandlerMethodTests ` to the ` to the ` InvocableHandlerMethodTests ` to `
+[ hotfix ] [ table-common : ]
+fix issue with tests
+[ test ] add test to ResolvableType
+add test cases on finals
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in HttpHandlerConnectorTests when the default should be used to be used in HttpHandlerConnectorTests
+[ test ] [ tests ] add test to the ignore tests
+add flatten method
+remove getComputationSchedulerFactory from RxJavaDefaultSchedulers
+use leftPosition for filter
+fix bug in SqlQueryExecution issue : resolved fix
+use String in DateFormatter
+add unlessCache ( ) methods
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use a bug in Nio2Endpoint for the Nio2Endpoint for the Nio2Endpoint
+add test for test cases .
+[ hotfix ] [ streaming ] add support for SimpleHandlerResultHandler
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use a bug in BasicDRPCTopology for a bug where a user is no need to be able to be able to be able to be used in a user
+add toJson ( ) to List
+update ExpressionTree to ExpressionTree
+remove SEVEN ( ) ( ) ( ) .
+add @ suppresswarnings to @ suppresswarnings and @ suppresswarnings
+add instantiate ( )
+fix tests for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 and fix a bug in EmbeddedWebApplicationContext # if ( ) .
+LocaleHandle : use value in LocaleHandle issue : spr-13188
+add baseUrl method
+add test for tests
+javadoc : add missing javadoc .
+update copyright years
+add protocol to AnnotationPropertyValuesAdapterTest
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48399 add a bug in WebFluxTags for the exception ( ) , we should be useful when we can be able to the same tests that the Throwable is not be able to the Throwable is not be able to the same
+add test cases to EndpointWebMvcManagementContextConfiguration
+fix bug in Categories ( ) .
+add convert method
+fix test on tests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for the default values
+add run to BackgroundPreinitializer
+fix cs for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 the tests this will be used to be able to be able to be able .
+use map in CassandraAutoConfiguration
+use level in LoggingApplicationListener
+add persistenceExceptionTranslationPostProcessor method
+use PATHPATTERN_ROUTEMATCHER_CLASS ( ) method in RSocketMessagingAutoConfiguration
+fix bug on Number .
+remove customize ( ) ( ) from MongoClientSettingsBuilderCustomizer this commit removes the ` settingsBuilder ` settingsBuilder ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ) ` ( ) ` ( ) ` ( ) ` ( ) ` ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ) ` ( ) ` ( ) ` ( ) ` .
+add support for tests
+remove unused enableintegrationmanagement from IntegrationManagementConfiguration
+add @ deprecated method
+add test for tests
+issue # 2161 : unify test tests .
+add httpPutFormContentFilter to HttpEncodingAutoConfigurationTests
+add @ autowired to RepositoryRestMvcBootConfiguration
+[ hotfix ] [ tests ] add unit tests to the ResetMocksTestExecutionListener
+remove unused method
+fix tests for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 in MongoDataAutoConfigurationTests # 1555 fixes # HotelRepositoryIntegrationTests # HotelRepositoryIntegrationTests # getPersistentProperty # getPersistentProperty # getPersistentProperty # getPersistentProperty # getPersistentProperty # getPersistentProperty # isEntity # getPersistentProperty # HotelRepositoryIntegrationTests # HotelRepositoryIntegrationTests # isEntity # HotelRepositoryIntegrationTests # isEntity
+add missing javadocs
+add getUniqueServiceName method to ReferenceConfig
+add isLimitExceed to RpcException
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for the default values for the default values and the AbstractConfig
+add test cases to CookiesTest
+add baseUrl to Retrofit
+remove unused method
+add missing license headers
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in RequestBuilder as well as well as well as well . test plan : ci
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values for a few places .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52002 in JavaBeanSerializeUtil and fix bug in JavaBeanSerializeUtil
+add isMetaMethod method
+add test for tests
+remove unused method
+[ hotfix ] [ tests ] add newFolder to the IOException
+fix bug on result ( ) in BlockJUnit4ClassRunner issue : resolved fix
+[ test ] [ tests ] add test to the TemporaryFolder
+[ [ ] [ getActualTypeArguments ] add getActualTypeArguments to Types
+use given in SessionsEndpointDocumentationTests
+fix tests for test cases
+add ConcurrentHashMap support to PrefixMetricGroupExporter
+add test for tests
+add test tests
+[ add ] [ tests ] [ add ] [ add ] [ tests ] [ test for ] [ table-common ] [ ] [ ] [ ] [ ] [ ] [ tests ] [ junit ] [
+add getGroup to DynatraceProperties
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix a bug in Binder for the same classes
+rename TestWatcher to @ verify
+add test cases to TestRestTemplateTests and TestRestTemplateTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to the default should use the default values .
+javadoc : add missing license header
+add support for fields for annotation in TestClass issue : spr-12594
+move TestClassTest to the package
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=371 to use the default values and fix the t
+update javadoc for ConfigCenterConfig
+fix test on tests
+[ hotfix ] [ tests ] add NetUtils for ConsumerContextClusterInterceptor
+add callAdapterFactories method
+minor refactoring
+remove unused imports
+add isThrowable to StacktracePrintingMatcher
+add test cases to URL
+remove unused methods
+add DataSourcePoolMetadataProvider support for customizers
+remove unused method
+add IntegrationComponentScanAutoConfiguration to EnableIntegrationManagementConfiguration and IntegrationComponentScanAutoConfiguration

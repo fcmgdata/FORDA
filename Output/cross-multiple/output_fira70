@@ -1,0 +1,312 @@
+clean up warnings
+fix bug on count constructor to parameter in TypeExcludeFiltersContextCustomizer
+add support for a responseBody in ResourceEndpointConfiguration this commit adds the ` ResourceEndpointConfiguration ` and ` to the ` ResourceEndpointConfiguration ` to the ` ResourceEndpointConfiguration ` ResourceEndpointConfiguration ` and adds a ` ResourceEndpointConfiguration ` ResourceEndpointConfiguration ` ResourceEndpointConfiguration ` . issue : spr-16968
+minor refactoring : remove duplicated code
+fix bug on WebEndpointResponse , so it can be used for it
+[ hotfix ] [ streaming api ] rename new package to package name this commit moves the new package name of the package name of the package name of the package name of the package name and @ enablembeanexport package name in the package name to move module in @ enablembeanexport module
+[ hotfix ] [ core ] minor code cleanups in HealthStatusHttpMapper to use OK_STATUS instead of code
+support bind in AggregateBinder prior to this commit , the ` AggregateBinder ` and ` AggregateBinder ` it as an ` . this commit adds support for ` AggregateBinder ` AggregateBinder ` AggregateBinder ` . issue : spr-16968
+add dump to EndpointsProperties
+remove dead code from SpringApplication
+fix RunArguments # filter method ( # filter ) this commit fixes a bug in RunArguments and RunArguments # filter in RunArguments # filter method . issue : http RunArguments
+revert `` revert `` revert `` changes '' reverts commit reverts commit reverts commit 30c5cf6a6956fc4c6b6bd4be1af4ca96fd0e6b6f .
+clean up warnings in spring-test
+add support for EnvironmentEndpoint the EnvironmentEndpoint the EnvironmentEndpoint ( # # # # # # # # # # # # # # # # the ) motivation : - add a test the EnvironmentEndpoint # keysToSanitizeCanBeConfiguredViaTheEnvironment ( ) method of the EnvironmentEndpoint # keysToSanitizeCanBeConfiguredViaTheEnvironment ( ) method in EnvironmentEndpoint # keysToSanitizeCanBeConfiguredViaTheEnvironment ( ) method in the EnvironmentEndpoint , the EnvironmentEndpoint , the EnvironmentEndpoint ) method of the EnvironmentEndpoint # keysToSanitizeCanBeConfiguredViaTheEnvironment ( ) is a # keysToSanitizeCanBeConfiguredViaTheEnvironment ( ) that it can be used when the EnvironmentEndpoint that the
+suppress warnings in spring-test
+add support for including parent in annotation in endpoint this commit adds support for the ` Annotation ` and adds support for both bean names as well as well as well . issue : spr-15166
+RedisReactiveHealthIndicator # serverCommands issue : unify RedisReactiveHealthIndicator
+add support : fix for AutoConfigurationSorter this commit fixes the order of the order in AutoConfigurationSorter # getOrder method .
+add support for the WriteOperation in DeleteOperation issue : spr-11393
+fix issue on java 8 streams
+add support to pair in pair
+use ManagementFactory instead of strings in boot [ ] as well as well as well as well as well as well issue : spr-10605
+remove info from FlywayEndpoint
+make stopApplication ( ) method in LaunchedApplication
+add support for mvc mvc mvc mvc mvc mvc mvc mvc mvc mvc issue : spr-13629
+simplify Binder # hasBoundBean
+add AnyThrow support for Throwable ex objects in TestPropertyValues ( ) method issue : spr-11393
+clean up InfluxDbAutoConfiguration
+add support for OkHttpClient to OkHttpClient prior to this commit , a http methods in InfluxDbAutoConfiguration this commit , the influx the configuration options would be used in a configuration . this commit adds support to the auto influx for the auto configuration ok as well . issue : enterprise/cluster/src/main/java/org/neo4j/cluster/protocol/atomicbroadcast/multipaxos/multipaxoscontext.java
+add support for the property property property in TestPropertyValues prior to this commit , the ` TestPropertyValues ` as well as well as well as well as well as well as well as an argument . this commit adds a unit test to be able to the test cases . closes # 5570
+add test for are test
+add parent flag to ContextLoader
+remove unnecessary casts in redis
+update javadoc to reflect reality of guava . test plan : ci
+add missing @ since tags to tests . summary : test plan : ci reviewed by : ttsugriy fbshipit-source-id : 2b16556
+addFirst method in ContextLoader
+add support for null in redis prior to this commit . this adds support to the ability to the redis of of of of of of of of of of . this commit adds support for redis of and adds a unit tests that this issue by the configuration . issue : spr-12391
+remove unnecessary casts
+remove unused imports
+clean up warnings in spring-test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47214 issue with the properties source properties beans ( ) method in case of the source files , which can be able to be able to be able to be able to be able to be able to be able to be able to be able to
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 support for lettuce ( )
+add after method to DevToolsPooledDataSourceAutoConfigurationTests
+revert `` revert `` revert `` changes '' this reverts commit f38aa5b488e72c39144c3658d63e932f53f7fa7f .
+add isActive ( ) method in CloudPlatform
+QuartzAutoConfiguration supports `` QuartzMultipleExecutorsConfiguration '' primary '' triggers issue : spr-12594
+add default method to WebMvcRegistrations issue : spr-13188
+add missing bind method in Binder issue : spr-12594
+add merge ( ) to CollectionBinder issue : spr-15168
+add ConfigurationPropertyName # openBracketCount
+[ hotfix ] [ tests ] remove unnecessary semicolons
+add unconditionalClasses to the auto auto auto configuration classes
+fix documentation for documentation
+add support test cases to bindable test cases to calls to calls that tests should not be used in case . fixes # 2973
+[ feature ] add support for calls to the ` MapBinder `
+add support for the origin for the json in the json prefix
+remove unused imports
+rename resolveFaviconLocations to resolveFaviconLocations
+allow arbitrary target for MapBinder # resolveTarget ( ) to be a bindable to a target bindable to be an bindable when a target is be able to be a target . the target needs to be a target constructor when the target can be able to a target objects
+rename @ configuration to MapSessionRepository
+remove unused imports
+remove unused variables ( )
+add support for embedded server writer port in EmbeddedServerPortFileWriter this commit adds the ` ServletWebServerInitializedEvent ` port ` to the ` port ` port ` port ` port ` port ` . this commit adds support for ` ServletWebServerInitializedEvent ` port ` port ` port ` and adds support for ` WebServerInitializedEvent ` port ` port ` port ` port ` port ` to ` port ` port ` EmbeddedServerPortFileWriter ` port ` . issue : spr-16968
+remove unused method original commit : elastic/x-pack-elasticsearch @ b56e65a01010b7b367a5eb75ce08af577f5f20ed
+add support : fix for durations ' in FlywayAutoConfiguration and ReactorCoreAutoConfiguration to use the class ( ) methods in FlywayAutoConfiguration issue : spr-7933
+clean up ConfigurationPropertiesBindingPostProcessor
+add support for the redis cf as well issue : spr-15028
+add ConfigurationPropertyName # isValid ( String )
+support unknown fields in annotation prior to this commit , a ` ConfigurationPropertiesBindingPostProcessor ` would not a ` method in a ` ConfigurationPropertiesBindingPostProcessor ` ConfigurationPropertiesBindingPostProcessor ` would throw an exception , which would not a nested ` NoUnboundElementsBindHandler ` . in a ` ConfigurationPropertiesBindingPostProcessor ` is not a more . in the case , and adds a ` NoUnboundElementsBindHandler ` NoUnboundElementsBindHandler ` NoUnboundElementsBindHandler ` is
+clean up warnings in spring-test
+clean up warnings in spring-test
+use MapConfigurationPropertySource instead of in tests
+clean up mvc tests
+mark @ deprecated methods as @ deprecated as well as well as well as well as @ deprecated and @ deprecated as @ deprecated methods are not needed as well as @ deprecated that are not needed as well as well as well as well as well as well as well as well as well as @ deprecated the same as well as well as well as well as well issue : spr-11393
+clean up tests
+fix SolrHealthIndicator # withDetail method name
+clean up SpringApplicationAdminMXBeanRegistrar
+remove unnecessary casts
+use ArgumentResolverConfigurer in WebFluxAnnotationAutoConfiguration issue : spr-12500
+[ hotfix ] [ runtime ] remove unnecessary semicolons
+rename method in JpaProperties
+rename method in JpaProperties
+move statetable to runners/core-java
+remove unused UnknownHostException # mongo ( )
+add support for the default modes
+move package to util package
+fix SecurityProperties # filterDispatcherTypes # filterDispatcherTypes # filterDispatcherTypes # filterDispatcherTypes ( String , HashSet ) fix a bug in SecurityProperties # filterDispatcherTypes types .
+clean up warnings in spring-test
+remove DefaultUriTemplateHandler from DefaultUriTemplateHandler
+clean up tests
+add support : add support for configurable name ( class ) prior to this commit , the issue as well as well as well as well as well as well as well as well as well as well as well as well as well as well as an issue : enterprise/cluster/src/main/java/org/neo4j/cluster/protocol/atomicbroadcast/multipaxos/multipaxoscontext.java
+rename @ after @ after review
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47214 issue with the statsd statsd statsd statsd the statsd statsd statsd statsd statsd statsd the statsd the statsd the statsd the statsd the statsd statsd statsd statsd the statsd statsd statsd statsd statsd statsd the statsd the metric , , not the statsd the statsd the statsd the statsd the statsd the statsd the statsd the statsd the statsd the statsd statsd statsd statsd statsd the
+add support for the boot servlet 3.1 prior to this commit , the boot the boot an explicit interpolator , and the boot an explicit old behavior . this commit adds support for a MessageInterpolator boot the boot the new constructor calls to the Class ( ) method to the new interface ,
+rename Threads to ExecutorService
+fix visitGroupId ( GroupIdNode , inputProperties , inputProperties , inputProperties , inputProperties , inputProperties , inputProperties , inputProperties , inputProperties , visitGroupId ( ) , inputProperties , inputProperties , visitGroupId ( ) , empty ( ) , GroupIdNode , inputProperties , GroupIdNode , GroupIdNode , inputProperties , inputProperties , GroupIdNode , inputProperties , so it can be able to be used as well .
+use empty in QueryRunner
+PathVariableMapMethodArgumentResolver accepts resolveArgument in resolveArgument issue : spr-12500
+rename JdbcClient to PreparedStatement
+add upgradeHandler to Http2AsyncParser
+fix issue with the output of the output motivation : we use the doClose ( ) to check if the output is not specified . modifications : fix the result : no more flexible .
+add metadata to MetadataExtractor
+suppress warnings in spring-test
+remove unused imports
+polish javadoc for ConfigurableEnvironment
+add support for querying resolvable in ResolvableType prior to the ResolvableType as well as well as well in ResolvableType # forClassWithGenerics and ResolvableType # forClassWithGenerics methods
+polish javadoc in EmbeddedDatabaseBuilder
+add support for the extensions to DefaultActionMapper
+remove unused imports
+remove use of method from RowDistinctFromOperator
+add getDistribution method to catalog
+alexeibarantsev : add a test to the firefox InProject
+add getPositions to LazyBlock
+use max instead of deprecated method
+simonstewart : deleting the FirefoxDriver ( FirefoxProfile ( FirefoxProfile ) . modification : it 's not possible to be able to match
+clean up tests
+ReflectiveMethodResolver # getMethods issue : improve ReflectiveMethodResolver
+remove unused tableHandle from ConnectorManager
+add support to the content accepted converters ( ) support
+remove unused imports
+add nElements to QueryCardinalityUtil
+add writableChannel ( ) method in PathResource issue : spr-9186
+minor javadoc updates
+issue # 1555 : remove deprecated method from filenames
+remove unused methods from FileResourceGroupConfigurationManager
+add missing license headers
+add a error method to ConstructorArgumentValues
+refactor review comments
+remove unnecessary decode
+add support for the expression to ExpressionFormatter
+remove unused code
+javadoc : add ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) - > ( ) on the default method .
+clean up warnings in spring-test
+add support for executor thread pool thread pool of apr
+simonstewart : implementing toString for return a container
+[ hotfix ] [ tests ] remove unnecessary semicolons
+add missing javadocs .
+[ hotfix ] [ streaming api ] move scheduling-related classes to package this closes # 3999 .
+ignoring tests that fail on windows
+rename ApacheHttpClient to HttpClient
+fix issue : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 as well for content helper method in UrlPathHelper issue : spr-11393
+2.x : fix the javadoc of the javadoc warnings in the javadoc of guava . author : eno thereska < michael @ confluent.io > reviewers : damian guy < wangguoz > closes # 2670 from mjsax/fixjavadocsrepartitioning
+polish javadoc in ConnectionProperties
+add contextInitialized method to TesterEchoServer
+issue # 2161 : unify : unify : unify ( form , form , reviewed by gopal v )
+[ hotfix ] [ tests ] update AbstractTest
+el 3.0 collections listable issue : spr-12500
+remove unused method
+bug 6123 : add support for xen xen xen guru , closes # 2382
+add getPathToServlet to FormTag issue : spr-16873
+add support for WebJarsResourceResolver in ResourceChainRegistration prior to this commit , the ResourceChainRegistration would trigger a ` WebJarsResourceResolver ` s to the ` PathResourceResolver to the jars in the PathResourceResolver . this commit , the ` ResourceChainRegistration ` and adds a ` WebJarsResourceResolver ` and adds a ` WebJarsResourceResolver ` WebJarsResourceResolver ` ResourceChainRegistration ` to the ` WebJarsResourceResolver ` WebJarsResourceResolver ` WebJarsResourceResolver ` , but the request are no longer than the `
+[ hotfix ] [ tests ] update MapDataSourceLookupTests to use exception and MapDataSourceLookupTests
+rename FunctionRegistry to DoubleHistogramAggregation
+fix round ( round ) to round ( ) and round ( ) to round ( ) method in TestMathFunctions
+add coreExecutor flag to ServerMainModule
+[ hotfix ] [ runtime ] remove unnecessary semicolons
+add missing StatementResource option
+polish javadoc in NoSuchBeanDefinitionException
+add a way for the chrome chrome chrome chrome chrome chrome chrome ' on the server
+add support for -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=40973196
+minor javadoc fixes .
+remove isSorted from Block
+fix if ( ) issue : spr-10605 issue
+add a test for StompSubProtocolHandler header
+clean up warnings in spring-test
+rename MimeType to getDecodableMimeTypes
+issue # 2161 : unify : unify : unify test '
+remove unused imports
+[ test ] add IllegalArgumentException to PropertySourceAnnotationTests # AnnotationConfigApplicationContext
+add missing license headers
+add missing javadocs
+add MapsValidator method to Config
+clean up ExchangeFilterFunctions
+LambdaObserver : add onError method to LambdaObserver
+add license headers
+[ add ] equals ( )
+make Map a Map
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 for null check in a patch provided
+add a few more logging annotations
+remove unused imports
+add EventHandlingAsyncListener to ServletHttpHandlerAdapter
+add more logging to ResponseStatusExceptionHandler
+check in case chain in case of view mode if a chain could not be thrown .
+simonstewart : implementing extensionsDir using the root to write operations
+remove unused imports
+revert `` revert `` revert `` revert `` revert '' '' '' this reverts commit 30c5cf6a6956fc4c6b6bd4be1af4ca96fd0e6b6f .
+remove unused imports
+add missing planNode
+add cacheUnresolved to AbstractCachingViewResolver issue : spr-16873
+remove some system.outs
+deprecate iterators.emptyiterator ( ) and deprecate methods in favor of methods
+fix for https : //issues.apache.org/jira/browse/amq-4719
+support for null in WebJarsResourceResolver prior to this commit , as well as well as well as well , as well , for resource . test plan : ci reviewed by : dreiss fbshipit-source-id : test
+issue # 2161 : unify : unify support null
+add getTaskInstanceId method to SqlTask
+add SimpleValueWrapper to ConcurrentMapCache
+polish : use ValidationGroup instead of ValidateGroup
+add test for arithmetic with negative arithmetic
+[ hotfix ] [ tests ] remove unnecessary semicolons
+ExtendedBeanInfo now stores methods in case the extended for the ExtendedBeanInfo and ExtendedBeanInfo prior to the Modifier as well as well issue : spr-13629
+rename OfficeParser to OfficeParser
+ForkObjectInputStream : remove unused method
+javadoc : add missing javadocs .
+update license headers
+updated documentation to use JmsProvider
+[ hotfix ] [ tests ] update ConventionsServiceImpl for 1.5
+add isOpen method to WsFrameServer
+add a test for the max function
+fix issue on windows
+remove multiAnnotations from AnnotatedJCacheableService
+add support for marshalling marshaller issue : spr-12594
+add javadoc to Observable .
+remove unused imports
+https : //issues.apache.org/bugzilla/show_bug.cgi ? .
+use collectList instead of collectList ( IllegalStateException ( Mono ) ( IllegalStateException ( ) , reviewed by thejas nair )
+polish javadoc in AbstractServerHttpMessageReader
+clean up formatting
+add ResolvableType # array ( Class ) issue : spr-12594
+add copyFields ( ) method to RemoteWebDriver
+[ # 735 ] add missing javadocs for the `` url '' property
+unignoring some tests for driver
+move flatten to WorkProcessor
+rename Scheduler to getComputationScheduler
+fix compilation errors after rebase
+[ hotfix ] [ sql ] [ sql ] remove redundant stage
+use EnumMap instead of HashMap
+add clear method to CacheAspectSupport
+minor refactor to check ( )
+add isDistinctFrom method to BingTileOperators
+categorize exchange in web exception messages
+add missing javadocs
+[ hotfix ] [ core ] make sure the prefs is a list of the json converted .
+make ExpressionTree # getKind ( ) * update ReflectionWrapper summary : this method to use it 's useful to make it easier to use it . test plan : ci reviewed by : dreiss fbshipit-source-id : )
+rename EIGHT ( ) to EIGHT ( )
+suppress warnings in spring-test
+clean up instantiate ( ) method in instantiate ( ) method to use instantiateClass ( ) method instead .
+fix issue on java 8 streams issue : spr-10605
+change LocaleHandle # language
+add Retrofit # baseUrl method
+add a test for basic basic basic basic basic basic in a build build build build build build build build build build build build build in the build build build build build build build build build in case of the build build build build build build build build build build build build in the build in order to the current . closes # 43175
+fix some javadoc warnings and formatting
+update license headers .
+add some tests for annotation
+add support for the tags for the tags in the WebFluxTags # isEmpty ( # 6340 ) this commit adds support for the ` Throwable ` to the ` WebFluxTags ` to the ` and adds the ` WebFluxTags ` to the ` . the ` WebFluxTags # exception ` is the ` and adds the ` WebFluxTags ` to the ` WebMvcTags ` WebMvcTags ` that the ` WebFluxTags ` WebFluxTags ` is a ` WebFluxTags ` WebFluxTags `
+add support for the mvc mvc mvc issue : spr-10605
+[ hotfix ] [ runtime ] remove unnecessary type from ArrayList
+add nullness annotations on the fields in maps.java relnotes=n/a . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=180235376
+minor changes to tests to pass in tests .
+fix the issue of deprecated WebMvcProperties # AS400 ( ) method in WebMvcProperties # FilterType ) issue : # AS400
+add run to BackgroundPreinitializer
+fix test on windows
+[ hotfix ] [ runtime ] remove unnecessary semicolons
+[ test ] use deprecated method ( ) instead of stream ( )
+add PersistenceExceptionTranslationAutoConfiguration # exceptionTranslationPostProcessorBeanIsCreated method
+clean up RSocketMessagingAutoConfiguration
+add isMissingTopicsFatal flag to KafkaProperties
+MongoClientSettingsBuilderCustomizer # customize ( Builder ) prior to this commit : this commit = `` properties ( ) '' ( ) would be used in MongoClientSettingsBuilderCustomizer .
+add support for querying field field to java 8 to java 8 ( # 9145 )
+clean up warnings in spring-test
+deprecate ArrayDocumentMatcher # matches and ArrayDocumentMatcher
+add support for the outcomes in ConditionEvaluationReport prior to this commit , the ConditionEvaluationReport # addedAncestorOutcomes # hashCode and adds support for the ` ConditionEvaluationReport ` ConditionEvaluationReport ` . issue : spr-12224
+issue # 2161 : unify http : unify this commit fixes the issue and fixes that are not needed . issue with the javadoc for the original message and the result , but for the client and the client property of configuration . issue : elastic/x-pack-elasticsearch @ f334712f961ea0c53493625018e07db3605480d4
+make HttpEncodingAutoConfigurationTests extend OrderedHiddenHttpMethodFilter
+add autowired support for mvc test classes
+add MOCKITO_IS_PRESENT to ResetMocksTestExecutionListener
+clean up ignoreNestedProperties ( ) method in unit tests
+add support for the date entity in the city this commit adds support for the ` MongoDataAutoConfigurationTests ` in the ` MongoDataAutoConfigurationTests ` to the ` CityRepositoryIntegrationTests ` as a ` . issue : spr-16968
+improve logging of ClientInterceptor
+add parameter to ReferenceConfig parameter . summary : add a parameter to the method that 's not be used for the group . test plan : ci
+add isLimitExceed to the exception
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47214 add patch by sebb for all
+add a test for the original commit : elastic/x-pack-elasticsearch @ 96e8df2ac36a6b142f6d423705da34408c13f5b4
+add Retrofit # baseUrl ( ) -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=40973196
+remove deprecated method
+add missing license headers .
+use addField instead of addPair in FormUrlEncodedTypedOutput
+move threadCounter to RestAdapter
+minor refactoring : remove duplicated code
+add isMetaMethod ( ) method to MethodUtils
+add Map flag to AetherGrapeEngine prior to this commit , a group that a group can be used for a group map from a type with the group version . this commit adds the `` version '' version '' version '' . this commit adds an exception when the `` foo '' version '' version '' version . closes # 33163
+remove unused method
+minor cleanup .
+remove some system.outs
+issue # 2161 : unify test file name
+fix issue on java 8 streams
+remove dependency of deprecated method original commit : elastic/x-pack-elasticsearch @ b56e65a01010b7b367a5eb75ce08af577f5f20ed
+RSocketMessagingAutoConfiguration # messageHandlerAcceptor ( MessageHandlerAcceptor ) method to PathPatternParser # shouldCreateDefaultBeans ( )
+add support for counts in counts
+fix for https : //issues.apache.org/jira/browse/amq-4719
+PropertySourcesPropertyValues # testOrderPreserved method issue : split
+add support for querying order in JavaBeanBinder prior to this commit , the issue # getBeta ( S ) methods in favor of use of use of as well as well as well as well as part of issue : spr-8548
+add getGroup ( ) method in DynatraceProperties
+move Binder to MapBinder
+[ hotfix ] [ tests ] remove redundant abstract
+add TestRestTemplate # TestClientHttpRequestFactory to TestRestTemplate # TestClientHttpRequestFactory to TestRestTemplate # TestClientHttpRequestFactory , and TestRestTemplate # TestClientHttpRequestFactory to TestRestTemplate # createRequest issue : # getRequestFactory
+fix MetadataIdentifier # version to not use a null values for multiple fields
+update javadoc for child ( )
+https : //issues.apache.org/jira/browse/amq-5697 - add unit test for TestClass
+[ hotfix ] [ tests ] move hivetypeutil to util package
+fix test on windows
+update javadoc for ConfigCenterConfig
+fix test on windows
+fix before ( ) method in NetUtils
+add callAdapterFactories method to Retrofit
+remove unused methods from ConfigTest
+remove unused imports
+[ hotfix ] [ table-common ] [ stacktrace ] -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=172477925
+add support to URL
+use StringUtils instead of null
+add metadataProviders option to configuration configuration
+remove unused Object fields from AlwaysNullConverterFactory
+add support for gateway integration auto integration tests as well

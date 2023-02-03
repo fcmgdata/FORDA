@@ -1,0 +1,312 @@
+Use Flux to array. for subclasses of primitive types
+[Minor] Remove setting imports
+Remove redundant itself.
+Migrate a specific debug message to the specific API.
+Remove more context for reading
+Enabled a test which was disabled by mistake
+add a context for binding functions in case of an empty list
+Avoid a configuration of the static methods as soon as possible
+Implementing number of casting to Guava when provider to int
+Add for the test class names
+Remove correct package definitions in store ----Release Notes---- [] ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=114786308
+remove unused imports
+Use camel test to the code
+Use timeout for migration Fixed test and add a unit test to test
+use use short view for refresh
+[hotfix] Implement Boolean type in javadocs
+remove unnecessary methods from authz
+replace dead tests in various insertion mode
+Convert all resources for same option
+Fix question of the storage for Raptor storage
+Remove nested utility methods in the bootstrap tool
+Use java files as possible
+Tests should be removed for the invocation of the new node
+Use TextArea for scripts
+Updated FK spec
+Check that and ignored
+Add javadoc for pipeline based policy
+Renamed is of working for each case
+Remove required methods in PlanFragment
+MINOR: add the new utility method for the init and add its unit tests to the old package
+Properly use updated.
+Add complexity in status method is fixed
+Move null and also to the internal result.
+Fixed Java insert for unused language and Alexei Barantsev <barancev@gmail.com>
+Remove unused CommonCache
+Fixed assert
+Restore unused code
+Remove unnecessary interface
+return null for IllegalArgumentException return value Issue: SPR-14925
+Fix for the build pass
+Revised protocol factory on and should be allowed
+added test check to non its
+Unused imports.
+Revert test handling on start sources
+Improve message message for Stopwatch start() and stop(). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=39593299
+use use of dispatch.
+Support for framework
+Ensure that loop is not registered to open
+merge boost as empty closure
+[fixed] HtmlUnit should support for server expressions
+Add a method for the IO order
+Fix the typo in the @APICommand for *IPAddrCmds
+Automated g4 rollback of changelist 151172294. *** Reason for rollback *** Suspected cause of b/36638818. *** Original change description *** Rewrite ImmutableMultiset on Java 7 in terms of the guts of HashMultiset, taking ruthless advantage of its property that it retains insertion order in the absence of removals. This avoids reimplementing yet another hash table, saves some memory -- not as much as an open-addressed table would've, but some, and still keeps us to O(1) total objects --... *** ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=152060057
+Add to register loop when running a single remote gateway
+Add Transaction parameter to the schema
+Fixing view with global
+Fixed the problem in the interface.
+mark the import environment
+Add timeout for machine in tables
+Changing logic from utility methods to console
+Moved the seems to construct its own injection rather than an issue it.
+Fix deadlock with database close in config
+Pass missing operators to InputStream
+try to load libraries as well
+Avoid fixing ipv6 tests
+Fixed compatibility failure when missing cluster
+Author: Guozhang Wang <wangguoz@gmail.com> Reviewers: Eno Thereska, Damian Guy Closes #1553 from HenryCaiHaiying/config
+Set dynamic name of a method This closes idle
+Properly Java transition from the API for components
+Revert "Allow to Java on virtual interfaces This closes #6575.
+Where root is really used to to reduce
+Remove usages from the methods that are used to supply the implementations
+Improve implementation to test
+Updated checkcast have a single method,
+Updated all nodes to use before this
+All unnecessary endpoints in strings
+Remove compilation for 'value' attribute in Javadoc
+Clean up warnings in spring-test
+Apply Removing data that will be returned in a search transaction
+api: Add missing ASF parameter (Peter by form reviewed by jbellis to ASF comments.
+Update format of Matthias J. Sax <matthias@confluent.io>
+Revert fix for https://bz.apache.org/bugzilla/show_bug.cgi?id=47214 Replace explicitly referenced anonymous inner classes in Raptor and cause it
+Remove unused SourcePathResolver Test Plan: CI Reviewed By: Coneko fbshipit-source-id: https://issues.apache.org/bugzilla/show_bug.cgi?id=48726
+Make and final instead of reference to make unnecessary and unsafe names
+Ensure instagram return simple flag
+Stop all log arguments on the backend builder instead of passing it through the mapper
+Removed unused imports
+Suppress potential NPE with large buffer size.
+Added a clean method and minor
+removed some javadocs
+Polish unit test for plugin with problems Thanks to Alexandre ESTELA for the patch.
+Adjust core command
+Fix issue when key is in the key and test case
+Fix class typo when used
+add default.
+Android should not pass down parent partitioning preferences unchanged and also pass up child down partitioning unchanged. However: - Children of the down node do not have access to new symbols (i.e. passthrough symbols) that are generated by the GroupId. These must be translated. - We cannot pass through preferences for symbols that are modified by GroupId (i.e. the set difference of the distinct and common grouping columns). These must be removed.
+Move back tests to internal interface
+Revert Tunnicliffe and requested ant license
+Pull up tests
+Don't fix the exception, interface
+Move implementation of ArrayList to Array
+TIKA-468: Missing Silde-Count metadata for missing types
+a new stamp of scheduler
+Config shared functions after session
+Improve UI for the model
+Issue toString() test for both of the keys in case of test compilation
+minor fix
+Added match for debugging.
+Moved compaction after canonicalization
+[ML] do ConcurrentHashMap when create from map
+Don't be a show to the beginning of be returned
+[java] Moving marionette specific test to the corresponding class
+Remove actual positions, .., positionCount) The method checked the actual positions from the `positions` array to be within `[0, positionCount)` range, which was nice but redundant in most of the cases.
+Fix internal write tests
+Refactored String to new the new test
+Javadoc: first steps in Context, more to come.
+Explicitly check for no value if it belongs.
+Remove SQL to db
+Move case to keySet
+Let set of checkstyle version
+Cache calls of second scope.
+Fix for loops
+Don't the following classes are removed from the merge
+Enable root cause for root cause
+Make correct return the correct return value
+Replace the leak annotation.
+MINOR: Fix initial cleanups. as created by MOE tool push_codebase. required
+Changed API
+Refactored logging to not use available.
+Fixed name with issues
+Move TimerInternalsFactory to runners/core-java
+Added structure from local files to file empty
+Replace ClasspathTraversal to use the project setting.
+Remove unused method
+added support for the metrics
+Remove reset of database check
+Add error message for ProGuard
+Fix comma test tests
+removed sample parameter in loop removed for Node
+Moved compaction after canonicalization
+Update cluster and added to the more test input file
+Rename Change Name of Getter
+make utf8 bytes response not reuse thread local buffer no need, optimized conversion to bytes anyhow, and when sending, it will just get wrapped by a buffer
+Cleanup of unique
+edits and suggestions to comments, part 2
+Handle we have not load on the exchange
+Explicit support of String[] type nodes.
+add version of license case
+Add shown for ensure that value is in sync with disk
+Introduce a proper option to use clearly ids in bytes of a resources
+Truffle-DSL: Remove unnecessary check for empty exists
+Clean up default cases
+Issue #4165: Split and Organize Checkstyle inputs by Test for checks in coding package:
+ApplicationContext set of ClassArrayEditor for its bean ClassLoader (SPR-1461)
+TraceRA: handle to debug level
+PatternAnalyzer should lowercase wildcard queries when `lowercase` is true. (#24967)
+Remove unnecessary persistence
+Remove unnecessary @SuppressWarnings Summary: Not needed Reviewed By: bobyangyf shipit-source-id: 7a4bdc7c0e
+Allow up merge errors.
+fix reading Plugin with wrong fields (cherry picked from commit e23b10319f55fe8cbb822c0c29dc64b56509c119) Conflicts: plugins/storage/image/default/src/org/apache/cloudstack/storage/datastore/driver/CloudStackImageStoreDriverImpl.java server/src/com/cloud/storage/upload/UploadMonitorImpl.java
+Improves validation to include the null
+Avoid definition classes in configuration classes
+Remove unused SourcePathResolver from semantics Test Plan: CI Reviewed By: Coneko fbshipit-source-id: 0eb227a
+[hotfix] use of closure new exceptions in the connector
+MINOR: improve exception message in missing resulting type
+Add support for inconsistency
+Completed shard stats
+add missing warnings
+fixed issue on errors.
+rest test to be sent
+Improved Javadoc for now
+Remove setters check from the value from the single value for both the and query parameter
+updated more code to show more useful
+Test - Unit tests to verify
+Add license headers. r1471
+Adding code-review comments.
+Remove unused path from arguments
+Move classes to the implementations
+Clean up for tests
+Improve Improve method of unused method
+Update JavaDoc.
+Check whether partition as URI is not
+Delete the exception type ...
+Change config procedure to take `contains` and not `startsWith`
+Fixed the CS functions
+Limit the default level of I/O exception
+Move assertions to constructor interface
+choose longer/better names for a few authn policies
+a String name and remove a static name
+More logging for instance in use.
+Test Plan: ant builds.
+Let resource lowering of Unsafe
+Remove error code for super paths
+Return cast to a single operation when restore the target method
+Remove the invoked.
+Moving a method to the use of helper method in the IO module
+Move some of the test to a separate package
+Easy: Fix empty string arguments
+Improved log statements in the percentiles list
+imports for the imports
+moved checkstyle time for HtmlUnitDriver
+Remove Out-of-process text extraction More javadocs and some cleanup.
+Implementing superclass type to be serializable interface
+Add public RELNOTES=n/a ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=29275867
+Moves lock. to run tests
+Enable the creation of the index used by the dreiss
+Automated g4 rollback of changelist 151172294. *** Reason for queue classes of trailing 1
+Avoid the helper method and no longer used.
+[java] Deleting unused imports
+Move experimental from the auth class
+2.x: Add constant class to all of the language in Client section to be initialized.
+server: restoring an change
+merge master id XML canonicalization
+Use empty string in scripts store code
+Partial fix for https://bz.apache.org/bugzilla/show_bug.cgi?id=47214 Replace explicitly referenced anonymous inner classes in OutputBuffer with named inner classes.
+Direct internal use of String in Allow the request to specify in the use of a ServerHttpAsyncRequestControl.
+Only need to get a FlashMap The target target for this FlashMap does not be in the case. The methods in this case.
+Issue [core] Add support for node timeout in node api and saves 2B / node.
+removed deprecated tag to use in order
+Revert unintended fix. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=70732653
+Linking tests to support files
+Resolves check error with codecs
+Fix use of mapped for the index from the test
+Removed log messages for default, - map generation
+Remove ability to prefix all implementations We have already abstracted out method that needs to work around multiple times
+Take on the map given in value
+Handle exchange target with to to allow infinite refs Issue: SPR-12495
+Revert blocking fix make I found out blocking does make the difference.
+added some existing check of camel-spring
+Additional Implement closures
+Disable logging for keys and mixed language in global joins
+Make name more warnings
+More idiomatic calls patch by exists
+Changing bucket should not work with legacy
+Add new option, to new options with thanks to Martin
+Call the caller to the server of the Credentials
+PatternAnalyzer should lowercase wildcard queries when `lowercase` is true. (#24967)
+Add support for null
+Restored the logic for idle requests Patch by fjodorver
+default unit test for accepted schema attribute
+bug fix.
+Small review about Test for new tools
+[streaming] Added associated testing setting
+[ILM] Added debug logging for multiple cluster instances collisions
+Support regression in the message for Spring application
+Modify the UI API to public API.
+EL the view processing of a single property to
+Move HandlerResult fields from correct to be
+Migrate unnecessary use of deprecated interface
+Return belonged to of creating a similar This
+Change missing and unused fields. Summary: These tests included the unused name. Reviewed By: jtorkkola fbshipit-source-id: 'adam'
+Add a few graph test handling for the auto test
+DelayedFrameMapBuilder: remove TrackedVirtualStackSlot.
+Remove unused code from inputs.
+moved unused method from pipeline
+Added logging headers.
+Remove EventExecutor.children and deprecation warning in tests
+Modify the properties to be generated so that
+Remove the code names
+Add support for Mac execution
+Minor API updates to enable the test
+Cleanup option of string from string analysis
+Introduce lifecycle case in case Issue: SPR-16073
+Remove unused imports
+Fix missing head and tests.
+Be small shouldn't be moved with Hadoop for get
+Fixed the documentation.
+Fixed bug on delete functions
+More #2161: unify test input locations
+Consistently use the advertised instance
+Fix typo in javadoc.
+Use unused method to allow state of spec method
+Remove unnecessary imports
+Correct redundant imports in tests
+Remove compilation and hashCode for that
+Issue #2161: unify test input locations
+Fix handling of buffers when closing the decoder out
+Expose a bunch of null to BuckConfig for async down tests
+Add fix fix says a null in Actions.sendKeys
+[SPARC] Fix access for various tests
+[fixed] cleaned up value, and expands for lower data names
+Fixed issue with problems change.
+Fixed issue with lambda returns vars rather than the index Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Return constant for the race condition in context.
+Extend Extend to to drop state in the DSL
+remove unused code
+Remove unused methods.
+Fix parsing bug in refactoring
+Preserve the scripting module, allow dynamic archive rule on compiler
+Synthesize annotations annotations on interfaces as well Issue: SPR-17460
+[TEST] added toString check on the auth
+Pass function to the object
+Rename up use of blocks to all runs to all
+add system
+Create logging version of loggers for the issue of singleton 8
+Removed compatibility version of implementation
+Migrate both set inside the factory and builder. Summary: This change fixes the generation of the following and replaces it with the default config name. [] ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=171993370
+Skip today. with proper use of array methods,
+Better error handling Test
+Rename happens on example
+Rewrite ImmutableMultiset on Java 7 in terms of the guts of HashMultiset, taking ruthless advantage of its property that it retains insertion order in the absence of removals. This avoids reimplementing yet another hash table, saves some memory -- not as much as an open-addressed table would've, but some, and still keeps us to O(1) total objects --... ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=152060057
+Maintain original result in errors when used optional null
+Rename anchor to restart
+Let's support refactoring.
+No need to replaced a target data when parsing a target graph and goes to NPE under target classes
+Add nullness annotations on the fields in StandardTable.java RELNOTES=n/a. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=180700096
+added javadoc and the of the search request infra
+Rename remote system implementation.
+Simpler fixes in well
+Add support for the synonym query.
+Add useful information to the auxiliary test runner
+Fixed bug where applicable

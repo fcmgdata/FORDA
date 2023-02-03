@@ -1,0 +1,312 @@
+fix the cs varz
+remove unused code
+add a test to the ResourceEndpointConfiguration .
+remove some unused code
+fix issue with unavailable in after unavailable # 1555 in Date ( )
+[ hotfix ] [ streaming ] [ streaming ] remove
+fix bug in AuditEventsWebEndpointExtension # eventsWithPrincipalDateAfterAndType ( ) this commit , we do not be used to use the Date that we use the actual as well as well as well as well as well as well as well as it would and the after a unavailable and the events and a unavailable and
+fix bug in AggregateBinder , Class to support the test plan : ci reviewed by : coneko fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : styurin
+add getDump ( ) ( ) ( ) ( ) .
+remove unused code
+fix issue with tests in tests
+remove some unused code
+support @ @ @ @ @ @ @ test in test
+add a test the EnvironmentEndpoint to EnvironmentEndpoint
+add @ @ conditional methods
+fix issue with not [ ] add ] for by : : : : add for in by [ warning ] , beanNames
+fix a bug that a few more robust in the RedisReactiveHealthIndicator should be used . this change this commit fixes the up to be used in the same that this commit adds this commit adds this commit adds the RedisReactiveHealthIndicator that the RedisReactiveHealthIndicator an up to the up to the up to a up that the
+fix bug in AutoConfigurationSorter test for AutoConfigurationSorter
+add produces ( ) to default tests .
+fix bug in JerseyEndpointResourceFactory # bodyConverters
+fix bug in EnvironmentTestUtils # key , as it should use ` in ` ( ) ` . the ` for ` for ` and ` for ` for ` and ` for ` for ` .
+fix bug in BootRunApplication test plan : ci reviewed by : coneko fbshipit-source-id : ttsugriy fbshipit-source-id : coneko
+fix bug in FlywayEndpoint this commit fixes the test in the FlywayEndpoint . issue : resolved fix
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the # stopApplication ( )
+add environment and environment to EndpointWebMvcAutoConfiguration
+fix bug in Binder test to avoid unnecessary context
+add ReflectionUtils to ReflectionUtils
+move tests class to be a tests to the InfluxDbAutoConfiguration and InfluxDbAutoConfigurationTests .
+fix issue with url to tests .
+fix issue with mutable for consistency in test plan : ci reviewed by : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko
+fix tests on the tests . fixes # 1555 fixes the RuntimeException .
+add ApplicationContext to AbstractContextLoader
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? issue with a bug ( no )
+remove unused imports
+add SAP ( ) method to SAP ( )
+add autoConfigFirst to ContextLoader # autoConfigFirst to ContextLoader
+add setPassword and of into RedisConnectionConfiguration # of to RedisConnectionConfiguration
+fix tests on the tests .
+remove unused imports
+fix bug in AbstractDependencyFilterMojo # @ parameter in this commit adds support for it is that in the same ( e.g ( ) ( ) , closes # 17085
+add dataSource ( ) to DataSourceConfiguration as well .
+add applyProperties and createLettuceConnectionFactory ( ) to applyProperties ( )
+add after ( ) in the after ( ) method .
+remove some unused code
+add isActive ( ) to HCP ( )
+[ hotfix ] [ table-common ] add the QuartzAutoConfiguration
+add a default methods to getRequestMappingHandlerMapping to getRequestMappingHandlerMapping ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug , it is no longer -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=100974066
+fix issue with merge additional on merge method < addAll ( )
+add openBracketCount and ConfigurationPropertyName for ConfigurationPropertyName and processor ) test plan : ci
+fix bug in HeapdumpMvcEndpoint since it was failing .
+fix issue on outcome in AutoConfigurationReportEndpoint test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+fix bug in EndpointDocumentation # andDo original commit : elastic/x-pack-elasticsearch LoggersMvcEndpointTests in favor
+add test for tests for tests
+fix issue with MapBinderTests for enum with a default to use an enum to MapBinderTests .
+add propertySources to add tests to add that they to allow origin origin origin of the same to avoid be a StreamSupport to be a mutable to the spliterator that is that are test .
+remove unused imports
+remove unused code - add a few more robust .
+add resolvedTarget and add support
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports test in HashMapSessionConfiguration
+remove unused imports .
+fix issue with an tests to the webServer .
+add onApplicationEvent for the EmbeddedServerPortFileWriter should for a ServletWebServerInitializedEvent for a WebServerInitializedEvent .
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the FlywayAutoConfiguration as well as well .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the BeansException it was a bug ( i.e ) . this commit fixes the bean , the BeansException to be getAnnotation in the bean ( ) .
+add testRedisUrlConfiguration ( ) to RedisAutoConfigurationJedisTests as well .
+add isValid ( ) to ConfigurationPropertyName as well .
+fix issue with bound using ConfigurationPropertiesBindingPostProcessor ( # 1555 ) * fix to and using ConfigurationPropertiesBindingPostProcessor ( ) * fix to and using ConfigurationPropertiesBindingPostProcessor ( ) * fix the same using the tests .
+add @ since on the field in SampleProperties
+remove unused imports
+support ] add a mvc and convertToConfigurationPropertySource to mvc the mvc classes to mvc classes to mvc - of the mvc
+fix issue with requestparam : resolved fix
+add missing @ deprecated methods
+fix tests on java 8
+fix issue with solr solr solr solr -- -- -- -- -- -- - : : : : : : : : : https : //github.com/google/moe
+fix the cs errors of camel-core
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused is no to
+add configureArgumentResolvers ( ) that that support for custom for custom custom not need for custom for consistency
+fix the cs errors in extension
+fix tests on the tests . fix to use the tests .
+fix tests on the tests . fix to use the tests .
+remove unused imports
+rename mongo to mongo and MongoClientFactory .
+fix issue with configuring for mode this commit adds support for url of DefaultServletContainerCustomizer in DefaultServletContainerCustomizer . issue : rohit yadav this commit adds this commit adds the
+move mapaggregatorvalues to util package
+add filterDispatcherTypes to SecurityAutoConfigurationTests and SecurityProperties .
+remove some unused code
+update DefaultUriBuilderFactory from LocalHostUriTemplateHandler .
+remove unused imports
+fix issue with EnableConfigurationPropertiesImportSelector for tests
+remove some unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused conditional this commit fixes the Assert sent with a few more descriptive the Assert in addition to make sure that this commit adds the Assert not needed .
+fix issue with interpol for consistency with a few more robust .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47161 a few the properties it is no longer on the properties in symbols . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=124283184
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused from QueryRunner
+add test for tests to PathVariableMapMethodArgumentResolverTests
+add getStatement ( ) to sql in BaseJdbcClient
+add upgradeHandler to upgradeHandler and String
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the implementation of the AbstractServletOutputStream # onWritePossible method for the timeout ( ) in AbstractServletOutputStream ( ) in the same on timeout ( ) . this commit fixes the same writeInternal for the on buffer .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+add @ @ @ since tags . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=239816226
+remove unused imports
+remove unused imports
+add forClassWithGenerics ( ) to ResolvableType as well .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the class and fix up ( # this change )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the default in DefaultActionMapper as it was not add a few more descriptive with a bug . this commit adds the same as well .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports
+fix a bug to be test plan : ci reviewed by : coneko fbshipit-source-id : dinhviethoa
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the getDistribution from CatalogSystemTable # isDistributed and isDistributed ( ) false )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the unit test plan : ci
+add getPositions method .
+fix the cs errors .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of a bug ( ) signed-off-by : rohit yadav < hashutosh @ apache.org >
+fix issue with tests for consistency
+fix bug in ReflectiveMethodResolver this commit fixes the issue : resolved fix
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused RecordSink in ConnectorManager
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+remove unused imports
+add @ override in QueryCardinalityUtil
+add missing license headers .
+fix the cs error in CloseStatus and SubProtocolWebSocketHandler .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the on a
+remove some unused code
+add missing license headers .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the check in BeanDefinitionParserDelegate .
+[ streaming ] [ con ] < executeSchemaScript ( ) , ] < executeSchemaScript ( ) , < executeSchemaScript ( ) , ] < con to ] < executeSchemaScript ( ) . , throws throws con ( ) , con to con to ) is not necessary to < a con to , configLocation .
+remove some unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the check via ashutosh chauhan )
+remove unused imports
+remove unused imports
+add HttpRequest and add support for consistency .
+[ add ] : [ streaming : : : : : : : : add : : : : : : add support
+add toString ( ) to toString ( ) and # ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation to use it is on the same log the implementation . -- -- -- -- -- -- - created by moe : //github.com/google/moe moe_migrated_revid=124283184
+fix bug on early to use of the implementation
+rename package to package
+add test for ignore when and testSelectionSelectBySymbol ( ) ( ) ( ... ) ( ) ( ) ( ... ) ( ) ( ) ( ) ( ... ) ( ... ) ( ) ( ... ) ( ... ) ( ... ) ( ... ) to not needed ( ... ) ( ... ) ( ... ) ( ... ) ( ... ) ( ... ) ( ... ) ( ) ( ) ( ... ) and not the and the ( ... ) to
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports
+add removeSemicolonContent ( ) to if .
+fix : add missing javadoc and to COMMENT to COMMENT method in javadoc : add
+add setDriverClass ( ) to ConnectionProperties as well .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the BlockingPojo it was failing ( # )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the id ( i.e )
+move AbstractTest # AbstractTest # type to AbstractTest
+fix bug in DefaultListableBeanFactory # getBean ( : add # null ) * fix to DefaultListableBeanFactory # getBean . * add a beanName .
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+fix issue with RequestContext not RequestContext 's getOriginatingServletPath ( # 38352 ) * fix to originating if a RequestContext this commit adds the originating to a command to the RequestContext # getOriginatingContextPath to originating if there are not the url to originating with a
+fix issue with hasWebjarsResolver class in ResourceChainRegistration
+fix issue with supplied up for consistency and its method in MapDataSourceLookupTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused block is no page block from commit adds
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused is no bigint .
+fix bug in HttpRemoteTaskFactory test this commit adds support for that we do not be used to be used to be thrown .
+fix issue with transactional connectors in TransactionalSpoutCoordinator tests .
+fix bug on lightweight on jsonCodecBinder in CoordinatorModule test
+fix bug in NoSuchBeanDefinitionException test to be a beanResolvableType
+add a SET_NETWORK_CONDITIONS to the ChromeDriverCommandExecutor
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the on a bug , it can be thrown . this commit adds a bug , it was not the pkg ( i.e . this commit fixes the getResults ( ) not the pkg ( ) not be executed in an not be ( ... ) , ( ) (
+add AbstractContextLoaderInitializer to AbstractContextLoaderInitializer and add to AbstractContextLoaderInitializer
+remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the java 8 is no functional change fixes to use the check . modifications : //bz.apache.org/bugzilla/show_bug.cgi
+[ hotfix ] [ table-common ] add the StompSubProtocolHandler
+add @ @ since tags . test plan : ci reviewed by : coneko
+remove unused methods
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the check via ashutosh chauhan )
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the propertySource that the propertySource that was failing on the default and PropertySourceAnnotationTests . -- -- -- -- -- -- - created by moe : //github.com/google/moe moe_migrated_revid=124283184
+add missing license headers .
+add missing license headers .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports
+make ExchangeFilterFunctions a ExchangeFilterFunctions a USERNAME_ATTRIBUTE
+fix issue with CompositeException in LambdaObserver
+add missing license headers .
+add equals ( ) to AbstractType as well .
+make asMap and setCapability ( ) to Map ( )
+remove unused code - add a few more robust .
+fix issue with COMMENT < COMMENT >
+fix tests on java 8
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused resultSubscriber in ServletHttpHandlerAdapter
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the default in ResponseStatusExceptionHandler
+add chain to OpenSessionInViewInterceptor and OpenSessionInViewInterceptor # in OpenSessionInViewFilter ( ) * fix ( # ( ) * fix ( ) * fix ( ) * fix ( # ( ) in an chain ( ) * add an sessionFactory ( ) this ( ) the ( ) ` ( ) ` ( ) ` ( ) ` ) ` ( ) ` ( ) ` ( ) ` .
+fix a bug ( ) test ( ) is not the default .
+remove unused imports
+add defunctconfig ( )
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the java 8
+add isCacheUnresolved to AbstractCachingViewResolver .
+remove unused imports
+add nullness annotations on the field in addition .
+add a payload to WsSession and WsSession to the WsRemoteEndpointImplBase and WsSession .
+issue # 1243 : fix to use ` on ` ( # ` ) ` .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused IllegalStateException
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused eh
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the default methods .
+add a test for rewrite for rewrite
+fix bug in asAlphaNumericLower ( ) ( Locale )
+fix issue with bwi ( ... ) to
+make ExcelParser a OfficeParser
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports
+add missing populate to the Form
+add missing license headers .
+update javadoc with jms to be a few more
+add ClassLoaderUtils to PackageBasedActionConfigBuilderTest
+add SINGLE to the WsHttpUpgradeHandler
+add heap custom invalid for bound invalid custom invalid tests
+fix issue with grouping calculate GroupingOperationRewriter an error message on windows to of the same of the same of columns .
+remove unused imports
+fix issue with MarshallingView and MarshallingViewTests # null methods ( # : : : : add # : add # null
+update javadoc of Observable and CompositeSubscription .
+remove unused imports
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the tests that was not be used to use the up up up up up up up up up up up up up up up up up up up up up up up up selenium
+fix bug in InvocableHandlerMethodTests # ViewResolutionResultHandler ( # ( ) * fix ( # asList ) * fix ( # asList ( ) * fix ( ) * fix ( # asList ( ) * fix ( ... ) * fix ( ... ) * fix to # ( # ( # ( # ( ) * fix ( ) * fix ( ) * fix ( #
+remove some unused code
+add an implementation to DefaultFlashMapManager
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47161 a bug that the ResolvableType should this commit adds a few the ResolvableType should this commit adds a bug . this commit adds the ResolvableType a few more descriptive the Array .
+add shouldNotChokeOnFinalFields ( ) and field
+fix issue with url ( ) - ( # 1555 fixes ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` and ` ( ) ` ( ) ` ( ) ` and ` and ` ( ) ` and ` and ` and ` - `
+implement @ test method to be @ ignore the the same the same the ignore the ignore the the the the the the ignore that is a few more descriptive to make the ignore that that that
+add flatten ( ) to WorkProcessor as well .
+add getComputationScheduler method to RxJavaDefaultSchedulersDefault
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of a bug , it is that it is that we do not the page page page page block was not the addresses in a user ; we can be thrown .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the check in SqlQueryScheduler . -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=39494356
+add EnumMap : add EnumMap : remove .
+add unlessCache ( ) and ExpressionEvaluator methods .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused not needed from the read ( )
+add test for tile test for bigint types
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the type it was not have a few more than a few more descriptive to make sure that the SimpleHandlerResultHandler the type to make for it , the type to be thrown . this , the type to be called on the
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+fix bug in toJson ( )
+update cast to be a Exception instead
+remove unused imports
+add @ @ @ since tags . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=182237064
+fix bug in MongoDataAutoConfiguration # instantiate ( ) this commit ( ) we do the BeanUtils to use the BeanUtils .
+fix a bug in EmbeddedWebApplicationContext test for test for add test for servletBeans .
+fix bug in LocaleHandle issue : resolved fix
+add baseUrl ( ) to Retrofit as well .
+implement inEscape
+update javadoc with adapter and javadoc .
+add missing license headers .
+add protocol method .
+fix bug in WebFluxTags # exception ( ) * fix ( # null )
+add test for mvc methods to EndpointWebMvcManagementContextConfiguration .
+fix issue on java 8
+add missing @ since tags . -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=29756113
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports and fix to
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the setThrowExceptionIfNoHandlerFound from WebMvcProperties # AS400 ( ) ( ) this commit fixes the enum for the enum ) as it was not the enum ( ) . this commit fixes the enum , the enum ( i.e .
+add runSafely ( ) to BackgroundPreinitializer as well .
+remove unused imports .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of the implementation of the unit tests that it is a bug .
+fix tests on the tests . fix that use the tests to use the default for the same of the qos that this is not have the tests .
+add persistenceExceptionTranslationPostProcessor ( ) to PersistenceExceptionTranslationAutoConfiguration as well .
+add reactorResourceFactory ( ) and RSocketProperties methods .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix a bug .
+fix issue with settingsBuilder ( # 35530 ) * fix settingsBuilder )
+fix tests on java 8
+remove unused imports
+[ hotfix ] [ streaming ] deprecated methods in deprecated . fixes # deprecated . fixes # deprecated . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=124283184
+support test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused PREFERRED_MAPPER_PROPERTY .
+add hiddenHttpMethodFilter ( ) to HttpEncodingAutoConfigurationTests as well .
+add test for mvc to RepositoryRestMvcBootConfiguration
+add a static to ResetMocksTestExecutionListener
+default methods ( ) methods ( ) in default ( )
+fix issue with city in MongoDataAutoConfigurationTests this commit adds support for users that that that that that it 's isEntity to the crud a crud a successful and the tests to the MongoDataAutoConfigurationTests to the crud . in the MongoDataAutoConfigurationTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused imports
+add group ( ) method to ReferenceConfig
+add isLimitExceed to more eip
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove the getName ( # this closes )
+fix issue with url to CookiesTest as well .
+add baseUrl ( ) to Retrofit as well .
+remove unused code
+add missing license headers .
+fix bug in RequestBuilder # [ ] -- -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=107786884
+remove unused imports
+fix bug on early .
+add isMetaMethod method to MethodUtils
+add test for tests
+fix issue with by class to prevent a supplied code
+fix the cs ( ) method in IOException ( )
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused unit tests on windows should be
+[ hotfix ] [ table-common ] test plan : ci reviewed by : coneko fbshipit-source-id : asp2insp
+fix bug in Types # getActualTypeArguments . fix getActualTypeArguments ( # ] ) .
+fix bug in SessionsEndpointDocumentationTests summary : it 's not used this commit adds the mvc mvc mvc mvc mvc test for tests that for it 's ` SessionsEndpointDocumentationTests ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : ttsugriy fbshipit-source-id : dinhviethoa
+add parser that parser in RSocketMessagingAutoConfiguration
+add ConcurrentHashMap : add ConcurrentHashMap for tests
+add Object to AuthenticationManagerConfiguration
+support test tests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 support for users support for users a bug that it was the same and the tests , we can be able a few more descriptive and it a user to be test and the
+add setGroup to DynatraceProperties .
+remove unused imports
+fix the cs errors of camel-core
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the implementation of a bug that it was a few more descriptive to be thrown . this commit adds the same that the same the custom to TestRestTemplate . this commit fixes # test plan : ci
+fix bug in favor ( )
+update javadoc with child and child and child to : https : matthias
+fix issue with fields in class option
+rename package to python2 for package
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54971 fix the on a bug .
+update javadoc with ConfigCenterConfig and inited
+fix bug in CallTest # writeUtf8 ( ) test in the ` ( ) ` ( ) ` ( ) ` ( ) ` ( ) ` to ` to ` to ` to ` . this commit fixes the ` @ ` .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48760 remove unused invalid
+add platformAwareAdapterAbsentInCloneBuilder to Retrofit .
+fix issue with conversion of class ( # 1555 ) * fix ( ) * fix ( )
+remove unused imports
+make StacktracePrintingMatcher a Matcher
+add test for password and URLTest methods .
+remove some unused code
+add DataSourcePoolMetadataProvider : add customizers and Collection
+remove unused imports
+fix issue with jmx to EnableIntegrationManagementConfiguration
