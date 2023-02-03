@@ -1,0 +1,1000 @@
+Replace qualified name creation with an old line
+Remove deprecated import
+[added] <unk>
+Formatting the code
+Remove deprecated code
+Add a test for <unk>
+Added <unk> method to Actor.
+Remove deprecated code
+Make method private.
+Javadoc improvements
+No functional change.
+added missing import
+DanielWagnerHall: Updating javadoc for <unk>
+Change <unk> to use InputDefaultPackage.java file.
+Make ImmutableExecutableStage Public
+Reverted the previous commit as part of the fix.
+Fix for <unk>
+c* uses commons-lang3, not commons-lang
+remove unneeded check
+Use INVALID_TABLE constant
+Fix for <unk>
+Use consistent method for boxing and suppress warnings
+Shuffling from internal-only change. ------------- Created by MOE: http://code.google.com/p/moe-java ByteBufAllocatorBenchmark
+Documentation correction for Cypher
+Fixed issue reported by Coverity Scan.
+<unk> Graal.
+Suppress warnings in spring-test
+CLOUDSTACK-7966: remove snapshot_store_ref entry, in which role is not marked as removed in <unk> Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Fixing <unk> of <unk>
+Remove unused imports
+Patch by Luca Molino to fix a bug on alter class (issue 403?)
+Add a bit more logging to the user.
+TIKA-132: Refactor Excel extractor to parse its sheet and add hyperlink support - Made a few methods accessible (analogous to Antlr3)
+Ensure tests pass if a node is stale.
+fixed issue with <unk>
+Uses deprecated methods
+Trivial refactoring: remove redundant <unk>
+expanded documentation for BuildContext's SourcePathResolver Test Plan: CI Reviewed By: Coneko fbshipit-source-id: Camel-chatscript
+Make <unk> more <unk>
+Code cleanup in AddExchanges
+Add support for <unk> and <unk>
+Construct GrammarASTAdaptor with CharStream from lexer
+Mute <unk> Relates #44049
+HIVE-14671 : merge master into account (Sergey Shelukhin)
+Fix for: <unk>
+Adjusting from javadoc to javadoc
+Cleanup warnings and imports
+Add missing license header
+merge from 2.0
+Additional tests for <unk>
+Fix for: <unk>
+added <unk> method
+Add <unk> to <unk>
+Remove deprecated method
+Document advantages of "implicit <unk> ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=98686145
+Removed useless constructor.
+Mute <unk> Tracked at #38212
+Fix javadoc link in javadoc
+Deleting outdated imports
+removed debug code
+Fixing some test cases that relied on a bad import.
+Annotate <unk> and <unk>
+added missing @Override
+Add missing <unk>
+<unk> Add support for custom BeanPropertyBindingResult Issue: <unk>
+Changed licence to new
+Use <unk> instead of <unk> by default.
+Check <unk> and <unk> before checking <unk> mapping
+Add support for <unk> to Schema.Builder
+Closing <unk> <unk>
+Patch by Luca Molino about a bug in alter class (issue 403?)
+CAMEL-13608: Add route route camel name for route model
+Use primitive array instead of array comparison
+Fix for <unk>
+Add missing IndexShard#readAllowed() This was lost in #33835
+HIVE-14332: Reduce logging level from INFO to INFO Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com> (cherry picked from commit <unk> Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Use the correct Enum in <unk> ----Release Notes---- [] ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=34580858
+Removed unused import
+Partial fix for <unk> Small optimization in <unk>
+Uses <unk> instead of unmodifiableSet
+Add license header
+Clean up warnings and remove unused locals
+Clean up imports
+[Test] Enabled trace logging for <unk>
+fixed issue with <unk> in case of <unk>
+Use <unk> rather than <unk> in <unk>
+Fixed a compilation error in camel-core
+Add support for windowed CombineGloballyAsSingletonView
+Add missing @since tag
+Use offset to concatenate strings
+Add a DebugTimer for GraalCompiler.compile
+Added <unk> test case
+Remove unused imports
+Fixed the CS error of camel-core
+simple "awaitTerminationSeconds" property is not valid
+Added a newline to the documentation of the internal parser
+remove unused import
+Added <unk> and <unk>
+Add missing specialization for Internal class.
+removed unused imports
+use Math directly
+Don't use <unk> when creating a <unk> when the <unk> is given
+returning tabs.
+Small simplification in StructuredCoder
+Remove unnecessary code
+applied patch for AMQ-1229 with thanks!
+Make ParDoLifecycleTest Serializable
+Added licence header
+Fix for <unk>
+Refactoring for <unk>
+added test for <unk>
+Rename method in BinaryNode <unk>
+Fixed a compilation error in <unk>
+Increase Timeout in LocalQueryRunner
+Reduce logging level for logging to trace
+Add missing mock
+[fixed] CS for Camel-LDIF
+<unk> comments.
+mark methods as static.
+Java7 multiple exception catching
+Removed deprecated code
+Correct version string
+remove call to <unk> before calling <unk>
+Code cleanup.
+Mute <unk> Relates #44049
+Remove deprecated code
+<unk> error message to match sample in <unk>
+small change to test
+Improved exception message
+Inline class
+in a test
+Fix for <unk>
+NonNull by default in <unk>
+[Test] Enabled trace logging
+added a factory method
+Clean up.
+Remove unused import from <unk>
+Fix <unk> bug introduced in bug 60409.
+Add tests for <unk> and <unk>
+added toString() method
+concatenate strings in the HTML
+<unk> Small corrections to the comment.
+Followup to CAMEL-8108
+Improve <unk> javadoc.
+Mute <unk> Due to <unk>
+Temporarily deactivate spuriously failing test
+Default readOnly configuration to false.
+tweak the failing test
+Remove unnecessary List.transform
+Clean up warnings
+for <unk> <unk>
+Improve documentation for <unk> Issue: <unk>
+Add Javadoc to Main. Test Plan: CI
+Add missing license header
+Remove deprecated code
+[BEAM-6463] Apply windowing in CombineLoadTest
+Removing unused imports
+Remove unused import
+Revert "update comment on <unk> This reverts commit <unk>
+handle null checks
+Added the check for the timestamp element
+Remove <unk>
+Removed unused field
+PatrickLightbody [tests] Wait for job termination to be processed before starting tests This closes #4417.
+Fix test issue with <unk>
+replaced <unk> with <unk>
+Remove unused method
+Annotate <unk> as <unk>
+sanity assertion assertion
+[hotfix][runtime] Add @Nullable to JobVertex#getSlotSharingGroup()
+Split test time.
+Clean up the code of AvroMarshalAndUnmarshallTest
+Make <unk> a bit more english
+Remove unused import.
+Initial pass at surrogate authn
+Fix <unk> Fix a bug in <unk> to avoid an exception when an exception is thrown.
+Fix for <unk>
+added <unk> to <unk>
+updated table name to point
+Fixed issue 1037, removing drag <unk>
+Remove unused method
+update URL for <unk>
+Adds missing import
+Remove unused code
+wait for green status in ML tests
+Fix <unk> Small bug in <unk> This closes NodeList
+Remove deprecated code in <unk>
+Add LIR to LIR backend
+Send right object.
+Correct compilation version for intrinsics
+Fixed CS for Camel-Schematron
+Clean up warnings in spring-test
+Include the RuleKey when using <unk> Test Plan: `buck test --all`
+<unk> add <unk>
+Remove unnecessary call to sysout
+Review comments of kkolinko
+Bug 9921 - view view view view ServletException
+Renamed the beginning to <unk>
+HIVE-9855: Runtime skew join doesn't work in agent <unk> This reverts commit <unk>
+Remove unused method in AbstractKeyedStateBackend
+Updated the documentation for <unk>
+Use InterceptableChannel in AbstractBrokerMessageHandler Issue: <unk>
+Removed unnecessary boxing statement.
+Improved speed of database startup when database is disabled
+added missing AL2 header
+Use ReadOnlyConnectorMetadata methods
+removed unused imports
+Reopened issue 307 replacing memory MVRBtree with Java6 one.
+Changing the log log entry from INFO to INFO so that the execution of the thread pool from the next thread pool will modify the log messages.
+[TEST] Wait for yellow and delete assertions before testing
+Add test for <unk>
+Remove unused variable
+Implement LLVMObjectNative interface in LLVMAddress.
+Added support for <unk> method
+Remove unused code
+Document why parsing is parsing semantics
+Javadoc updates.
+Allow <unk> to be used for lists of lists
+Marks <unk> as deprecated
+added test for issue with distributed
+Add @SafeVarargs and Invoke.getContextType
+[TEST] adapt test to new users_roles format Original commit: <unk>
+Mute failing tests
+Add support for camel-spring native configuration
+<unk> [tests] Remove <unk> from <unk>
+Increase timeout for <unk>
+Minor cleanup in <unk>
+Remove unused imports in <unk>
+Renamed some javadoc for <unk>
+[hotfix] Expand hashCode of MemorySegment.wrap()
+Clean up warnings
+remove unused code
+removed unused imports
+Make testTimeoutSendExceptionWithDelayedResponse less flaky.
+Added the test for the dev release
+Mute <unk> Tracked at #32506
+Add license header
+Add missing Experimental flag.
+Re-adds I/O monitor to writer step in importer
+Added test case for <unk>
+Reduce the visibility of a closure
+KAFKA-2857; Fixed issue: smell
+Add missing @Override
+Clean up warnings and tidy up test
+Add <unk> to asserts
+Add license header
+Make <unk> and <unk> consistent with other types
+added helper method
+HIVE-9177: Fix child operator references after NonBlockingOpDeDupProc (II) (Szehon via Xuefu)
+Document <unk>
+Don't depend on the gate to reduce the overhead of the stack trace
+Comment <unk>
+Small optimizations in <unk>
+Fix line len
+GROOVY-5429: Add excludes to @EqualsAndHashCode (improve <unk>
+Support synthesized annotations in CFGPrinter.
+Added <unk>
+remove useless line
+Disabling a test in marionette
+Mute ClusterPrivilegeTests#testThatSnapshotAndRestore See <unk> Original commit: <unk>
+Fix NullPointerException that is thrown by <unk>
+minor changes to <unk>
+CAMEL-12268 - Camel-AWS: Lets call shutdown on the clients while stopping endpoints - AWS EC2
+Add an unused method
+Move <unk> to <unk>
+Fixed CS for Camel-CoAP
+Remove debug logs
+[TEST] consistently concatenate hits in ClusterClientTest
+Show Errors in FileSource.getReader
+extract from <unk>
+Reduce log-level of IndexPrimaryRelocationIT to hunt Heisenbug
+<unk> Use PropertyBindingSupport wherever possible
+Add missing import Original commit: <unk>
+Make <unk> protected
+Add license header
+[TEST] Fix test failures in <unk> Original commit: <unk>
+Remove redundant cast
+Migrate AppliedPTransform to use Capabilities.
+DRILL-7186: Add back <unk> REST endpoint (regression after DRILL-6562)
+Fix a typo in the exception message.
+Might as well be deprecated
+[inlining] preparing to inject whitespace
+Mute FilteringAllocationIT <unk> Relates to gh-1650
+Fix by StructuredCoder
+Fix compilation error in <unk>
+Remove unused imports
+Fix for <unk>
+Clean up warnings in spring-test
+Add a test that takes a bogus license.
+Add license header
+<unk> -- clean up tests
+Ensure that all <unk> are loaded from <unk>
+added license info, small change to <unk>
+log message to debug log message
+clean up ExecutionGraph - Added license header
+<unk> test report errors
+Make <unk> a ConcurrentHashMap.
+Add example to Javadoc example
+bug CS-15278: Download Volume is stuck in <unk> while a VM is being accepted. - Submitted by Xuefu)
+clean dead code
+use removePhiOut/removePhiIn/phiOutIndex.
+Remove unused imports
+Small tweak to exception message.
+Clean-up. No functional change.
+Lazy Parsing of <unk>
+Fixed a NullPointerException in MeshBuilder
+Add missing import
+Fix for <unk>
+Remove deprecated code
+#1404 Few log messages were added.
+fixed compile error after rebase
+GregoryBlock: Make sure the <unk> method is always false. <unk> is called <unk>
+Make it easier to modify the class loader
+CAMEL-3031 <unk> sec destinations at <unk> <unk>
+Bug 55652 - JavaSampler silently resets classname if nightly fails. Reviewed-By: Kishan
+Rename test class to match convention
+LukeIS: secure is not a GUI <unk>
+move constant to debug
+Added a helper method for creating an expression
+[TEST] Fix Align Align with 8.5.x.
+Make log final; reduce visibility of fields
+applied patch for AMQ-1229 with thanks!
+Mute failing test Tracking #41326
+Clean up <unk>
+<unk> Add more detail to consumer consumer
+Added the ability to override the <unk> method
+Better exception message
+Reduce log level for intentionally retries messages
+Close <unk>
+CAMEL-12884 - Camel-AWS Lambda: Add support for keyword mapping, fix LambdaOperationTest, again
+Add license header
+Disabling test on slow boxes
+<unk> Fix compile error due to commit 843f6b16914159ea6241c6c1a0a04e9d0fefaed4
+Add missing annotation
+Mute failing test Due to <unk>
+Fix for <unk>
+Clean up.
+Cleaned up documentation
+Fixed error message in case of error in <unk>
+[scene2d] Added <unk> for convenience.
+enable <unk> for indexing and flush out
+Use AstUtils in <unk>
+Add trace logging to trace
+<unk> Expand JavaDoc of MemorySegment.wrap()
+remove unused method
+Clean up warnings
+<unk> remove debug line
+Uses <unk> to reduce <unk> test
+added a helper method to create non-persistent output streams together
+Fix for <unk>
+Remove unnecessary SuppressWarnings in DefaultParser Reviewed By: sbalabanov fbshipit-source-id: 93097707c4
+<unk> Use <unk> instead of <unk>
+fixed the CS error of camel-core
+Added <unk> method to Actor.
+Add mapping for maps into maps
+Make it possible to use an InMemorySession for legacy FirefoxDriver <unk>
+merge from 2.1.x
+add -diagnostics option to test suite
+JavaInterop: enable JavaObject wrapping in AOT mode.
+minor change, correct javadoc spell
+added a few methods for convenience.
+Updated javadoc for alt attribute
+Add @CheckReturnValue to <unk> ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=82188346
+Added a simple test case for <unk>
+Use FieldType.valueOf instead hand crafted method
+Make method private.
+updated AnnotationMetadata methods to Actor.
+[TEST] Increase visibility of test class Original commit: <unk>
+<unk> Change log level to debug
+Clean up javadoc warnings
+Fix for <unk>
+Fixed CS for Camel-base
+Remove unnecessary field
+Make method private.
+Remove deprecated method
+added Expansion to Node, and the language is not compatible with Java 7
+added <unk>
+Mute <unk> Relates #44049
+[hotfix] Remove unused <unk> method in Cache.Entry
+<unk> Improve performance of <unk>
+Fix for <unk>
+<unk> Fixing javadoc.
+Eliminate the deprecated method
+Remove <unk> from DoFn
+clean up the code of <unk>
+Patch by Gary Dusbabek, reviewed by Stu Hood. CASSANDRA-956
+Use IOUtils#close() where needed
+Make <unk> public
+Add license header
+Polished javadoc
+CAMEL-852: Applied patch
+Remove deprecated code
+Added license header
+Remove unneeded <unk>
+Improve exception message for exception message.
+Removed unused imports
+Replace <unk> with <unk>
+Make <unk> final
+merge from <unk>
+Make <unk> protected
+Remove unused method
+Try making sure that <unk> can be applied
+Bug 12777 - Add storage network configuration to clean up.
+Send correct class loader for progress pages
+Simplify <unk>
+timeInSeconds * 1000 timeInSeconds is int type, if timeInSeconds is very big, it makes "timeInseconds * 1000" very small even 0
+More debug logging
+Clean-up. No functional change.
+added test for handling null pointer exception
+Use correct javadoc for <unk>
+Fixed issue on <unk> in <unk>
+remove unused imports
+Add missing @Override
+Add support for ObjectSizeEstimator
+*** Breaks tests *** Original change description *** <unk>
+added <unk>
+Remove unnecessary cast
+findbugs: removing deprecated code
+Remove unused method
+removed <unk>
+Remove unused imports
+Re-enable failing tests in <unk>
+Rename. Nature of Servlet changed
+Fixed bug on SQL APPEND when the value is false.
+remove dead code
+added support for <unk> method
+Use the DeoptimizingNode interface of the interface rather than the default provided.
+Add missing license header
+Changed <unk> to use <unk>
+Remove unused code
+Remove useless call to <unk>
+Shuffling from internal-only change. ------------- Created by MOE: http://code.google.com/p/moe-java 59076
+Remove unused imports
+Rename variables in <unk>
+Make class). <unk> Issue: <unk>
+applied patch for Aaron Crickenberger with thanks!
+<unk> and <unk>
+Fix for <unk>
+Added <unk>
+Make sure that <unk> is wrapped in a <unk>
+Remove an empty line
+<unk> should be reset to <unk>
+Fix FusionIndexIT not having correct defaults optional. This closes Fusion
+Removed unused import.
+FloatingReadNode: add <unk> make it a bit more time for tests
+Eliminate log line
+Fix <unk> to work with <unk>
+Fix javadoc.
+Allow <unk> to be initialized with a <unk>
+fix for <unk>
+Additional fix for <unk>
+return 404 if shard is destroyed
+Remove import
+Added test for method invocation
+Remove check for negative values in <unk>
+Add Javadoc.
+Fix <unk> Closes #10630
+Correct javadoc
+Correct a typo in Javadoc.
+Reduce the visibility of <unk>
+Corrected incorrect javadoc warning in <unk>
+Remove unused code
+Add license header
+Fixed a bug in providing a bit less scary
+[SQL] Fix <unk> Make fields final
+<unk> uses <unk> for <unk>
+Remove unused code
+DRILL-3822: Have own, use own, not <unk> method loader.
+Fixed the CS error of camel-core
+fixed a typo in an error message
+Deleting unused imports
+Removed unused imports
+minor tweak to test
+change the return value of <unk> to avoid npe
+CS-16370 - remove <unk> throws NPE
+Building java libraries must be released from secure alert This fixes an issue in <unk> and <unk>
+Bug 57193: Escape &, < and > in javadoc Bugzilla Id: 57193
+Distributed: fixed problem with <unk>
+removed <unk> check from <unk>
+CLOUDSTACK-5737: <unk> predicate should not throw exception
+Add support for ObjectSizeEstimator
+Keep final final
+Remove deprecated method
+Fix variable naming warnings
+Add support for <unk> to <unk>
+Add a bit more debug logging
+Fix ConcurrentHashMapV8 <unk> ((x | thanks to Dhiraj
+Use try-with-resources for accessing <unk>
+add <unk> as well
+ValuePosition: restrict variable visibility
+Remove duplicate code
+Increases backoff in GcsUtil
+Return integer when integer integer array limit
+Fixed bug on SQL APPEND when the value is NULL
+Remove debug debug output.
+fix for <unk>
+Reduced unnecessary unnecessary allocations.
+Avoid unnecessary array creation in bundles
+Polish Javadoc for non-deprecated method
+Enable Instrumentation <unk>
+Rename <unk> to <unk>
+Mute <unk> Relates to #35506
+Remove null checks
+Test for <unk>
+Calculation of size calculation should be <unk>
+Make class final
+Remove deprecated code
+Fix for <unk>
+Removed unnecessary <unk>
+Code clean-up.
+Removed debug output
+Extract creation of <unk>
+return values.
+Simplify the javadoc.
+Remove unused code
+Remove debug code
+remove unused imports
+Stop using JimFs in <unk>
+Add <unk> to <unk>
+Add license header
+Fixed javadoc for <unk>
+removed debug line
+Remove unnecessary synchronized block
+Fixed CS for camel-core
+Clean up warnings in spring-test
+Allow refreshing KeyStore and TrustStore in CLI
+Restrict visibility of class.
+Update for <unk>
+Add <unk> to ColumnStatistics
+Avoid NPE when <unk> is enabled
+Try to fix test on slower builds
+Fixed CS for Camel-Core
+Add missing @Override annotation
+Trivial refactoring: remove redundant method
+<unk> [tests] Fix JobRetrievalITCase#testJobRetrieval() test job which has not been stopped Original commit: <unk>
+Mute <unk> Tracked at #33337
+Fix for <unk>
+CAMEL-13801 - Camel-AWS: Use @BindToRegistry wherever possible, Camel-Spring-Batch
+Adds test case to test <unk>
+Post rebase cleanup
+CLOUDSTACK-2772: <unk> firewall mode to VR when recovering network fails
+Workaround for NodeWorkList
+<unk> - simplify <unk>
+Show error message for <unk>
+Suppress warnings in Gradle build output
+Add backlog to <unk>
+Added <unk>
+Make <unk> constructor protected
+Clean up warnings in spring-test
+Remove unused code
+Inline <unk>
+Eagerly close <unk>
+Fixed the CS error of camel-sql
+Make AuctionOrBidWindowCoder use <unk> instead of consistentWithEquals
+Remove unused field
+Replace constants (static final CONSTANT_CASE) declaration type which use the general collection interface (e.g. List) with an immutable type (e.g. ImmutableList). ------------- Created by MOE: https://github.com/google/moe structured
+remove <unk> warning
+Call newBuilder ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=116450985
+Added <unk>
+<unk> fix for <unk>
+[hotfix] [streaming] No functional change. No functional change.
+[hotfix] Remove unused method
+Formatting cleanup.
+Make <unk> a bit <unk>
+Remove unused method
+Fix a couple <unk> in parallel tests that fail in parallel
+Tried to fix the issue in the serialization
+Remove unused imports
+Add license header
+Changed the documentation for the Quit emulation.
+fixed issue on <unk>
+Remove <unk> from <unk>
+Changed the documentation of BeamSortRel
+Remove unused field
+merge from 0.7
+Clean up warnings in <unk>
+Fix https://issues.apache.org/bugzilla/show_bug.cgi?id=43617 Correctly handle quotes in attribute values for tag(x) files.
+Add missing null check in <unk>
+Escapes return value of toString() implementations
+Handle primitive types.
+<unk> Add missing license header
+Fix a more meaningful error message when an assertion fails.
+Fixed CS for Camel-ipfs
+Added <unk> methods
+Add <unk> to <unk>
+Register the last part of the last committed test.
+Review of <unk>
+Java version of Java version
+Fix for <unk>
+Add a TruffleBoundary.
+Do not call isEmpty() outside of the synchronized block. weak
+Clean up warnings in FirefoxDriver constructor
+Remove unused imports from Matthew Caruana Loopback interface
+Remove <unk> method
+Add missing <unk>
+Remove deprecated code
+Fixed the CS error of camel-core
+Add no main class to HttpResponse
+<unk> remove <unk> method
+Fix compilation error in <unk>
+[Discovery] Removed METADATA block
+Use <unk> instead of <unk>
+Oops - removed redundant import
+Fixed a NullPointerException in <unk>
+fixed compile error
+Remove debug line
+Update for <unk>
+added a newline to the javadoc of SslHandler
+[hotfix] [tests] Remove <unk> in #29880 This test failed to fail if the cluster is to be fully fully ready (ie, state. This change makes it to look at the end of the cluster to be fully cleaned up. Relates #29880
+Convert <unk> Arg to be non-static.
+Built the wrapped <unk> image in the test.
+Fix license header
+FileOutputStream(File,boolean) is a <unk> word
+added missing @Override
+adapt test to <unk>
+Make help, word <unk>
+Add missing <unk>
+Add HttpOnly to CookieRetrievingCookieGenerator. (#1775)
+Corrected spelling error.
+added <unk> method
+Updated <unk> to match <unk>
+Adapted IntTupleDataInFormatTest to the new api
+Adjustment to <clinit> in a JMS language.
+DanielWagnerHall: Removing redundant import statement.
+Bug Steven <unk> - by removing the wrong entry for <unk>
+Update es core to core Original commit: <unk>
+fix line number Original commit: <unk>
+Removed unused import
+Remove unused method
+[scene2d] Added DragAndDrop#getDragPayload.
+Added method to get rid of temporary line used in javadoc.
+Rename local variable in importer
+Rename variables in FirefoxDriver
+Add missing @since tag
+Delete unused import
+Added <unk> method
+Add AbstractMergeNode#valuePhis.
+Remove unnecessary code.
+Make <unk> constructor public.
+Clean up warnings
+Disabling JMSIO Test
+Make log final; reduce visibility of fields
+Added some more logging to <unk>
+Mute <unk> Tracked at #32506
+merge from 0.6
+Annotate <unk> with <unk>
+Remove unnecessary final
+Add a test that takes a bit more than one <unk>
+Adding license header
+Updated javadoc.
+Add unit tests for doOnEach actions.
+Fixing <unk> for <unk>
+Updated javadoc.
+Wait for yellow before testing
+Adapted IntTupleDataInFormatTest to the new class
+Deleting unused imports
+remove unused method
+removed debug logging
+Eliminate unused imports
+- Add missing cast to <unk>
+MINOR: Fix checkstyle violation in retention lease test This commit addresses a checkstyle line-length violation in <unk>
+Fix for <unk>
+Removing redundant @Override annotation
+Revert "ConsistencyCheck now waits for <unk> to <unk> This reverts commit <unk>
+Correct javadoc.
+Fixed CS for Camel-Couchdb
+Made enableRemoteShell( package-private )
+changed <unk> to use <unk> instead of calling <unk>
+Silence an IDE warning
+Small refactoring in <unk>
+merge from 0.7
+Cache class loader
+Fixed issue on remote creation of embedded
+Replace <unk> with <unk>
+Use <unk> instead of using <unk>
+more meaningful warning message when failing to detect how many exceptions are thrown only once
+merge from 2.1.x
+remove javadoc warning
+Annotation Manager changed from 4.0 to 3.0
+Add missing <unk> to <unk>
+Method name should not depend
+Update <unk> to use new <unk>
+Explicit test cases in <unk>
+<unk> remove unused import
+make <unk> protected
+Refactor <unk> to use <unk>
+Use <unk> instead of size() so that it doesn't.
+Remove unnecessary check in <unk>
+removed <unk> from <unk>
+<unk> <unk> to look at <unk> <unk>
+Make field private
+Add license header
+Add support for <unk> to GWT <unk>
+Cleaned up documentation
+Use <unk> instead of <unk>
+Simplify the acquisition of Cleaner
+Remove unused imports
+TEST: Mute testFollowIndexAndCloseNode Tracked at #38212
+remove unused import.
+Add <unk> to <unk>
+Add test for <unk>
+Fixed CS for Camel-Slack
+Document <unk>
+Remove unused imports
+add apache license
+added support for <unk>
+removed unused import
+Corrected the sample in <unk>
+HIVE-5597 : Add update.
+Add a helper method to see if a jar is loaded with a different hash codes
+Fixed the CS error of camel-core
+applied patch for AMQ-1229 with thanks!
+Simplify the code
+trivial remove unnecessary line
+Fixed CS for Camel-test
+HIVE-11023 : Disable <unk> if <unk> is not ".atlas" (#4306)
+Remove unnecessary cast
+Make comparators a contract
+<unk> log message.
+edit <unk>
+Actually the variable name.
+Watcher: Muting test awaits fix Original commit: <unk>
+fixed typo
+Fixed issue with <unk>
+Fix for <unk>
+bug 10511: lock on account for <unk> status 10511: resolved fixed
+merge from 2.1.x
+Bug 9780 - ComputeCapacityListener should not use the same service (Sergey Shelukhin, reviewed by Ashutosh Chauhan)
+Add license header
+Remove unused code
+HHH-4881: Use Loadable.getDiscriminatorValue() for <unk>
+clean up <unk>
+bug 7311: Use <unk> copy method in <unk> status 7311: resolved fixed
+protect against nonexistent <unk> method
+Add missing @param
+https://issues.apache.org/jira/browse/AMQ-5621 Remove sysout debugging
+<unk> Add missing license header
+Replace <unk> with <unk>
+add license header
+<unk> remove unused method
+Remove pointless <unk> method
+Mark failing test as @NeedsLocalEnvironment
+<unk> [tests] Fix <unk> This test has no deterministic, but it is better to use <unk>
+<unk> has a bunch of refactoring
+removed unused import.
+Clean up.
+Mark test as @NeedsLocalEnvironment
+Delete unused imports
+Removed unused import
+remove unused method
+apply <unk>
+Fixed bug on ORDER BY formats
+removed unused imports
+Remove unused method
+Mute failing test
+Revert "Remove 7.0.2 <unk> This reverts commit <unk>
+Remove unnecessary boolean check.
+add license header
+Update logic to use ProjectWorkspace. Summary: MainTest runs methods in Main directly, but not depend on the logic to use <unk> Test Plan: CI
+Add support for CompilationFinal annotations
+Add missing mocks to <unk>
+Remove unnecessary ListenableFuture
+bug 8153: Check if BC provider is passed to the <unk> cmd. status 9729: resolved fixed
+fix for <unk>
+Add "same" thread pool (really, just for testing)
+Changed log level to debug
+Rename KnownRuleTypesProvider.knownBuildRuleTypesFactory to <unk>
+Expand javadocs of Net API
+merge from 0.6
+removed unused import.
+ImageButton, disabled image.
+<unk> Use <unk> instead of <unk>
+Clean up imports
+Mark <unk> as static.
+merge from 0.6
+Add test for issue #5187
+small cleanup for <unk>
+More strict SNIPPET
+Fix line len
+Remove unused method
+Add unit tests for color functions
+Issue #2273: rename CheckUtils.isVoidMethod to <unk>
+fixed issue with <unk>
+[hotfix] Use BuildContext's SourcePathResolver Test Plan: CI Reviewed By: Coneko fbshipit-source-id: GestureDetector:
+BigtableServiceImplTest now uses a List of ranges. Closes 5.5.x
+Remove unnecessary string creation in LocalExecutionPlanner
+Let <unk> extend <unk>
+Fixing license header
+Removed the System.out.println
+Simplify and improve performance of BufferedTokenStream.fill
+[flow-sensitive] unused imports
+Remove unnecessary SuppressWarnings
+Remove a deprecated method
+Make FailureDetector output cached
+Ensure that the <unk> is always available in the image
+Remove unused code
+<unk> remove unused imports
+removed unused imports
+Fix naming error in <unk>
+merge from 1.1
+Try to fix the MainTest test error of camel-core
+<unk> Use correct stamp for <unk>
+Fixed the CS error of camel-core
+removed javadoc warning
+Rename poorly named variable
+<unk> Fixing test bug in <unk>
+Make <unk> a bit more <unk>
+Make <unk> more robust
+Add missing call to <unk>
+Remove unused method
+Reduce log level
+Add missing @Test annotation in <unk>
+Fix up tests for <unk> Summary: I broke this. Test Plan: Sandcastle builds.
+Rename MethodBasedEvaluationContextTest to *Tests
+CAMEL-10769 - Added Tika version to 2.1
+added support for <unk> to GWT driver
+Oops - need to check if the created flag is created
+<unk> Add a bit of docs to make it easier to understand
+Remove unused import.
+Change debug level to debug
+Fix for <unk>
+Remove unused code
+Fix javadoc.
+Do not use <unk> where possible
+Followup to 1735295. Remove old method.
+Fix for <unk>
+Add correlated subquery test
+Fixes potential NPE
+Add unit tests for <unk>
+Remove unused methods from LocalTemplateDownloader.java
+Close drivers and operators in LocalQueryRunner
+Close recovery
+Move <unk> to LookupSourceFactory
+Fix for <unk>
+Clean up warnings
+Add test for GuardNode's action
+Fix line len
+Upgrade : 2.1.8 to 2.2.4] @Immutable
+Remove unnecessary check in <unk>
+removing <unk> from twitter <unk>
+Fixed the CS error of camel-sql
+Change order of modifiers
+Truffle: add removePhiOut/removePhiIn/phiOutIndex.
+Delete unused import
+Added <unk> method
+More <unk> <unk>
+Removed unused imports
+<unk> remove unused method
+Remove unused code
+Remove unused method
+DanielWagnerHall: Use correct R.java in android. <unk>
+Removed unused import.
+Allow for partition to be loaded by request processing
+Mute <unk> Relates to #37379
+Use correct message message message
+Remove unused import
+Add missing throws
+Add equals/hashCode methods
+Remove dead code
+Fix for <unk>
+Add a bit more documentation for outstanding chars
+Remove unused method from <unk>
+Reduce visibility.
+Fixed the CS error of camel-core
+Raise Akka RNAT rule <unk>
+Clean up <unk>
+Add the Interface to be implemented outside of the package.
+Polish DatabaseStartupValidator.afterPropertiesSet()
+Remove deprecated code
+Add unit tests for issue #5187
+Delete unused imports
+Remove the FileHandler reflection API from the LoggingFeature.
+Fixed compilation problem with last commit
+Fixed compilation errors in simple compilation
+Clean up warnings
+bug 7311: Use <unk> copy constructor in <unk> status 7311: resolved fixed
+Added <unk>
+Fixed compilation errors
+Revert the previous commit
+Add license header
+Fix HIVE-15301: Correct spelling in log statement Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Small optimizations in Cypher output
+Small simplification in AdversarialReadPageCursor
+Generalized documentation in <unk>
+Silence the IDE warning
+change from core to <unk>
+Update GBPTree javadoc
+Fix for <unk>
+Make sure to close <unk>
+[Test] Speed up <unk>
+removed unused method
+//test/com/facebook/buck/ide/intellij/projectview && buck test //test/com/facebook/buck/ide/intellij/projectview && buck test //test/com/facebook/buck/ide/intellij` Reviewed By: mkillianey fbshipit-source-id: 38ce496
+Add toString to OperatorContext
+Fixed a bug in <unk>
+Add unreleased 5.6.5 version number
+Provide fix for catch
+bug 10946: Add default value for compressed <unk> status 7418,7706 : resolved fixed
+Added <unk> method to Actor.
+Make <unk> public
+Remove unused method
+merge from 1.1
+Fixed the CS error of camel-core
+Fixes <unk>
+Fix compilation error
+Correct javadoc.
+Remove unused imports
+Add nullability annotations for completable assembly (#5838)
+Fix for <unk>
+Clean up warnings in spring-test
+Remove deprecated method
+some more tests
+Remove unused code
+Mute failing test on windows Tracked at #38212
+Ensure client version is always false.
+<unk> - followup to <unk>
+added <unk> method
+Remove unused import
+removed unused field
+Remove unused import
+Remove an unused import.
+fix for <unk>
+Add missing @Override
+manual merge with <unk> <unk>
+Re-run travis Signed-off-by: Daan Hoogland <daan.hoogland@gmail.com> This closes #453
+Fixed CS for Camel-Influxdb
+JavaInterop: simplify <unk>
+remove <unk> method
+Remove unused field
+[hotfix][metrics] Make <unk> public
+Removed an unnecessary line
+Fixes build failure in DataStream This closes #4417.
+Clean up warnings
+Fixed compilation error
+Created CS for camel-core
+[java] Fixing a test for synthesized events, temporarily disabling the test.
+Issue #1555: Remove usage of ANTLRInputStream
+Add LIRInstruction.forEach*(ValuePositionProcedure <unk>
+Removing unused class
+Add missing call to RequestDataValueProcessor in FormTag.
+<unk> Prints an errant <unk>
+<unk> back into Java 6
+Use ThreadPool for all services
+fixed issue with EC2 cloud manager
+DataBuffer DataBuffer release in LocalMemoryManager
+Avoid NPE condition in <unk>
+Remove unused method
+Add <unk> to <unk>
+<unk> hangs on failure
+Add a newline to a comment.
+Update this method to use this method
+13781: high-level failure 13781: Job Job returns malformed Job This reverts commit 13781: API case Issue: <unk>
+removed unused method
+Make <unk> final
+remove debug code
+<unk> -- clean up.
+Small fixes to test
+[added] license header
+Remove unnecessary List.transform
+Updates to <unk>
+Revert UTF-8 fix for <unk>
+Mute <unk> (#39578) (#39579)
+Increase the duration of the flakey <unk> Summary: Futures.transform is marked as CheckReturnValue Test Plan: CI Reviewed By: aiked fbshipit-source-id: <unk>
+Add <unk> and <unk> methods ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=30634203
+<unk> Change signature of BindyCsvDataFormat.java return value from <unk>
+added Quartz 2.1 loadClass variant (SPR-8727)
+Added license header
+Clean up dead code
+added <unk> <unk>
+Remove unused import
+Amend "[#1058] Fix incorrect logic to reduce the confusion of <unk> This reverts commit 3acb22c38c7c37600827e8d9a478bce9b5f6432a.
+Use multiple int representation in <unk>
+remove unused method
+Fixed issue on SQL APPEND when the value is NULL
+Remove unused imports
+v4: check for method names in <unk>
+Remove unused imports
+Move graph building from graph building to bytes
+Fix for <unk>
+Cleaned up javadoc.
+Remove unnecessary SuppressWarnings
+Add debug logging to test
+Issue CLOUDSTACK-2320: Send Steps to reproduce: Just tried to load a VM's volume's Status 13794: resolved fixed Reviewed-By: Nitin Conflicts: <unk>
+Speed up <unk> on Linux and <unk>
+Uses <unk>
+Fixed the CS error of camel-core
+Minor refactor of ClusterMemoryManager
+Add license header to <unk>
+Simplify and reduce code duplication.
+Use lambda expression instead of anonymous class.
+Fixed findbugs DMI_RANDOM_USED_ONLY_ONCE warning in <unk> Signed-off-by: Rohit Yadav <rohit.yadav@shapeblue.com>
+Remove unused import
+Don't swallow IOExceptions in InternalTestCluster. (#39068) Relates #39030
+Review comments on <unk>
+Remove PageBuilder functions in method-level Javadoc. Issue: <unk>
+Removed debug line
+CAMEL-6994: Load balancer should support VR handling Issue: <unk>
+Add tests for issue 341 see if tests pass
+make sure that FactoryBuilderSupport returns a non-empty trace instead of throwing a ping exception
+Add missing @Override to <unk>
+[hotfix] [kinesis] Use PropertyBindingSupport wherever possible, Camel-Spring-Batch

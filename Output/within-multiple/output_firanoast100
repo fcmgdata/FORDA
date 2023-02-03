@@ -1,0 +1,1000 @@
+clean up warnings in spring-test
+fix bug in TypeExcludeFiltersContextCustomizer and JsonTestersAutoConfiguration
+add a test for AbstractWebEndpointIntegrationTests and WebFluxEndpointIntegrationTests
+do n't check whether they are not specified .
+fix cs for camel-core
+rename eventsWithPrincipalDateAfterAndType to STATUS_BAD_REQUEST
+[ hotfix ] [ streaming api ] rename the package name
+[ hotfix ] [ streaming api ] add a new eventsWithPrincipalDateAfterAndType to AuditEventsWebEndpointExtension
+add support for custom custom custom Class in AggregateBinder issue : spr-11393
+add dump to EndpointsProperties
+remove unused runComponents method
+[ fix ] RunArguments # forEach to # filter the RunArguments # forEach to # filter the RunArguments # forEach to # forEach to # filter the ` RunArguments # forEach to be used .
+add support for the PropertySource to the SpringApplication
+[ hotfix ] [ tests ] add ByteArrayOutputStream to SampleIntegrationTests
+clean up tests
+add a test for the conditionalonmissingbean
+clean up test cases
+add configurationproperties ( ) and the configurationproperties of the configurationproperties
+add missing @ conditionalonclass annotation
+[ hotfix ] [ tests ] add support for String
+fix RedisReactiveHealthIndicator # doHealthCheck issue in RedisReactiveHealthIndicator this commit fixes a bug where a bug in the ` RedisReactiveHealthIndicator ` , and ` RedisReactiveHealthIndicator ` would be used in the ` RedisReactiveHealthIndicator ` . issue : spr-16968
+add default getOrder to AutoConfigurationSorter
+add produces ( ) to TestEndpoint
+[ hotfix ] [ runtime ] refactor JerseyEndpointResourceFactory to use the same way
+fix compilation errors in EnvironmentTestUtils
+BootRunApplication : use buildcontext 's url in BootRunApplication
+[ hotfix ] [ core ] refactor FlywayEndpoint to use String
+add stopApplication to LaunchedApplication
+add support for environment option in EndpointWebMvcAutoConfiguration
+remove unnecessary casts
+add AnyThrow to AbstractApplicationContextRunner
+remove builder from InfluxDbAutoConfiguration
+add builder to InfluxDbAutoConfiguration
+add portInUseExceptionIsThrownWhenPortIsAlreadyInUse ( ) to NettyReactiveWebServerFactoryTests issue : spr-13188
+[ ml ] add support for the array property
+fix cs for camel-core
+add a test for AbstractContextLoader and StandardContextLoaderTests
+add parent ( )
+do not use DirectFieldAccessor in CacheAutoConfigurationTests # cacheManager
+remove unused imports
+add RedisConnectionFactory to CacheAutoConfigurationTests issue : spr-12500
+rename HCP to SAP
+add autoConfigFirst to ContextLoader
+add a test for RedisConnectionConfiguration # getPassword ( )
+do n't use the same connector for the default AbstractProtocol
+remove unused imports
+add a couple of tests for the working
+fix DataSourceConfiguration # dataSource issue with @ bean values
+add cassandraMapping to CassandraDataAutoConfiguration
+add cassandraMapping to CassandraDataAutoConfiguration
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+add before to DevToolsPooledDataSourceAutoConfigurationTests
+fix compilation errors in JedisConnectionConfiguration
+add isActive ( ) to CloudPlatform
+[ ml ] QuartzAutoConfiguration should not be created in the QuartzAutoConfiguration prior to this commit , the QuartzAutoConfiguration # taskExecutor , QuartzAutoConfiguration # taskExecutor , QuartzAutoConfiguration # taskExecutor , QuartzAutoConfiguration # taskExecutor , QuartzAutoConfiguration # taskExecutor . this commit adds a QuartzAutoConfiguration # taskExecutor to the QuartzAutoConfiguration # taskExecutor to the QuartzAutoConfiguration # taskExecutor . issue : ]
+[ streaming ] improve logging in JavaPluginAction
+remove getRequestMappingHandlerMapping from COMMENT
+add context to Binder
+fix cs for camel-core
+add support for CollectionBinder # merge issue : : spr-15024
+fix ConfigurationPropertyName # class ( ) issue for ConfigurationPropertyName # class ( # class ) issue for ConfigurationPropertyName # class ) * add test to ConfigurationPropertyName # openBracketCount
+[ hotfix ] [ streaming code cleanup
+add support to AutoConfigurationReportEndpoint
+[ hotfix ] [ tests ] remove unnecessary semicolons
+add support for empty methods
+MapBinder : allow to use a ClassUtils in MapBinder
+add support for the s property of the SpringApplicationJsonEnvironmentPostProcessor # postProcessEnvironment to be a getProperty
+remove @ nestedconfigurationproperty annotation from RabbitProperties
+rename getFaviconLocations to resolveFaviconLocations
+add support for resolveTarget methods to MapBinder
+add support to SpringApplication
+rename properties to MapSessionRepository
+remove unused imports
+add run to FlightRepository
+fix GroovyGrabDependencyResolverTests # resolveShorthandArtifactWithDependencies issue in GroovyGrabDependencyResolverTests
+fix a bug in ServletWebServerApplicationContext
+add WebServerInitializedEvent to EmbeddedServerPortFileWriter
+remove unused parameter in LogbackLoggingSystem
+remove unnecessary casts
+minor @ since tags
+add a test for RedisAutoConfigurationJedisTests # testRedisUrlConfiguration
+add isValid ( ) to ConfigurationPropertyName
+ConfigurationPropertiesBindingPostProcessor # ignoreNestedProperties the ConfigurationPropertiesBindingPostProcessor # ignoreNestedProperties the ConfigurationPropertiesBindingPostProcessor # ignoreNestedProperties the ConfigurationPropertiesBindingPostProcessor # ignoreNestedProperties to the ConfigurationPropertiesBindingPostProcessor # class as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well . issue : spr-16059
+add an option to specify the spring classpath in the plugin tasks and candidate to the plugin the plugin
+add @ validated support to SampleProperties issue : spr-16066
+clean up warnings in spring-test
+remove unused field from SpringBootContextLoader
+use ConfigurationPropertySources instead of ConfigurationPropertySources in SpringApplication prior to this commit is the ` SpringApplication ` and ` SpringApplication ` as well as well as well as well as well . this commit is the ` SpringApplication ` and ` SpringApplication ` . issue : spr-14717
+add more logging for AuditEventsMvcEndpoint
+rename cluster to cassandraCluster
+add missing @ deprecated annotations
+add support for FileTreeElement
+clean up tests
+fix SolrHealthIndicator # withDetail ( ) issue in SolrHealthIndicator this commit fixes a bug where a bug in a bug where a bug where a bug in a request . issue : spr-17419
+use DisposableBean instead of ApplicationListener in SpringApplicationAdminMXBeanRegistrar issue : spr-13188
+rename hashCode ( ) to hashCode ( )
+add support to BootZipCopyAction
+add some javadocs
+add configureArgumentResolvers to WebFluxAnnotationAutoConfiguration issue : spr-12500
+[ streaming ] add support for the default classpath and the default classpath
+remove String from MainClassSupplier
+remove unused code
+add some more comments
+add put logging to JpaProperties
+add put logging to JpaProperties
+remove unused methods from AbstractReactiveWebServerFacto
+move hivemetastore to util package
+rename mongo to mongo
+add a method for the type
+add SessionConfiguringInitializer # Session and DefaultServletContainerCustomizer # onStartup
+[ hotfix ] [ streaming api ] move validator classes to the new package name
+fix SecurityProperties # getHeaders issue : split
+revert `` revert `` revert `` revert `` revert `` * '' '' this reverts commit reverts commit reverts commit e6eb74bf39f58694494629427d0e52db9bb06860 .
+use DefaultUriBuilderFactory instead of DefaultUriBuilderFactory
+clean up warnings in spring-test
+EnableConfigurationPropertiesImportSelector uses a ConfigurableListableBeanFactory instead of a StringUtils
+remove unnecessary casts
+improve logging for StatsdMetricWriter issue : spr-13393
+add nullness annotations on the fields in favor of HeapdumpMvcEndpoint
+polish @ since tags
+use ExecutorService instead of GUAVA_SAME_THREAD_EXECUTOR_CLASS
+use null in ScriptClassInfo
+remove unused imports
+add smartNameFieldMapperFromAnyType method to PercolateContext
+add a few more utility methods to PropertyDerivations
+add missing license headers
+add some additional tests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+javadoc : add missing javadocs
+clean up tests
+fix bug in the CompositeGenericKey and StringLayout
+remove unnecessary casts
+add testAddCreationDate method to InitializePolicyContextStepTests
+move COMMENT to util package
+minor javadoc improvements
+[ hotfix ] [ streaming api ] improve logging in LayoutGenerator
+clean up keystore code
+remove unused code
+aggregations : fix npe in AggregationBuilder ( # if ) this commit fixes the AggregationBuilder # if and AggregationBuilder # if ( ) ` # if ( ) ` # if ( ) ` # if ( ) ` in the ` if ( ) ` # if ( ) ` # if ( ) ` ( ) ` ( ) ` # if ( ) ` # if ( ) ` # if ( ) ` # if ( ) ` in # if ( ) ` and # if ( ) ` AggregationBuilder # if ( ) ` in the ` in the ` is the
+add baToHexBytes ( ) to JOrphanUtils
+remove unnecessary casts
+add fillInStackTrace to ControlFlowException
+add more logging to GraphEncoder
+add missing @ override annotations
+fix PathVariableMapMethodArgumentResolver # resolveArgument prior to this commit , PathVariableMapMethodArgumentResolver # resolveArgument ( ) and PathVariableMapMethodArgumentResolver # resolveArgument ( ) to PathVariableMapMethodArgumentResolver # resolveArgument ( ) in PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( ) and PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( ) and PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( ) and PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver # resolveArgument ) this commit , PathVariableMapMethodArgumentResolver # resolveArgument ( PathVariableMapMethodArgumentResolver #
+[ test ] add support for types and parserContext
+add getPreparedStatement to BaseJdbcClient
+[ ml ] add a replicationGroup to ESIndexLevelReplicationTestCase
+add setDescriptor setDescriptor to OptionDescriptor
+minor : fix issue on ORecordAbstract and ORecordSchemaAwareAbstract
+make SequenceFileVectorIterable a Iterable
+remove unused SourcePathRuleFinder from PrebuiltNativeLibrary test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+add upgradeHandler to Http2AsyncParser
+patch by luca molino to fix the issue 251
+remove isStoreStringsAsAssets ( ) from FilteredResourcesProvider . test plan : ci
+rename HttpHeaderNames to HttpHeaderValues
+add a helper method to the TruffleProcessor
+rename NegativeTests to TestInvalidSelect
+minor : improve error messages for Writer and NeedsScoreTests
+fix cs for camel-core
+add some more comments
+JsBundleGenrule : do n't use ` getSourcePathToOutput ` and ` JsBundleGenrule ` . summary : this makes it easier to use the ` JsBundleGenrule ` instead of ` addToCollector ( ) ` . test plan : ci reviewed by : dreiss fbshipit-source-id : @
+remove @ author tags
+add ImmutableSourceControlInfo to AbstractReport
+add setSelection ( ) method to ComboBox
+add some more tests
+add some more logging to the SummaryExtractor
+remove deprecated code
+bug 10848 : add a new method to the user status 12649 : resolved fix
+rename Lwjgl3Window to Lwjgl3Window
+add missing @ suppresswarnings to BytecodeParser # postProcessIfNode .
+rename createGetStackSpace to createGetUniqueStackSpace
+[ # 735 ] rename Boolean to assertTrue
+remove some dead code
+issue # 2161 : unify @ suppresswarnings annotations
+simonstewart : fix a couple of tests that is not available . this
+[ hotfix ] remove deprecated methods
+add a couple of the option to the wildcard profiler
+add getAsUnescapedPath ( ) to SchemaPath
+update javadoc for CookieRetrievingCookieGenerator and CookieRetrievingCookieGenerator
+add builder ( ) to JdbcIO
+remove unused code
+remove unused code
+[ test ] add more logging to EmailServiceTests
+fix the bug in the StoragePoolVO .
+[ add ] LoweringPhase # Round
+remove equals summary : dead code reviewed by : bobyangyf fbshipit-source-id : 05041e8d48
+remove unused imports
+add missing license headers
+fix toString ( ) of the toString ( ) method in GeoPoint .
+do n't allow to specify the cluster to be passed in the cluster state ( # 22591 )
+polish javadoc for BeanFactoryAnnotationUtils and ConfigurableEnvironment issue : spr-14527
+[ hotfix ] [ table-common ] allow to be used to be used by default .
+remove unnecessary casts
+add support for ResolvableType # forClassWithGenerics issue : spr-12594
+clean up tests
+make ` ProjectGenerator ` summary : this is a part of changes to use ` DEFAULT_CXXPPFLAGS ` to use ` DEFAULT_CXXPPFLAGS ` instead of ` . test plan : ci reviewed by : asp2insp fbshipit-source-id : 8a7494d
+add resolveType method to Max
+add a test for AbstractOmnibusRoots # addPotentialRoot . summary : this adds a test for the AbstractOmnibusRoots # addPotentialRoot . test plan : ci
+make sure that the indexRecoveryProgress is not progress , closes # indexRecoveryProgress
+[ hotfix ] [ tests ] improve error messages in DirectRunner
+add some more comments
+fix tests on windows
+remove some javadoc warnings
+add a test for DefaultCxxPlatforms summary : this is a part of changes to support for the ` .buckconfig ` and ` .buckconfig ` . test plan : ci reviewed by : asp2insp fbshipit-source-id : addToolFlagsFromConfig
+polish javadoc for setName ( ) and addScript ( )
+clean up config
+add support for primitive types
+add a helper method to make it easier to use it .
+add allocateDirect to UnpooledDirectByteBuf
+remove unused field from Constants
+add support for the ` .buckconfig ` to the ` AbstractAppleCxxPlatform ` summary : previously , the ` AbstractAppleCxxPlatform ` was the ` parameter to be used by the ` buck ` , but the ` buck 's ` would be used by the ` buck targets , but it 's going to be
+[ hotfix ] improve logging of AwsEc2Service and InternalAwsS3Service
+polish javadoc for addDefaultValue ( ) methods
+remove unused code .
+rename client to CloseableHttpClient
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+rename Set to ImmutableSet summary : this is a part in a series walkFileTree changes to remove the code . test plan : ci reviewed by : coneko fbshipit-source-id : c0cfd4b
+[ ml ] add a LogFactory option to the InboundEnvelopeDecoder ( # : )
+[ hotfix ] [ runtime ] remove unnecessary synchronized
+[ hotfix ] [ table-common ] change the methods in RowDistinctFromOperator
+add support for unmatched to TracingTaskListener summary : this adds a test for a test case . test plan : ci reviewed by : dreiss fbshipit-source-id : efd4b7d
+distributed : add a method to make it easier to make it easier .
+fix for https : //issues.apache.org/jira/browse/amq-4719
+remove @ author tags
+[ ml ] add newTimeField methods to ExtractedField
+[ ml ] [ tests ] add a test for the local the local the legacy legacy legacy legacy the the the the legacy legacy the the the the the the the the the the the the the
+use isNullOrEmpty instead of isNullOrEmpty types
+add additional logging to the AwsEc2Service
+clean up warnings in spring-test
+remove @ author tags
+minor : add missing @ suppresswarnings
+add javaBuckConfig to JavaConfiguredCompilerFactory summary : this is a part of changes to use ` javaBuckConfig ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : c8c574c
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+[ streaming ] add missing javadocs
+move AbstractHeaderVerification to AddsToRuleKey summary : this is a part of changes to migrate to use ` AbstractHeaderVerification ` . reviewed by : jtorkkola shipit-source-id : 15e5fa8bb3
+[ hotfix ] [ streaming api ] add missing javadocs
+[ hotfix ] [ table-common ] improve performance of SamplingCandidateItemsStrategy
+clean up the code of logging
+camel-7999 : more components include documentation
+remove unused if method
+remove unused methods
+[ hotfix ] [ tests ] update MessagePathParameter to use the rest of the rest api
+improve error message when using a ExceptionsHelper is specified .
+[ hotfix ] [ streaming api ] minor javadoc comments
+add getPositions to LazyBlock
+minor : improve error messages in AbstractLuaScriptStarter and AbstractNativeExecutableStarter
+[ hotfix ] [ table-common ] add a Object to ActiveMQActivationSpec
+[ hotfix ] [ runtime ] use the operator for DriverContext
+[ hotfix ] [ streaming api ] move validator classes to the new package .
+remove author tags
+update copyright header
+[ test ] improve error messages in IngestActionFilter
+issue # 4165 : split and organize checkstyle inputs by test for TokenTypesDocletTest
+[ java ] [ tests ] use FirefoxOptions instead of FirefoxProfile
+remove some unnecessary casts
+remove unused imports
+minor : add some javadocs to the SpringProperties
+fix a bug where a test fails
+remove @ author tags
+rename getCxxPreprocessorDeps to cxxPlatform summary : this will be a part of changes the ` CxxPreprocessorDep ` to use ` cxxPlatform ` . reviewed by : bobyangyf shipit-source-id : a3851ff798
+use the Map for the traversal to the new framework summary : this is a bit more than the user to use the ` TargetGraph ` . test plan : ci reviewed by : asp2insp fbshipit-source-id : e793391
+use DataBufferUtils instead of DataBufferUtils in AbstractDataBufferDecoder issue : spr-13188
+[ hotfix ] [ tests ] add a rule to StoreCopyClientTest
+fix bug on remote management of remote management of remote
+remove unnecessary casts . test plan : ci reviewed by : aiked fbshipit-source-id : 37612a1
+remove unnecessary casts
+fix cs for camel-core
+issue # 4165 : split
+add a test for UsernamePasswordToken and UsernamePasswordTokenTests
+add support to ReflectiveMethodResolver
+[ hotfix ] [ tests ] add setProject to DataflowPipelineOptions
+remove unnecessary casts .
+rename expander to expander
+add more tests for Begin
+fix verifyNonExistingService ( ) and findServiceById ( ) methods in AbstractServiceRegistryTests and CouchDbServiceRegistry
+disable tests that are not available in the tests
+camel-7999 : more components include documentation
+[ test ] improve error messages in PutMappingRequest
+remove unnecessary casts
+add @ internal annotations
+[ hotfix ] [ streaming api ] move validator classes to its project .
+minor refactor : improve error messages
+add support to AnnotationMethodHandlerAdapter and HandlerMethodInvoker issue : spr-14244
+remove unused imports
+remove unused code
+fix cs for camel-core
+fix the cs errors of camel-core
+add a method for QueryCardinalityUtil # visitValues
+add static factory methods for OImmutableRole and OImmutableUser
+javadoc : add missing javadocs .
+remove unused imports
+add some javadoc comments
+rename FinalizablePhantomReference to class
+add an option to the MachineReadableLoggerListener . test plan : ci reviewed by : marcinkosiba fbshipit-source-id : @
+remove some dead code
+remove unused imports
+add serializationBuffer to AbstractSerializer
+fix bug on CompactionManager and AntiCompactionIterator
+remove unnecessary AbstractGenruleStep field from AndroidBinaryRule summary : this is a part of changes to use ` preprocessJavaClassesInDir ` to ` steps ` . test plan : ci reviewed by : asp2insp fbshipit-source-id : fb774f8
+AuditIncludesCommand : use buildcontext 's ProjectBuildFileParserFactory test plan : ci reviewed by : coneko fbshipit-source-id : b127dcc
+[ ml ] remove unused imports
+fix npe in SocksCmdRequest and SocksCmdRequestTest
+add writableChannel ( ) to FileSystemResource this commit adds a new writableChannel ( ) method to FileSystemResource to the FileSystemResource and FileSystemResource to the FileSystemResource # writableChannel ( ) method . issue : spr-16968
+add getMaskWithSizePacked method to VertexAttributes
+remove type from BytecodeParser
+add or method to GenericQueryBuilder
+minor : fix issue on sendTextContent ( )
+[ hotfix ] [ streaming api ] remove unused code
+make Token a Serializable
+update javadoc for CloseStatus and SubProtocolWebSocketHandler
+[ hotfix ] [ streaming api ] move the package name to the project
+[ # 735 ] Http2ConnectionHandlerTest should be a Object
+add support for binary ORecordFlat on ORecordSerializerBinary
+add support for _TYPE
+add an option to use the default developer directory summary : this will be a bit more than the ` AppleConfig ` in the ` AppleConfig ` . reviewed by : philipjameson fbshipit-source-id : b945f0c3a2
+add support for a specific parallelization in BulkByScrollParallelizationHelper
+issue # 4165 : split
+add a setPublicIpAddress option to the vm 's api
+https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 the TwoBrokerTopicSendReceiveUsingHttpTest to the TwoBrokerTopicSendReceiveUsingHttpTest so that it can be used by the user can be created by the user .
+[ changed ] LwjglCanvas to use the COMMENT instead of the LwjglCanvas .
+minor : remove unused parameter
+[ hotfix ] [ streaming api ] move validator classes to its own package .
+add support for types types summary : this is a part in a series of changes to migrate a ` TreeBackedTypeElement ` . reviewed by : bobyangyf shipit-source-id : a3851ff798
+add descriptor to MultipleIndexPopulator
+remove unnecessary casts .
+fix compilation errors in InternalEngineTests
+[ add ] JoglApplication # initialize .
+remove unused field from FileResourceGroupConfigurationManager
+add a tempDebugCreator option for Message and Message
+polished the message in the NatsConstants
+minor : remove unused code
+remove unused methods
+rename COMMENT to Accept
+rename Image to ImageInfo
+add missing license headers
+bug 10848 : fix bug in FirstFitAllocator and RandomAllocator , RandomAllocator and RandomAllocator
+add missing license headers
+add hasIndexedArgumentValue to BeanDefinitionParserDelegate
+rename executeSchemaScript to String
+add missing license headers
+add missing license header
+add missing license headers
+bug 10848 : fix bug in case of the bug in the bug where the user tries to the same api .
+remove unused methods from HaskellBinaryDescription test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+[ hotfix ] [ tests ] fix StreamRecord and StreamRecordTest
+remove unused code
+use a FrameSlot instead of a FrameSlot
+remove unnecessary casts .
+add a method to the Labels and NodeCursor
+issue # 2161 : unify test package : unify @ gmail.com >
+[ ml ] fix InnerHitBuilder # stream ( # : ) this commit fixes a bug in the InnerHitBuilder # writeTo .
+add a method for ExpressionFormatter
+move the logic to the NodeChild
+remove unused imports
+[ hotfix ] [ core ] remove unused code
+remove some unused code
+javadoc : add missing javadocs .
+minor : fix bug in the case of the OEmbeddedRidBag
+add onNext method to OperatorTakeWhile
+remove @ author tags . -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=31183592
+add support for HttpRequest to AbstractMessageConverterMethodArgumentResolver issue : spr-13188
+add a helper method to the AprEndpoint
+https : //issues.apache.org/jira/browse/amq-4426 - allow to configure the broker brokerInfo on the broker .
+javadoc : add missing javadocs .
+fix bug on shutdown ( )
+add support to SchemaProjector and SchemaProjectorTest
+add a new constructor for NodeEnvironment
+improve error messages for ConfigurationServerImpl
+move WriteMessageQueue to util package
+minor : fix npe in OContextConfiguration and OLocalPaginatedStorage
+[ hotfix ] [ tests ] add tests
+remove unused imports
+add @ beta annotation -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=27837322
+issue # 4165 : split and organize checkstyle inputs by test for TestContextManager
+add missing license headers
+[ hotfix ] [ runtime ] remove unused code
+[ hotfix ] [ tests ] update FlinkKinesisConsumerMigrationTest for 1.5
+remove unused methods .
+move ElementCollection to a separate package
+add an option to the AdbHelper . summary : this adds a new option to the ability to the error message when a stack trace of a shell , which can lead to be able to the user . test plan : new unit tests reviewed by : dreiss fbshipit-source-id : efd4b7d
+remove unused code
+remove String flag
+issue # 2161 : unify this commit removes the ` MessageDispatcher ` from ` from ` and ` Defn ` .
+clean up tests
+2.x : improve javadoc of Flowable ( # 5413 )
+issue # 2161 : unify test input locations
+add more logging to GraalCompiler
+[ hotfix ] [ tests ] remove unused imports
+rename generateLea to generateAddress
+minor : add support for fields .
+[ hotfix ] [ runtime ] add @ beta annotations
+add missing javadocs
+minor : add tests for ConfiguratorFunctionalTest and ConfiguratorTest
+fix for https : //issues.apache.org/jira/browse/amq-4719
+remove ToolchainProvider from AndroidBuildConfigDescription test plan : ci reviewed by : ttsugriy fbshipit-source-id : 16f75a9
+fix a bug in IndexType that was add in a bug where a bug in a bug .
+[ hotfix ] [ streaming api ] move validator classes to util package
+[ ml ] fix npe in BlobStoreRepository ( # 3380 ) this commit fixes a bug where a bug in a bug where a Tuple is thrown . closes # 957
+minor : improve error message for timer exceptions .
+rename customFactories to HashMap
+bug 10848 : add a few more information to the user
+minor : fix javadoc typos .
+https : //issues.apache.org/jira/browse/amq-4426 - ensure that we can not be specified in the JMSException
+[ hotfix ] [ table-common ] add support to TimeTrigger # apply
+add more logging to truffle compilations
+add support for null checks on the range queries
+add if ( ) to ImmutableCollection
+[ add ] license headers .
+remove unused imports
+add classFilePathTest to TestResolvedJavaType
+clean up config
+[ hotfix ] [ tests ] [ tests ] update FuturesGetCheckedInputs to use UncheckedThrowingFuture instead of a ERROR_FUTURE
+add a ConnectionFactory to Publisher
+add some tests for tests
+remove unused field from FileBundler test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+fix tests on windows
+remove unused code
+remove unused imports
+remove @ author tags
+add more logging to the CreateNetworkCmd
+rename CloseableHttpClient to client
+rename createForSubrangeOfFile to end
+remove unused parameter . test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+fix issue with UrlPathHelper # if ( )
+do n't use buildcontext 's addDepsAndSources in KotlinLibraryModuleRule summary : we do n't need to use it in ` KotlinLibraryModuleRule ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : @
+fix a bug in the MatchQuery that is a `` the '' parameter of the `` the '' and `` the '' is the `` `` '' and the '' is not the '' .
+remove indexOfInnerClassSeparator from SimpleTestSelector
+add firstOrNull method to IteratorUtil
+minor : fix issue on drop of permis
+add support for orc ShardManager
+remove unnecessary casts
+2.x : improve the javadoc of the javadoc ( # debounce ) * 2.x : fix javadoc * 2.x : correct javadoc * 2.x : javadoc * 2.x : javadoc * 2.x : javadoc * 2.x : javadoc references * 2.x : javadoc * 2.x : javadoc * 2.x : javadoc * 2.x : javadoc warnings * 2.x : correct javadoc * 2.x * 2.x : Flowable javadoc of
+add initialize ( ) to ResolvedJavaType
+rename makeNonNull to LoadHubNode
+add a couple of methods to the java 8
+add contextInitialized to TestWsWebSocketContainer
+[ hotfix ] [ tests ] add tests
+add an option to the DocumentMapper this commit adds a new method to the DocumentMapper to the DocumentMapper .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+update copyright header
+use TRACE_LOG_LEVEL in TraceBuilderPhase
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+remove unused pathResolver from SrcZip test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+remove unused imports
+rename properties to Object
+[ streaming ] improve logging in the addArgs api
+add support for threadMXBean in ChromeTraceBuildListener summary : this is a part in a bug where a way that is used by a ChromeTraceBuckConfig . test plan : ci reviewed by : dreiss fbshipit-source-id : 3fae032
+[ add ] KafkaUtils # emitPartitionBatchNew
+add a few more tests for the HttpProducer
+fix cs for camel-core
+move createConfigurator to CodeGenerationStrategy summary : it 's a part of a lot of a lot of a different CodeGenerator , and it can be used by the same to be used , but it 's going to be a lot of the CodeGenerator , but it would be a
+fix for https : //issues.apache.org/jira/browse/amq-4719
+do n't use the same directory in the paths . summary : we can use the same directory , but the same way as the same way as the same . this diff makes it easier to be able to be able to the user . test plan : ci reviewed by : dreiss fbshipit-source-id : : :
+move client to util package
+[ hotfix ] [ runtime ] use StringUtils instead of DatatypeConverter
+remove some unused code
+fix a bug where a bug that could not be specified in the hidden . summary : this diff makes it easier to make it easier to be able to make it easier to make it easier to do n't be able to make it easier to make it easier . test plan : ci reviewed by : asp2insp fbshipit-source-id : b537834
+remove unused code
+update javadoc for PolyglotEngine and PolyglotEngine , PolyglotEngine , PolyglotEngine , PolyglotEngine , and PolyglotEngine , and PolyglotEngine , and its implementation .
+[ hotfix ] [ streaming api ] rename to broadcastConnect
+remove unused knownBuildRuleTypesProvider from PerBuildStateFactory summary : this is a part in a series of changes to migrate perf to use ` PerBuildStateFactory ` . reviewed by : bobyangyf shipit-source-id : jtorkkola
+fix a bug in LuceneIndex ( ) and TestLuceneIndex ( ) from LuceneIndex ( ) .
+clean up some tests
+[ hotfix ] [ runtime ] remove unused imports
+[ fix ] TexturePacker should not be images
+remove unused imports
+[ hotfix ] [ tests ] use a more than one more specific to use the right
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+add a couple of tests to the tests
+fix compilation error on windows
+remove HttpClient from DynamicMetadataResolver
+fix cs for camel-core
+do n't use the same SearchShar to be null
+add some javadocs
+add support for null checks in AuthenticationService
+add support for null values in DefaultListableBeanFactory issue : ]
+[ hotfix ] [ tests ] add support to ESTestCase
+add setSource to SourceUnit
+rename builtSessionFactoryIsDisposableBeanProxy to builtSessionFactoryIsProxyImplementingDisposableBeanAndSessionFactoryImplementor
+remove unused methods
+add clearListeners to AndroidControllers
+polish javadoc in PolyglotEngine
+remove unused getVersion methods
+remove unused code
+minor javadoc improvements
+add a LLVMNode for the unreachable
+rename ConstantReflectionProvider to ConstantReflectionProvider
+fix bug on fix in case of the fix for the bug where the db was not being passed in the case of the select and the case of the fix .
+add javadoc comments
+remove deprecated methods from QueryStringQueryBuilder
+migrate AndroidPrebuiltAarDescription to use BuildTarget summary : this is a part in a series requireRule changes to use ` ImmutableSet ` . reviewed by : bobyangyf shipit-source-id : 1a5ff94e73
+add missing @ override annotations summary : add some missing @ override annotations on some missing @ override annotations . reviewed by : styurin fbshipit-source-id : 53159de
+[ add ] BitmapFont # packedHeight ( )
+add test ( ) to ClusterName
+use compareAndSetStatus instead of TaskStatus and TaskStatus summary : this is a part of changes to use ` TaskStatus ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : 346f530
+add a inputChanged to Graph
+minor : improve javadocs for DiffRepository and DiffRepository javadoc
+add support for RequestContext and FormTag
+issue # 1604 . : split
+fix compilation errors reported by eclipse .
+improve logging of getName ( )
+ResourceChainRegistration : allow to have a hasWebjarsResolver in ResourceChainRegistration issue : spr-11393
+add an option to the BinaryMemcacheObjectAggregator ( # : ) motivation : we should not allow the toFullRequest the user to be able to be able to be able to handle the same value . modifications : add a ByteBuf to the toFullRequest ( ) method . result : fixes # toFullRequest
+use SupportsInputBasedRuleKey instead of SupportsInputBasedRuleKey summary : this is a part in a series of changes to use ` SupportsInputBasedRuleKey ` . reviewed by : bobyangyf shipit-source-id : styurin
+DirectHeaderMap : use buildcontext 's Path test plan : ci reviewed by : coneko fbshipit-source-id : c866a77
+[ ml ] add support for role to the UserRoleMapper
+remove unused code
+remove unused SourcePathResolver from RelinkerRule summary : dead code reviewed by : jtorkkola fbshipit-source-id : d6662dcc90
+remove unused toSourcePath from ResourceValidator test plan : ci reviewed by : coneko fbshipit-source-id : : : : 37612a1
+remove @ author tags .
+add a host option to the CollectedInfo , and HeartbeatListener
+clean up config
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+add a few more tests
+rename NumericHistogramAggregation to DoubleHistogramAggregation
+update copyright header
+[ hotfix ] [ core ] remove unnecessary setStage ( ) method
+remove unnecessary casts ( ) method
+[ feature ] add support for local rules to the local rules
+add missing license headers
+add a few more places to the NetUtil
+fix round ( ) for MathFunctions and TestMathFunctions
+remove KnownBuildRuleTypes from AbstractDefaultKnownBuildRuleTypesFactory test plan : ci reviewed by : ttsugriy fbshipit-source-id : create
+rename forEachComponent to visitEachComponent
+revert : do n't do n't use ` scratchDir ` summary : this reverts commit 509f94a65e2123447c337730d54775702285d8f0 . test plan : ci reviewed by : asp2insp fbshipit-source-id : c0cfd4b
+remove unused code . -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java clone
+remove unused code
+add missing javadocs
+remove some dead code
+improve error message when using a partitionId is specified in a partitionId code , if the partitionId is not a partitionId . this is a bit more than the error message .
+javadoc : add missing javadocs .
+use Executor instead of ThreadPoolExecutor
+rename Executors to create
+clean up tests
+add ownsBuffer to IndexBufferObject and VertexBufferObjectWithVAO
+rename _coordinatorState to cleanupBefore
+fix put ( ) for Struct and StructTest
+add missing export
+add support for `` beanResolvableType '' and `` beanResolvableType '' types
+rename group to group
+add support to CoRecordReader
+javadoc : add missing javadocs .
+add a couple getSideInputs to the OutputDeduplicator
+AndroidBuildConfigJavaLibrary : allow to pass ` COMMENT ` summary : this adds a ` COMMENT ` to the ` COMMENT ` to ` COMMENT ` . test plan : ci reviewed by : asp2insp fbshipit-source-id : : : : : : @
+working on non-interactive authn
+remove unused code from IOException
+add the ability to specify the chrome command to the server ( # 5843 )
+remove unused imports
+add testFirstContextEmptyPipeline ( ) method to DefaultChannelPipeline motivation : we should add a DefaultChannelPipeline to the DefaultChannelPipeline # testFirstContextEmptyPipeline ( ) method . modifications : add unit test result : fixes # firstContext
+[ test ] add a helper method to SystemTable
+LocalBuildExecutor : remove unused String test plan : ci reviewed by : coneko fbshipit-source-id : -
+minor : improve javadocs .
+add put method to Settings
+remove unnecessary casts
+fix compilation errors in SearchService
+fix stripPrefix ( ) in URISupport stripPrefix ( value , URISupport , URISupport )
+remove unused imports
+add a couple logging to C1XCompilation
+add tests for ClasspathPackageProviderTest and OneResultAction
+rename FieldMaskingSpanQueryBuilder to SpanContainingQueryBuilder
+move TestNode to util package
+polish javadoc for AbstractContextLoaderInitializer and AbstractDispatcherServletInitializer
+remove unused methods .
+[ hotfix ] [ streaming api ] remove unnecessary getView from ApexRunner
+https : //issues.apache.org/jira/browse/amq-4426 - add test for the ip of the network
+rename toAbsolutePath to exchange
+bug 10848 : add a user to the advanced privateNetmask to the user
+remove unused code .
+remove unused imports
+remove unused imports
+fix issue in TransactionAspectSupport prior to this commit , the ` TransactionAspectSupport ` would cause an ` TransactionAspectSupport ` would be an ` TransactionAspectSupport ` . this commit , the ` TransactionAspectSupport ` method ` would be used by the ` txAttr ` . this commit , the ` TransactionAspectSupport ` would be an ` TransactionAspectSupport ` . issue : : spr-16836
+add some comments
+rename SecurityTest to SecurityTestDisabled
+AbstractBuildFileSpec : add a getBasePath to the AbstractBuildFileSpec . test plan : sandcastle builds .
+add support to c/c++ platforms summary : this is a part of changes to use ` cellRoots ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : c0cfd4b
+add acquireBuffer ( ) to SslBufferPool motivation : we should make it easier to make it easier . modifications : - add acquireBuffer ( ) methods to SslBufferPool . result : less memory leak .
+use BadlyFormattedFlowExecutionKeyException instead of exception
+minor : improve logging in InliningUtil and GreedyInliningPolicy
+minor : fix issue in case of operations and composite
+[ fix ] PackageComponentMojo : do n't include the absolute paths in the absolute paths .
+fix for https : //bz.apache.org/bugzilla/show_bug.cgi ? id=47214
+add a test for StompSubProtocolHandler
+rename createRegisterAllocationPhase to createRegisterAllocationPhase
+remove unused imports
+add retain to DefaultFullBinaryMemcacheRequest
+clean up warnings in spring-test
+rename annotation to annotation
+add support to AppleBundle summary : this will be useful to the ` AppleBundle ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : @
+add missing license headers
+rename getSupportedMimeTypes to getDecodableMimeTypes
+fix EffectivePredicateExtractor # rewriteExpression ( ) motivation : EffectivePredicateExtractor # rewriteExpression ( ... ) returns a EffectivePredicateExtractor # rewriteExpression . modifications : add unit test . result : fixes # : less
+rename after to tearDown
+[ hotfix ] [ tests ] rename UnixChannelUtil # isDirect to # isBufferCopyNeededForWrite
+add a GraalOptions option to the GraalCompiler
+clean up tests
+add support for null checks in AttributeOverride
+use buildcontext 's graphBuilder in AppleTestDescription . summary : this makes it easier to use the same . reviewed by : jtorkkola fbshipit-source-id : : : : : : : : : f835c02
+remove unnecessary casts
+add asFloatingNode to FloatableAccessNode
+remove unused imports
+AbstractSourcePath : use buildcontext 's null in AbstractSourcePath . summary : this is a part of changes to migrate to ` AbstractSourcePath ` to ` AbstractSourcePath ` . this diff moves the ` AbstractSourcePath ` and so that the ` AbstractSourcePath ` method to ` Object ` . this is a ` Object ` o ` to ` o ` . this diff makes it
+add support to DecimalShuttle
+add a helper method to make it easier to use it .
+minor : remove unused imports
+rename mode to OverriddenAccessMode
+add stackTrace method to ExceptionsHelper
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+remove unused imports
+rename CheckHealthCommandWrapper to CitrixCheckHealthCommandWrapper
+polish javadoc for JsonBuilder and JsonBuilder
+add a test for DaemonLifecycleManager summary : test plan : unit tests reviewed by : dreiss fbshipit-source-id : 0664822
+minor refactoring
+add some javadoc comments
+[ hotfix ] [ runtime ] move FPGrowthJob to FPGrowthDriver
+[ fix ] ConfigurationClassParser should throw an exception if the locations is empty
+add missing license headers
+remove @ author tags
+rename takeUntil to COMMENT
+rename available to hasNextChunk
+use Step instead of List summary : this is a part of series of changes to use ` List ` . reviewed by : bobyangyf shipit-source-id : jtorkkola
+[ streaming ] add support for absolute paths
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+[ hotfix ] [ tests ] update EvaluationContext to use the same way
+fix cs for camel-core
+fix cs for camel-core
+clean up tests
+polish javadoc in javadoc
+add missing license headers
+add a method to the AbstractByteBufAllocator motivation : we should use the same value for a user . modifications : - add a if ( ) result : less overhead .
+[ hotfix ] [ streaming api ] add missing javadocs
+add support to ExchangeFilterFunctions
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+remove unused field from AbstractCommandRunner test plan : ci reviewed by : coneko fbshipit-source-id : b127dcc
+add a test for LambdaObserver
+add null checks to NamedCache
+add javadoc comments
+add equals to AbstractType
+rename max to max
+rename Map to asMap
+rename addSink to add
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+[ streaming ] add support for primitive types
+add COMMENT to Pair
+remove unnecessary casts
+add getTargetConfiguration ( ) to BuildTarget summary : this is a part of changes to use ` BuildTarget ` . reviewed by : jtorkkola shipit-source-id : 7e9871a9d0
+remove unnecessary casts . test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+add more logging to ClientSideSlb
+r/m unused code patch by jbellis
+aggregations : fix npe in MovAvgPipelineAggregator this commit fixes a bug where a bug where a bug where a values is thrown . this commit fixes a bug where a bug in a bug where a bug where a bug where a values is thrown . this commit adds a MovAvgPipelineAggregator # MAX_VALUE to the MovAvgPipelineAggregator # MAX_VALUE to the
+add some more logging for logging .
+remove unused methods from CxxPreprocessAndCompile test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+add a few more logging to AbstractListenerWebSocketSession
+remove unused imports
+[ hotfix ] [ tests ] update ClientCrashingWriter to better error messages
+allow to specify the ServletHttpHandlerAdapter to be configured in the ServletHttpHandlerAdapter
+improve logging for ResponseStatusExceptionHandler and DefaultHandlerExceptionResolver
+update copyright header
+add resolve ( ) to IOChannelUtils
+update copyright header
+add forCellName ( ) to BuckTargetPattern summary : this diff adds a forCellName ( ) to BuckTargetPattern to the BuckTargetPattern to the BuckTargetPattern . test plan : unit tests reviewed by : dreiss fbshipit-source-id : efd4b7d
+add nullness annotations on the field in DefaultTraversableGraph relnotes=n/a . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=251234528
+clean up newDataSource ( )
+improve error message when recovery are empty
+[ hotfix ] [ core ] add a new method to CasCoreBootstrapStandaloneConfiguration
+remove unnecessary casts .
+add missing @ awaitsfix annotation to FileRealmTests # testAuthenticateCaching this commit adds a bugUrl to the FileRealmTests # testAuthenticateCaching to the FileRealmTests # testAuthenticateCaching . this is the ` FileRealmTests # testAuthenticateCaching ` # testAuthenticateCaching ` # testAuthenticateCaching ( settings ) ` . this commit fixes the ` # testAuthenticateCaching ` # testAuthenticateCaching ` # testAuthenticateCaching ` .
+fix ESUsersTool # resolveFile ( # resolveFile ) this commit fixes a bug where a bug with an exception . this commit fixes the issue . this issue with a bug where a bug was not a bug . original commit : elastic/x-pack-elasticsearch @ ]
+issue # 4165 : split and organize checkstyle inputs by test for OAESGCMEncryption
+add setKeepGoing ( ) to BuildCommand summary : this is a part of changes to add a new method to the BuildCommand . test plan : ci reviewed by : dreiss fbshipit-source-id : getLoadLimit
+add option to disable truffle help a compilation .
+remove some dead code . summary : this is a part in a series of changes to migrate . test plan : ci reviewed by : coneko fbshipit-source-id : : : : : : : : : : : aee74fc
+add Stamp to GuardedValueNode
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+add a way to use the test plan : ci reviewed by : coneko fbshipit-source-id : c866a77
+do n't use the root for the root . summary : we should not have the same as well . reviewed by : styurin fbshipit-source-id : b82772e77a
+fix RuleKeyBuilder # putBytes ( ) issue in RuleKeyBuilder
+2.x : fix Escaper # hex ( ) , Escaper # hex ( ) ( ) ) * 2.x : add unit test ( ) to Escaper # testHex ( ) , `` foo '' ( ) '' , `` foo '' , `` foo '' , `` foo '' , `` foo '' and `` foo ''
+issue # 2161 : unify test input locations
+remove unused imports
+remove unused imports
+remove unused field from QueryManagerConfig
+[ hotfix ] add missing javadocs
+add hasher to HashFunctionBenchmark
+remove unused imports
+add tests for the COMMENT
+do n't use ` getProductName ` in ` getProductName ` . summary : this diff adds a ` getProductName ` to use a ` getProductName ` , and so that it can be used by default . test plan : ci
+add missing license header
+add javadoc comments
+add support for function in QueryException
+add clear method to LoggerPanel
+add a method to the IterativeOptimizer constructor .
+add setCacheUnresolved method to AbstractCachingViewResolver issue : spr-13393
+make sure to use the default value for the default threads
+polish javadoc for ClusterRuleSet and MemoryRuleSet
+do n't use the unzipAarRule in AndroidPrebuiltAarDescription summary : this is a part of changes to use ` params ` to use ` AndroidResourceDescription ` . test plan : ci reviewed by : coneko fbshipit-source-id : 8a7494d
+improve error message for DateOperators
+add channelReadComplete ( ) method
+[ hotfix ] [ streaming ] add kafka to the Flow
+[ hotfix ] [ runtime ] remove unused code
+[ ml ] [ tests ] fix a bug in the tests .
+[ add ] DelimitedPayloadTokenFilterFactory # char # char , # char , # char , # char , # char , # char , # char , # char , # char , # char , # char , # char , # char , # char # char # char , # char , # char , # char , # char , #
+[ ml ] [ tests ] fix a bug with default values for the default values
+remove unused imports
+add support for empty arrays in HtmlSanitizer # testDefault_Tables_Allowed to # testDefault_Tables_Allowed method in HtmlSanitizer # testDefault_Tables_Allowed and HtmlSanitizer # static # testDefault_Tables_Allowed ` # [ ] ` -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe ]
+remove unused imports
+issue # 4165 : split and organize checkstyle inputs by deprecated
+add a payload option to the WsRemoteEndpointImplBase
+AppleLibraryDescription : use buildcontext 's cxxPlatform test plan : ci reviewed by : coneko fbshipit-source-id : 7e75806
+use checkIndex0 instead of checkIndex0 in SlicedByteBuf
+clean up config
+make BloomInsightDocumentStructure a IndexWriterConfig
+add missing @ suppresswarnings to the java files summary : add a couple of the @ suppresswarnings to a couple of the @ suppresswarnings ( e.g . test plan : buck test -- all
+add missing license headers
+add webJarResourcePath to WebJarsResourceResolver
+improve error messages for AsyncExecutionAspectSupport and AsyncExecutionInterceptor
+add getTaskInstanceId to SqlTaskManager
+AnnotationMethodHandlerAdapter supports `` '' parameter in AnnotationMethodHandlerAdapter prior to this commit , the ` AnnotationMethodHandlerAdapter ` would throw an ` in the ` `` ` `` ` '' ` in the `` ` `` ` '' ` in the ` . this commit adds support to the `` ` `` ` `` ` `` ` `` ` '' ` `` ` '' ` in the
+javadoc : add missing javadocs .
+[ hotfix ] [ tests ] remove unused code
+improve error message for invalid retry ( )
+add an option to the chrome error message . summary : we want to make it easier . test plan : ci reviewed by : aiked fbshipit-source-id : c0cfd4b
+[ hotfix ] [ streaming api ] move InputDriver to spi
+add testNotCapturingFrames to RootNodeTest
+fix cs for camel-core
+fix issue on http : //code.google.com/p/orient/issues/detail in the http : //code.google.com/p/orient/issues/detail fix
+add some javadocs
+add a way to the cluster thread pool , and add a better logging to the cluster state .
+add some javadocs
+add withElements to InProcessBundleFactory
+remove unused methods from AbstractCachingBuildRule test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+revert `` revert `` revert `` revert `` revert `` fail '' this reverts commit b704818405f971ec7173b6eb9491ce820a41a426 .
+camel-7999 : more components include documentation
+remove unnecessary logDebugAndPost ( ) from BuckEventBus summary : there 's no need to use ` logDebugAndPost ` . reviewed by : styurin fbshipit-source-id : logDebugAndPost
+add a test for the glob directory
+remove unused methods
+rename LifecycleComponent to pluginComponents
+rename fromStoreValue to SimpleValueWrapper
+rename NettyRfc5426LongMessageTest to NettyRfc5425LongMessageTest
+[ hotfix ] [ core ] add @ interface to the api
+createMRWorkForMergingFiles : fix npe in case of lb ( gunther hagleitner , reviewed by ashutosh chauhan )
+add nullness annotations on the fields in ChannelGroup relnotes=n/a . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=251234528
+[ hotfix ] [ runtime ] improve logging in FlinkPipelineOptions
+truffle-dsl : fix npe in case of npe .
+add child to TreeRewriter
+add missing license headers
+fix compilation errors in BalancedShardsAllocator
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=43656
+[ hotfix ] [ tests ] remove unnecessary semicolons
+add support to CxxDescriptionEnhancer summary : this is a part of changes to use the ` CxxDescriptionEnhancer ` to use the ` CxxDescriptionEnhancer ` instead of ` resolver ` . test plan : ci reviewed by : dreiss fbshipit-source-id : : : : : : : : : 960098e
+add EMPTY_PROPERTIES to Setting and SettingTests
+remove unused methods from TestRunning test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+add a few more labels to the BaseMultifactorProviderProperties
+[ hotfix ] [ streaming api ] refactor AsyncBlobFetcher to use the same Digest ( ) instead of a single method .
+add getFallOut to IRStatistics
+[ hotfix ] [ tests ] add a helper method
+add support to ExtendedBeanInfo and BeanWrapperTests
+add indexsettings to AbstractIndexComponent
+update copyright header
+remove unused code from NioAcceptedSocketChannel
+rename ExcelParser to Parser
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+polish javadoc in javadoc
+improve error message for errors
+add getApplicationListener method to AndroidApplication
+update copyright header
+javadoc : add missing javadocs .
+add a new method to ColumnFamilyStore
+use IOException instead of HttpContext in PingerHandler
+[ hotfix ] [ runtime ] remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+add BaseResponseWithTagInformation to VMSnapshotResponse
+add shouldGetUndecidedVersionAndKeyFromIndexReference to SchemaReadWriteTestBase
+add some javadoc comments
+minor : add missing javadocs .
+fix for https : //issues.apache.org/jira/browse/amq-4884
+update copyright header
+clean up tests
+add missing javadocs
+add logAllWindowPoolStats method to AbstractNameStore
+clean up services ( )
+update javadoc in javadoc
+[ hotfix ] add missing javadocs
+[ ml ] handle exceptions in CryptoService ( # 3380 ) this commit adds a exist to the ` CryptoService ` and ` keyAlgorithm ` as a ` nsae ` . this commit adds a ` nsae ` to the ` nsae ` .
+update javadoc for Futures and Futures and Futures # Futures # Futures # )
+update javadoc for JmsMessageProducer and JmsTupleProducer
+rename syncDevice to renameUnopenedFile
+add a few more test for the test
+camel-7999 : more components include documentation
+add isOpen to WsHttpUpgradeHandler
+add support for invalid custom types
+add isSourceControlStatsGatheringEnabled ( ) to AbstractCommand summary : add a isSourceControlStatsGatheringEnabled ( ) to the AbstractCommand . test plan : ci reviewed by : ttsugriy fbshipit-source-id : : : : : : : @
+add some javadoc comments
+add RealClock to BackupServer
+remove unused imports
+[ test ] improve logging in QueryStringQueryBuilder
+rename InvokeNode to class
+remove unused resolver from ShBinary test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+[ hotfix ] [ tests ] update AbstractServerClusterTest to use the same cluster state instead of the cluster state
+remove unnecessary casts
+[ hotfix ] [ tests ] add missing @ multiAnnotations to the AnnotatedJCacheableService
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+rename ExecutableTypeMethodParser to GenericParser
+add a test for TwitterConfiguration
+add more logging to the ServerSettings
+minor refactoring : remove unused code
+clean up difference for logging
+add isAscendant to Actor
+minor : remove unused code
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+remove unnecessary casts
+remove ValueAnchorNode from HotSpotRuntime
+move SSTableSliceIterator to runners/core-java
+remove unused field from ProcedureGDSFactory
+add support for types summary : this adds a test for a test for a test . test plan : ci reviewed by : asp2insp fbshipit-source-id : efd4b7d
+fix compilation error in ReplayingDecoder
+truffle-dsl : fix npe when using a notInlinedCallSiteCount .
+add Assert to MarshallingView this commit adds a Assert to the MarshallingView to the MarshallingView to the MarshallingView # setMarshaller to the MarshallingView # marshaller . this is a setMarshaller # getContentType method which can be used to be used to be used for now . issue : spr-16836
+minor javadoc improvements
+add CancellationException to AbstractFuture
+add addLast to ClusterService
+remove unused imports
+fix for https : //bz.apache.org/bugzilla/show_bug.cgi ? id=48790
+[ ml ] add support for memory leak ( elastic/x-pack-elasticsearch # 3380 ) original commit : elastic/x-pack-elasticsearch @ 30d36e340a6413b56f2080e6a3c7b421cdff8bc1
+add accessGuard to HaKernelPanicHandler
+remove unused imports
+fix bug on readLine ( )
+add a couple of method to the ports .
+fix CompositeTestCluster # for ( ) method to # for ( # for ) the CompositeTestCluster # for ( int ) to # for ( int ( int ) which can be used by the method in # for ( ) to # for ( ) .
+remove unused InterruptedException from buildTargets summary : this is a part in a series of changes to remove the code from ` environment ` . reviewed by : bobyangyf fbshipit-source-id : : : 668b887
+add a new constructor to LowTier
+fix for https : //bz.apache.org/bugzilla/show_bug.cgi ? id=47214
+fix bug in TransactionToApply ( ) , TransactionToApply , RecordStorageEngineTest and RecordStorageEngineTest
+add some javadocs
+add an option to disable the part of the part of the hive thread ( ferdinand xu , reviewed by thejas nair )
+add a helper method to the SlackServiceTests that has a Locale to a account of a account of a termQuery that can be used by the original commit : elastic/x-pack-elasticsearch @ gmail.com
+do n't check for null close .
+[ ml ] add missing @ override annotations to the CloseIndexResponse ( # addCustomFields )
+rename apply to ActionResponse
+rename asList to collectList
+add Label to ImageTextButton
+add missing javadoc for @ link
+remove unused imports
+minor : remove amb from Observable
+rename MatchStatementSet to Iterable
+remove the dependency from the GrpcExecutionFactory
+[ hotfix ] [ streaming api ] change the JobBundleFactory to use it
+rename mergedHints to elementType
+truffle-dsl : fix a couple of methods in ArithmeticNode .
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790
+https : //issues.apache.org/jira/browse/amq-4426 - add unit tests
+rename FLASH_MAPS_SESSION_ATTRIBUTE to FLASH_MAPS_SESSION_ATTRIBUTE
+[ hotfix ] [ core ] remove unnecessary Preconditions from Suppliers
+minor : fix issue on OProjectionItem and OSelectStatementExecutionTest
+[ hotfix ] [ tests ] improve logging in ClientCertificateHandler to use the same way the same behavior as the same way as the same behavior of the same as the same behavior of the primaryCert . this commit adds the test to the test
+add an option to the IOException
+add support for null values in ResolvableType this commit fixes a bug where a bug in the ` ResolvableType ` and ` ResolvableType ` would be used in the ` ResolvableType ` . this commit adds a ` parameter to ` ResolvableType ` . issue : spr-15724
+add a test for copyFields
+fix HttpHandlerConnectorTests # getCookies in HttpHandlerConnectorTests prior to this commit , HttpHandlerConnectorTests # getCookies the HttpHandlerConnectorTests # asList ( ) method in HttpHandlerConnectorTests # getCookies ( ) , HttpHandlerConnectorTests # getName ( response ( ) , HttpHandlerConnectorTests # getName ( ) ( ) , HttpHandlerConnectorTests # getCookies ( ) ( response ( ) ( ) ( ) ( ) ( ) ( ) ( ... ) ) ( ... )
+remove unused imports
+clean up tests
+add a couple of logging to the SimpleConsoleEventBusListener .
+add nullness annotations on the fields in relnotes=n/a . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=108994823
+improve logging in DispatcherHandler
+fix issue with support of null values
+clean up test cases
+add phaseAdheresSizeContract to BasePhase
+add missing @ apiinfo to the java 8 of the documentation .
+remove unused code
+make sure that we do n't need to do it
+[ hotfix ] [ tests ] fix tests
+[ ml ] add a allSeesAllAsJoined to ClusterManager
+PhysicalWritableLogChannel : add a test for PhysicalWritableLogChannel and PhysicalWritableLogChannelTest
+add support to AllTermQuery # rewrite
+fix for https : //issues.apache.org/jira/browse/amq-4719
+polish javadoc for Advised and AopUtils
+remove unused code
+add flatten to WorkProcessor
+add a canBeAsset to PrebuiltCxxLibrary summary : this will be useful for a lot of changes to the test plan : ci reviewed by : coneko fbshipit-source-id : c0cfd4b
+remove unused SourcePathResolver from AndroidInstrumentationTest test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+remove unused code
+remove unnecessary casts .
+add walkRelativeFileTree to ProjectFilesystem summary : add a test plan : ci reviewed by : dreiss fbshipit-source-id : 0664822
+remove unnecessary casts . summary : this is a part of changes to use ` Path ` . test plan : ci reviewed by : coneko fbshipit-source-id : c0cfd4b
+remove some dead code reviewed by : sbalabanov fbshipit-source-id : 05041e8d48
+update copyright header
+remove unused code
+add getComputationScheduler to RxJavaDefaultSchedulers
+add a new constructor to the COMMENT
+move hivemetastore to util package
+[ hotfix ] [ table-common ] improve error message for zone types
+rename filter to filter
+[ ml ] better error messages in the SqlQueryScheduler
+[ hotfix ] [ tests ] use OutputStream instead of OutputStream
+use EnumMap in DateFormatter
+add evaluator to CacheAspectSupport
+[ hotfix ] [ runtime ] remove unused code
+minor : fix npe in HighAvailabilityManagerImpl # getId
+remove unused field from BuckEventBus test plan : ci reviewed by : coneko fbshipit-source-id : 37612a1
+fix for https : //issues.apache.org/jira/browse/amq-4719
+[ hotfix ] [ core ] refactor Nio2Endpoint to use the handler instead of the handler
+add @ truffleboundary to LongDivision and Result
+camel-7999 : more components include documentation
+add an option to the chrome chrome chrome chrome the chrome chrome the chrome the chrome the chrome the chrome the chrome the chrome the chrome directory in the chrome directory . summary : this diff adds a projectFilesystem to the chrome the
+add isDistinctFrom to BingTileOperators
+remove unused methods .
+rename setting to bloom_default_analyzer
+fix compilation errors in IndexService
+add support for null values in ColumnMetadataMapper
+fix npe in Http2MultiplexCodecBuilder motivation : when Http2MultiplexCodecBuilder is not specified . modifications : add unit test result : correctly
+rename getCategory to getCategoryLabel
+add missing license headers
+improve error messages in SimpleHandlerResultHandler
+add some javadoc for BasicDRPCTopology
+add toJson ( ) method to LogEntries ( ) method
+camel-7999 : more components include documentation
+add support for files in the tcf summary : this is a series class ` dexInfo ` . reviewed by : ttsugriy fbshipit-source-id : d11177d0a5
+add toString ( ) to BooleanItemPreferenceArray
+clean up config
+improve logging in ExpressionTree
+[ java ] [ tests ] remove SEVEN from ParameterNamesModuleConfiguration
+clean up warnings in spring-test
+remove instantiate from MongoDataAutoConfiguration
+support if in EmbeddedWebApplicationContext prior to this commit , the ` EmbeddedWebApplicationContext ` would be a ` List ` in the ` List ` . this commit adds a ` List ` to the ` List ` . issue : : : : : : : : : : : : :
+[ ml ] improve error messages in LocaleHandle # country # readResolve .
+add baseUrl method to Retrofit
+BasicJsonParser : add inEscape option to BasicJsonParser # inEscape
+update javadoc for Profiler and RestAdapter
+update copyright header
+add protocol method to AnnotationPropertyValuesAdapterTest
+fix exception ( ) and add exception ( ) to WebFluxTags
+add RelaxedPropertyResolver option to EndpointWebMvcManagementContextConfiguration issue : spr-12594
+fix compilation errors in Categories
+add missing @ nullable annotations to Converter and Factory
+[ hotfix ] [ tests ] fix tests to use object
+rename AS400 to setThrowExceptionIfNoHandlerFound
+add runSafely to BackgroundPreinitializer
+fix cs for camel-core
+remove unnecessary casts
+use Collections in LoggingApplicationListener issue : spr-12500
+add support to PersistenceExceptionTranslationAutoConfiguration and PersistenceExceptionTranslationAutoConfigurationTests
+rename PATHPATTERN_ROUTEMATCHER_CLASS to PATHPATTERN_ROUTEMATCHER_CLASS
+add a test for ConcurrentKafkaListenerContainerFactoryConfigurer # from
+rename customize ( ) to customize ( )
+add an option for the default unmodifiable .
+clean up test cases
+add @ deprecated methods to ArrayDocumentMatcher and SpringProfileDocumentMatcher
+add support for the ConditionEvaluationReport # getConditionAndOutcomesBySource issue : : : spr-13629
+fix compilation errors in HttpMessageConvertersAutoConfiguration
+add httpPutFormContentFilter to HttpEncodingAutoConfigurationTests
+add @ objectMapperBuilder to RepositoryRestMvcAutoConfiguration and RepositoryRestMvcAutoConfigurationTests
+add ClassUtils to ResetMocksTestExecutionListener
+remove ignoreNestedProperties ( ) from ConfigurationPropertiesBindingPostProcessor
+fix compilation errors in MongoDataAutoConfigurationTests
+add more logging to GrpcProtocol
+add getUniqueServiceName to ReferenceConfig
+add isLimitExceed method to ActiveLimitFilter
+add a couple logging to the AbstractConfig .
+add support for null values in CookiesTest
+add Retrofit # baseUrl ( ) method to Retrofit # baseUrl ( ) motivation : Retrofit # baseUrl ( ) returns a Retrofit # baseUrl ( ) method in the Retrofit # baseUrl ( ) method which is a Retrofit can be used by the httpUrl in the httpUrl . modifications : - add a Retrofit # baseUrl ( ) method to Retrofit # baseUrl ( ) result : Retrofit # baseUrl ( ) method is not
+remove deprecated code
+update copyright header
+fix RequestBuilder # addPair ( # addPair ) motivation : the ` RequestBuilder # addField ( int ) ` and # addPair ( ... ) ` s ( int ( ... ) ` and # addPair ( ... ) ` # addField ( ) ` # addField ( int ( int ( int ) ( int ( int ) ` ( ) ` ( ... ) ` ( ... ) ` ( ... ) ` to ` and # addPair ( ) `
+remove unused field from Platform
+minor refactoring : remove duplicated code
+add isMetaMethod to MethodUtils
+add support to AetherGrapeEngine
+remove unused code
+rename IllegalArgumentException to newFolder
+rename accept to member
+TemporaryFolder : add a check for TemporaryFolder
+rename getActualTypeArguments to getRawType
+fix SessionsEndpointDocumentationTests # findByIndexNameAndIndexValue ( ) issue with SessionsEndpointDocumentationTests # findByIndexNameAndIndexValue
+add PATHPATTERN_ROUTEMATCHER_CLASS to RSocketMessagingAutoConfiguration
+add String to PrefixMetricGroupExporter
+add support for value to AuthenticationManagerConfiguration
+issue # 2161 : unify test input locations
+JavaBeanBinder # addProperties issue : : : : : add support for
+add getGroup ( ) to DynatraceProperties issue : spr-14306
+remove unnecessary casts
+rename TestWatcher - > abstract
+fix TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth issue with TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth in TestRestTemplate motivation : TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth to TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth the TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth are the TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth to be used by the TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth to be a TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth ( ) to be a TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth ( ) , TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth ( ... ) to the TestRestTemplate # useTheSameRequestFactoryClassWithBasicAuth ( ... ) to be
+fix for getIdentifierKey ( )
+polish javadoc for SpringApplicationBuilder and SpringApplicationBuilder # child
+fix TestClass # getAnnotatedFieldValues ( ) and # getAnnotatedFieldValues ( ) motivation : TestClass # getAnnotatedFieldValues ( Object , TestClass # getAnnotatedFieldValues ( ) , TestClass # getAnnotatedFieldValues ( Object ( Object ( ) , FrameworkField ( ) , TestClass # getAnnotatedFieldValues ( Object ( ) , TestClass # getAnnotatedFieldValues ( test ( test ( ) , FrameworkField ( Object ( ) ( ) , FrameworkField ( ) , FrameworkField ( Object ( ) to
+move TestClassTest to util package
+improve error message when using a logData is specified .
+remove @ author tags
+fix writeTo ( ) of writeTo ( ) method in CallTest
+fix for https : //issues.apache.org/jira/browse/amq-4719
+add callAdapterFactories method to Retrofit
+remove unnecessary casts
+remove unused imports
+rename Matcher to throwableMatcher
+add support to URL
+remove unnecessary casts
+add PROVIDER_DISABLES_AUTOCOMMIT to HibernateJpaConfiguration
+remove convert from AlwaysNullConverterFactory
+add IntegrationComponentScanAutoConfiguration # getAnnotationAttributes to IntegrationComponentScanAutoConfiguration

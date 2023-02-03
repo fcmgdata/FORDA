@@ -1,0 +1,1000 @@
+[ hotfix ] [ streaming ] [ streaming ] [ # conditionalonexpression ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [
+remove unused imports
+add support for ResourceEndpointConfiguration and ResourceEndpointConfiguration and ResourceEndpointConfiguration . -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=210138846
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support to AggregateBinder
+add missing license headers
+remove unused imports
+add support to RunArguments
+add support for tests
+add support to SampleIntegrationTests
+remove unused imports
+add support to SessionAutoConfigurationTests
+remove unused imports
+add configurationproperties : add support to EnvironmentEndpoint
+add missing license headers
+add support for AnnotationEndpointDiscoverer
+add support for RedisReactiveHealthIndicator summary : this will be used to be able to be able to be able to be able to be able . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add missing license headers
+fix bug in JerseyEndpointResourceFactory
+remove unused imports
+remove unused BootRunApplication : https : //issues.apache.org/bugzilla/show_bug.cgi ?
+remove unused imports
+add stopApplication ( ) method to DevToolsIntegrationTests
+add support for EndpointWebMvcAutoConfiguration
+remove unused imports
+add missing license headers
+remove unused imports
+add support to InfluxDbAutoConfiguration
+add support for NettyReactiveWebServerFactoryTests
+add support for the TestPropertyValues and the TestPropertyValues to the TestPropertyValues for the TestPropertyValues for the TestPropertyValues for the TestPropertyValues to the TestPropertyValues for the mutable that the TestPropertyValues for the TestPropertyValues for the TestPropertyValues for the TestPropertyValues for the
+remove unused imports
+add support for AbstractContextLoader and AbstractContextLoader issue : //issues.apache.org/bugzilla/show_bug.cgi
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add autoConfigFirst to ContextLoader # ContextLoader # ContextLoader # autoConfigFirst
+add support for RedisConnectionConfiguration issue : //issues.apache.org/bugzilla/show_bug.cgi ?
+fix issue with DefaultServletWebServerFactoryCustomizer
+remove unused imports
+remove unused imports
+remove unused imports
+add support to CassandraDataAutoConfiguration
+add missing license headers
+fix bug on createLettuceConnectionFactory ( ) issue : //issues.apache.org/bugzilla/show_bug.cgi ?
+add support for DevToolsPooledDataSourceAutoConfigurationTests
+remove unused imports
+add missing license headers
+add support for QuartzAutoConfiguration and QuartzAutoConfiguration issue : //issues.apache.org/bugzilla/show_bug.cgi
+add support for JavaPluginAction
+remove unused imports
+add support to Binder
+remove unused imports
+add support to CollectionBinder
+add support to ConfigurationPropertyName
+remove unused imports
+add support for AutoConfigurationReportEndpoint
+remove unused imports
+add support to CollectionBinderTests
+add support to MapBinder
+add support for tests
+remove unused imports
+remove unused imports
+add support to MapBinder
+add support for SpringApplication
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused Condition from GroovyGrabDependencyResolverTests ( )
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add support for testRedisUrlConfiguration and RedisAutoConfigurationJedisTests issue : rohit yadav
+add missing license headers .
+add support to ConfigurationPropertiesBindingPostProcessor
+add support for SpringBootExtension summary : this will be used to be able to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+remove unused imports
+add support to SpringApplication
+[ hotfix ] [ streaming ] [ hotfix ] -- -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=210138846
+remove unused imports
+add javadoc to DefaultPropertyNamePatternsMatcher
+add support for BootZipCopyAction and BootZipCopyAction to BootZipCopyAction .
+remove unused test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused imports
+add support for BootZipCopyAction and AbstractBootArchiveTests and BootZipCopyAction to BootZipCopyAction
+add javadoc to the SpringBootExtension
+add configureArgumentResolvers to WebFluxAnnotationAutoConfiguration and WebFluxAnnotationAutoConfiguration to WebFluxAnnotationAutoConfiguration
+add support to BootArchiveSupport
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for ReactiveWebServerConfiguration
+add missing license headers
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add support to EnableConfigurationPropertiesImportSelector
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+add support for PropertyDerivations
+add license headers
+remove unused imports
+add support to NetworkModelImpl
+remove unused imports
+add support for HazelcastMonitorConfiguration
+add support to CompositeGenericKey
+remove unused imports
+add missing license headers . summary : this will be used to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add support to ObjectMapper
+remove unused imports
+add support to ESIndexLevelReplicationTestCase
+add missing license headers
+fix issue with ORecordAbstract
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+add support for TruffleProcessor
+remove unused imports
+remove unused imports
+add support to ElectingLevelDBStoreTest
+fix a bug for DumpStore
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+fix issue with SummaryExtractor
+remove unused imports
+add support for VMTemplateZoneDao
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing suppresswarnings
+remove unused imports
+remove unused imports
+remove unused imports
+fix a bug in SchemaPath # getAsUnescapedPath ( ) this commit adds the ` getAsUnescapedPath ( ) ` getAsUnescapedPath ( ) ` getAsUnescapedPath ( ) ` getAsUnescapedPath ( ) . fixes `
+remove unused imports
+add missing javadoc
+remove unused imports
+remove unused imports
+add support for EmailService summary : this will be used to be able to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+[ hotfix ] [ streaming ] [ streaming ] -- -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=109913802
+remove unused equals summary : this will be used to be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+remove unused imports
+add license headers
+remove unused imports
+fix a bug in RoutingNodes summary : this will be used in the tests , we do not be used to be used to be used ( ) . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused imports
+add support for ResolvableType
+remove unused imports
+remove unused imports summary : this will be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for Max
+fix bug in AbstractOmnibusRoots summary : this will be used in a bug in a bug in a test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add support for DirectRunner
+remove unused imports
+remove unused imports
+remove unused imports
+fix a bug in DefaultCxxPlatforms summary : this will be used in the ImmutableList in the ImmutableList in the ImmutableList . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+add support for HostedPinnedArray
+add support for DefaultActionMapper
+remove unused imports
+remove unused imports
+add support for AbstractAppleCxxPlatform summary : this will be used to be used in the lldb ( ) in the lldb ( cherry picked from ) in the lldb in the lldb for the lldb in the lldb ( ) ( ) ( ) ( ) ( ) ( )
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for InboundEnvelopeDecoder
+remove unused imports
+add support to RowDistinctFromOperator summary : this is a bug in a bug . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for TracingTaskListener
+add support for CatalogSystemTable
+add support for ActiveMQBlobMessage
+remove unused imports
+add support to ExtractedField summary : this will be used to be used to be used in the same when the ExtractedField . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+[ hotfix ] [ streaming ] [ hotfix ] -- -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=210138846
+remove unused imports
+add missing license headers
+add support for AbstractTicketRegistry
+remove unused imports
+fix issue with suppresswarnings
+add missing license headers
+fix bug in TopLevelTransaction issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+add support to FileOperations
+remove unused imports
+remove unused imports
+remove unused imports
+fix bug in ReplicationOperation summary : this is a bug in a bug . this will be able to remove a bug in a bug in a onNoLongerPrimary ( ) . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add getPositions to LazyBlock
+remove unused imports
+add missing license headers
+remove unused imports
+move package to the package
+remove unused imports
+add license headers
+remove unused imports
+remove unused imports
+add support for test cases
+remove unused imports
+remove unused imports
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 when using a bug
+remove unused imports
+remove unused getCxxPreprocessorDeps ( ) summary : this will be used in the ` PrebuiltAppleFramework ` . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+add support for StoreCopyClientTest
+fix issue with OIndexManagerAbstract
+[ hotfix ] [ streaming ] [ streaming ] -- -- -- -- -- -- -- -- - created by moe : https : http : //code.google.com/p/moe-java moe_migrated_revid=69572761
+remove unused imports
+remove unused imports
+remove unused imports
+add support for UsernamePasswordToken and UsernamePasswordToken issue : rohit yadav < rohit.yadav @ shapeblue.com >
+add support for ReflectiveMethodResolver
+add support for DataflowPipelineOptions
+remove unused imports
+remove unused RelationshipExpander
+add support to Begin
+add missing license headers
+[ hotfix ] [ streaming ] [ streaming ] -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=69572761
+add support for HttpGetTest
+fix issue with PutMappingRequest
+remove unused imports
+add missing javadoc
+remove unused imports
+add missing javadoc
+add support for AnnotationMethodHandlerAdapter
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support to QueryCardinalityUtil
+fix issue with OImmutableRole
+add javadoc for the javadoc
+remove unused imports
+add javadoc to BufferPool
+remove unused imports
+add support to MachineReadableLoggerListener summary : this will be used to be used in the constant of the constant of the constant to be used to be used to be able . this . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+add missing reset ( )
+fix a bug in the CompactionManager # AntiCompactionIterator ( # : # : # SSTableScanner ) the AntiCompactionIterator : elastic/x-pack-elasticsearch : fix
+remove unused AbstractGenruleStep summary : this is a ` AndroidBinaryRule ` . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused ProjectBuildFileParserFactory code summary : this will be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add support to SocksCmdRequest
+add missing license headers
+fix issue with VertexAttributes
+remove unused imports
+remove unused imports
+fix bug in ONetworkProtocolHttpAbstract
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+add support for Http2ConnectionHandlerTest
+fix issue with ORecordSerializerBinary
+add support to GetResponse
+[ hotfix ] [ streaming ] [ streaming ] [ streaming ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [
+add support for BulkByScrollParallelizationHelper
+fix bug in ONetworkProtocolHttpAbstract
+add missing license headers
+add missing license headers
+add support for LwjglCanvas
+remove unused imports
+remove unused imports
+remove unused imports
+add support for MultipleIndexPopulator
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for Message
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add license headers
+remove unused imports
+add license headers
+add missing license headers
+remove unused imports
+add license headers
+add license headers
+add license headers
+fix bug in CapacityDaoImpl
+remove unused imports
+add support for StreamRecord
+remove unused imports
+add support to NodeFactoryFacadeImpl
+remove unused imports
+add support for Labels
+remove unused imports
+add support for InnerHitBuilder
+fix bug in ExpressionFormatter issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+fix bug in OEmbeddedRidBag
+add support for OperatorTakeWhile
+add javadoc for the javadoc
+[ hotfix ] [ streaming ] [ ] [ ] -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java ]
+add missing license headers
+add missing license headers
+remove unused imports
+fix issue with OChannel
+add support for SchemaProjector summary : this will be used to be able to the java in a bug in a isPromotable of the isPromotable in the build . reviewed by : coneko fbshipit-source-id : cjhopman
+fix bug on NodeEnvironment
+add support for ConfigurationServerImpl summary : this will be used to be used to be able to be able to be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+fix bug in OContextConfiguration
+[ hotfix ] [ streaming ] [ streaming ] -- -- -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=210138846
+remove unused imports
+add support for EquivalencesTest
+remove unused imports
+add license headers
+remove unused imports
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? fix for FlinkKinesisConsumerMigrationTest
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add javadoc for the javadoc
+fix bug in OSelectStatementExecutionTest issue : rohit yadav < rohit.yadav @ gmail.com >
+remove unused imports
+remove unused imports
+remove unused imports
+add support to VersionStringComparator
+remove unused imports
+add support to DefaultResultMapBuilder
+remove unused imports
+add missing license headers
+remove unused imports
+add support for IndexType
+remove unused imports
+add support for BlobStoreRepository summary : this will be used to be used in the same from the buildBlobStoreIndexShardSnapshots to be used to be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+fix bug in JSR223Assertion
+remove unused imports
+add support to VolumeDataStoreDao
+remove unused imports
+remove unused imports
+add support to TimeTrigger
+remove unused imports
+add support for MapperQueryParser summary : this will be used in the MapperQueryParser in the MapperQueryParser when the MapperQueryParser . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add if to ImmutableCollection
+add missing license headers
+remove unused imports
+add support to TestResolvedJavaType
+remove unused imports
+remove unused imports
+add missing ConnectionFactory
+add support for testSelectionSelectBySymbol ( )
+remove unused SourcePath summary : this will be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused imports
+add javadoc to the javadoc
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for MatchQuery
+remove unused imports
+add missing license headers
+fix issue with OCommandExecutorSQLRemoveClass
+add support to RaptorMetadata
+remove unused imports
+add javadoc for the javadoc
+add support for ResolvedJavaType
+remove unused imports
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? add the contextInitialized contextInitialized ( )
+[ hotfix ] [ streaming ] [ ] [ ] -- -- -- -- -- -- -- -- - created by moe : https : https : //github.com/google/moe moe_migrated_revid=109913802
+add support to DocumentMapper
+add support for UIBean
+remove unused imports
+add license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+fix issue with addArgs
+add support for ChromeTraceBuildListener summary : this will be used in the threadMXBean and it to be used in the same the ThreadMXBean in the ThreadMXBean in the ThreadMXBean in the ThreadMXBean in the ChromeTraceBuckConfig . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+add support for KafkaUtils
+add support to HttpProducer
+remove unused imports
+remove unused imports
+fix issue with PrefetchSubscription
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+fix a bug in the SmartDexingStep summary : this will be able to be able to be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add license headers
+remove unused imports
+remove unused imports
+add support to LuceneIndex
+remove unused imports
+remove unused imports
+add support for TexturePacker
+remove unused imports
+fix issue with ClusterClassificationDriver
+fix bug on analyzeShowRoles method with analyzeShowRoles method
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing javadoc
+add support to AuthenticationService
+add missing license headers .
+add support to ESTestCase
+add support for setSource to SourceUnit
+add support for HibernateSessionFactoryConfigurationTests summary : this will be used to be used to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+add support for AndroidControllers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+fix issue with XenServerGuru
+add license headers
+remove unused imports
+remove unused imports
+add support to CachingBuildEngineTest
+add support for BitmapFont
+add support to ClusterName
+remove unused imports
+add support for Graph
+add missing license headers
+add support to RequestContext
+fix issue with OIndexMultiValues
+remove unused imports
+fix bug in TruffleDebugJavaMethod
+fix issue with ResourceChainRegistration
+add support for BinaryMemcacheObjectAggregator
+remove unused imports
+fix a bug in DirectHeaderMap summary : this will be used in the ` to ` to a ` . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support to UserRoleMapper
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support to CollectedInfo
+remove unused imports
+fix bug in IndexAuditTrail issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unused imports
+remove unused imports
+add license headers
+remove unused imports
+add support for IngestPlugin summary : this will be used to be able to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+add support for RemoteExecutionConsoleLineProvider
+add license headers
+add support for NetUtil
+[ add ] MathFunctions # round ( )
+remove unused imports
+remove unused imports
+remove unused getJavacOptions summary : this will be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+add missing javadoc
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+fix bug on jsonCodecBinder method with CoordinatorModule
+add support to NoSuchBeanDefinitionException
+remove unused imports
+add support for CoRecordReader
+remove unused imports
+add support for OutputDeduplicator summary : this will be used to be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for AndroidBuildConfigJavaLibrary summary : this will be used to be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused BuildTargetParser summary : this will be used . reviewed by : coneko fbshipit-source-id : bobyangyf
+add javadoc to InliningLog
+add support for Settings summary : this will be used in the Builder to be used in the same from the put . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+remove unused imports
+add support for SearchService summary : this will be used in the tests . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+add missing license headers .
+remove unused imports
+remove unused imports
+fix bug in ClasspathPackageProviderTest issue : rohit yadav < rohit.yadav @ shapeblue.com >
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for s_logger
+remove unused imports
+fix issue with HostVO
+remove unused retrofitPorts
+remove unused imports
+remove unused imports
+remove unused imports
+add license headers
+remove unused imports
+add support for AbstractBuildFileSpec summary : this will be used to be used to AbstractBuildFileSpec in the crawl that is a files . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for AppleBinaryDescription summary : this will be used to be used to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+add missing javadoc
+remove unused imports
+remove unused imports
+fix issue with OTransactionRealAbstract
+add support for PackageComponentMojo summary : this will be used to be able to be able to be able to use it to be able to be able to be able to be used in the same from the same from the types . test plan : ci reviewed by : coneko fbshipit-source-id : bobyangyf
+add support to CassandraProducer
+add support for StompSubProtocolHandler
+remove unused imports
+remove unused imports
+add support for DefaultFullBinaryMemcacheRequest
+remove unused imports
+remove unused imports
+add support to AppleBundle summary : this will be used to be used to be able to be used to be used to be able to be used to be used to the tests in a single the tests in the AppleBundle . reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+add license headers
+remove unused getSupportedMimeTypes
+fix issue in EffectivePredicateExtractor
+remove unused imports
+remove unused imports
+add missing GraalOptions
+add support for SpringAwareMessageMessageInterpolator
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused asReference ( ) summary : this is a ` AbstractSourcePath ` to be used in a ` for ` to make it in the ` for ` for ` for ` for ` for ` for ` for ` for ` for ` for ` for ` for ` for ` for
+remove unused imports
+add support for PluginsService
+remove unused imports
+remove unused imports
+add missing license headers
+fix bug on Connector issue : https : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unused imports
+remove unused imports
+add javadoc to javadoc
+add support to DaemonLifecycleManager
+remove unused imports
+add license headers
+remove unused imports
+add support for ConfigurationClassParser and ConfigurationClassParser issue : //issues.apache.org/bugzilla/show_bug.cgi
+add license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support to RecommenderJob
+add support for JDBCInputFormat summary : this will be used to be used to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+[ hotfix ] [ streaming ] [ # get ( ) this change the EvaluationContext # get ( ) this commit adds the EvaluationContext ( ) in EvaluationContext ( ) ( ) ( ) ( ) ( ) ( ) ( ) < rohit.yadav @ gmail.com > ) > ( )
+remove unused imports
+[ hotfix ] [ streaming ] [ streaming ] -- -- -- -- -- -- -- -- - created by moe : https : http : //code.google.com/p/moe-java moe_migrated_revid=69572761
+add support to ShibbolethCompatiblePersistentIdGenerator
+add license headers
+add license headers
+add support to AbstractByteBufAllocator
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for LambdaObserver
+add null method to NamedCache
+add license headers
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+add support to BeamSqlLikeExpression summary : this will be used to be used in the BeamSqlLikeExpression in the BeamSqlLikeExpression . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused buildTarget summary : this will be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+fix bug in ClientSideSlb issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unused imports
+add support for MovAvgPipelineAggregator
+fix bug in StoreCopyClient # if ( ) this commit adds a bug . -- -- -- -- -- -- -- - created by moe : https : https : //github.com/google/moe moe_migrated_revid=210138846
+remove unused imports summary : this will be used to be used to be able to be able to be able to be able . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for AbstractListenerWebSocketSession
+remove unused imports
+fix issue with ClientCrashingWriter
+fix issue with ServletHttpHandlerAdapter
+fix bug in ResponseStatusExceptionHandler issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+add license headers
+add missing license headers
+add license headers
+add forCellName ( ) to BuckTargetPattern
+remove unused imports
+fix bug on newDataSource ( ) issue : rohit yadav < rohit.yadav @ gmail.com >
+fix issue with RecoverySourceHandler
+add support for CasCoreBootstrapStandaloneConfiguration
+remove unused imports
+add support to FileRealmTests
+add support for ESUsersTool summary : this will be used to be used to be able to avoid with a cli in the cli cli in the cli cli cli in the cli in the cli in the cli in the cli in the
+fix issue with OAESGCMEncryption
+add missing setKeepGoing to BuildCommand
+add missing license headers
+add support for DummyRDotJava
+remove unused imports
+fix bug in OpenSessionInViewFilter issue : //issues.apache.org/bugzilla/show_bug.cgi ? fix
+remove unnecessary String summary : this is a bug in a bug in a bug in a bug in a String of a String of a String of the String of the String of the String of the String of the String of the String of the String of the
+fix issue with obtainRootDirectory
+remove unused imports
+add support to Escaper
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+fix issue with test
+remove unused imports
+add javadoc to ConnectionDotFilePlugin
+add javadoc to BatchInserterIndexProvider
+add support for QueryException
+add missing license headers
+add support for IterativeOptimizer
+add support for AbstractCachingViewResolver
+fix a bug in a bug
+remove unused imports
+fix a bug in AndroidPrebuiltAarDescription summary : this is a bug in a bug in a bug in a bug in a params : - this is a params : - this is a bug that is a params : add a params : add a params : add
+fix issue with DateOperators
+add missing license headers
+remove unused imports
+remove unused imports
+fix bug on testAddAll_largeList method with testAddAll_largeList to testAddAll_largeList method
+add support for DelimitedPayloadTokenFilterFactory
+fix bug on FieldNamesFieldMapper
+remove unused imports
+add support to HtmlSanitizer
+remove unused imports
+remove unused imports
+remove unused imports
+fix a bug in AppleLibraryDescription summary : this will be used in the ` AppleLibraryDescription ` . this is a ` AppleLibraryDescription ` . reviewed by : bobyangyf fbshipit-source-id : cjhopman
+remove unused imports
+remove unused load
+add support for BloomInsightDocumentStructure
+add missing suppresswarnings
+add license headers
+add support for WebJarsResourceResolver
+remove unused imports
+fix issue with getTaskInstanceId
+add support for AnnotationMethodHandlerAdapter
+remove unused imports
+remove unused imports
+remove unused imports
+fix a bug in the isChromeTraceCreationEnabled to the BuckConfig summary : this will be able to be able to be able to be able to the chrome the error , but it in the error . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+add support for RootNodeTest
+remove unused imports
+fix issue with OServerCommandAbstract
+add license headers
+add support for ClusterSettings
+remove unused imports
+add support for InProcessBundleFactory
+remove unused List
+remove unused imports
+add support for InvalidPayloadException
+remove unused imports
+add support to Glob summary : this will be used in the glob . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for createMRWorkForMergingFiles ( )
+add missing javadoc
+fix issue with FlinkExecutionEnvironments
+fix a bug in the allocateGlobals method to LLVMVisitor
+add missing license headers
+add license headers
+add support for BalancedShardsAllocator
+remove unused imports
+remove unused imports
+add support for CxxDescriptionEnhancer summary : this will be used to be used to be able to be able to be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+add support to Setting
+remove unused imports
+add missing javadoc
+remove unused imports
+add getFallOut to IRStatistics
+remove unused imports
+add support for ExtendedBeanInfo and ExtendedBeanInfo to ExtendedBeanInfo .
+add missing license headers
+add license headers
+remove unused imports
+remove unused imports
+add support for ElasticSearchTestCase
+remove unused imports
+remove unused imports
+remove unused imports
+add license headers
+remove unused imports
+fix a bug with a bug
+remove unused imports
+remove unused imports
+remove unused imports
+add support to VMSnapshotResponse
+add support to SchemaReadWriteTestBase
+add javadoc to the Form
+add missing license headers
+add support for ExpressionBuilder
+add license headers
+remove unused imports
+add missing javadoc
+add missing license headers
+add support to ShieldPlugin
+add license headers
+add missing javadoc
+[ hotfix ] [ hotfix ] [ streaming ] [ streaming ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ streaming ] [ # ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+add license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add support for Splitter
+add missing license headers
+add support to AbstractMinMaxByNAggregationFunction
+add support for AbstractCommand summary : this will be used to be used to be able to be able to avoid reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add multiAnnotations ( ) to AnnotatedJCacheableService
+remove unused imports
+remove unused imports
+add support for TwitterConfiguration
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for AppleBuildRules summary : this will be used to be able to the collected in a bug in a test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+add support for AbstractFuture
+add addLast to ClusterService ( ) ( )
+remove unused imports
+remove unused imports
+add support for IndicesSegmentResponse
+remove unused imports
+remove unused imports
+[ hotfix ] [ hotfix ] [ hotfix ] -- -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=69572761
+remove unused imports
+add support for CompositeTestCluster summary : this will be used to be used . reviewed by : bobyangyf fbshipit-source-id : bobyangyf
+remove unused imports
+add support for LowTier
+remove unused imports
+add support for TransactionToApply summary : this will be used in the storage , we need to be used in the storage , we should not be used to the storage , which is the storage . this change the same an ` TransactionToApply ` TransactionToApply ` TransactionToApply `
+add missing license headers
+fix a bug in the populateLlapDaemonVarsSet to the populateLlapDaemonVarsSet of the METASTORE_FS_HANDLER_THREADS_COUNT in the METASTORE_FS_HANDLER_THREADS_COUNT in the populateLlapDaemonVarsSet to use of the populateLlapDaemonVarsSet to the populateLlapDaemonVarsSet and the populateLlapDaemonVarsSet and the llapDaemonVarsSetLocal in the METASTORE_FS_HANDLER_THREADS_COUNT from the populateLlapDaemonVarsSet ( ) ( ) ( ) ( ) ( ) ( )
+add support for tests
+remove unused imports
+add support for CloseIndexResponse
+add support for IngestActionFilter
+fix bug in ViewResolutionResultHandler
+add support for ImageTextButton
+add license headers
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add support for Host
+add support for TokenizerExpression
+fix bug in DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager # DefaultFlashMapManager : https : elastic/x-pack-elasticsearch @ gmail.com >
+remove unused imports
+fix issue with OProjectionItem
+add support to ClientCertificateHandler
+add missing license headers
+add support to ResolvableType
+add missing license headers
+add support for HttpHandlerConnectorTests
+remove unused imports
+remove unused imports
+fix issue with SimpleConsoleEventBusListener
+add missing javadoc
+remove unused imports
+fix issue in BeanExpression
+remove unused imports
+remove unused imports
+add license headers
+remove unused imports
+fix bug in DataSourceManager
+add support for the testShouldBeAbleToClickOnElementsWithOpacityZero to ignore the testShouldBeAbleToClickOnElementsWithOpacityZero ( # 1555 )
+add support to ClusterManager
+add support to PhysicalWritableLogChannel
+add support for AllTermQuery
+add support for BaseDestination
+add javadoc for the javadoc
+remove unused imports
+remove unused imports
+add missing canBeAsset summary : this will be used to be used in the same . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused compareTo
+add support to ProjectFilesystem summary : this is a support to the ProjectFilesystem in the ProjectFilesystem was a ` to the overflow in the overflow in the overflow in the overflow in the overflow in the overflow in the ProjectFilesystem ` is not a
+add support for DaemonicParserState summary : this will be used to be used in the same of the buildFile in the lookupComputedNode to be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing imports
+remove unused imports
+remove unused imports
+fix issue with SqlQueryExecution
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+fix a bug in the getId of the List
+remove unused imports
+add support for EmptyX509TrustManager and EmptyX509TrustManager ( # EmptyX509TrustManager )
+remove unused imports
+add missing javadoc
+remove unused imports
+fix bug in ChromeTraceBuildListener summary : this is a bug in a bug in a bug in a bug . this will be able to be able to be able to be used . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for BingTileOperators
+remove unused imports
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused getCategory
+add license headers
+fix a bug in SimpleHandlerResultHandler # supports ( ) this commit adds a bug .
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+add support to TokenAuthenticationProperties
+remove unused imports
+remove unused imports
+add missing suppresswarnings
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers . summary : this will be used by default to Retrofit for Retrofit . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+add support for BasicJsonParser summary : this will be used in the inEscape when the escape in the escape in the escape in the escape in the escape in the escape in the escape in the escape in the escape in the escape in the escape in the escape in the
+remove unused imports
+add license headers
+[ hotfix ] [ streaming ] [ streaming ] [ # protocol ] [ ] [ ] [ ] [ # protocol ] [ # protocol ( ) ] -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java ]
+add support to WebFluxTags
+add support to EndpointWebMvcManagementContextConfiguration
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused map
+remove unused imports
+add missing license headers
+fix a bug in the RSocketMessagingAutoConfiguration to the RSocketProperties . -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=32777184
+add support for ConcurrentKafkaListenerContainerFactoryConfigurer
+remove unused customize ( )
+add support to JavaCompilerFieldValuesParser and JavaCompilerFieldValuesParser ( # JavaCompilerFieldValuesParser ) this commit we can be able to the JavaCompilerFieldValuesParser and the JavaCompilerFieldValuesParser and the JavaCompilerFieldValuesParser to the JavaCompilerFieldValuesParser to the JavaCompilerFieldValuesParser . this commit adds the JavaCompilerFieldValuesParser and the JavaCompilerFieldValuesParser . this commit updates the AbstractFieldValuesProcessorTests and the AbstractFieldValuesProcessorTests and
+remove unused imports
+add deprecated methods to ArrayDocumentMatcher
+add support for ConditionEvaluationReport and ConditionEvaluationReport to ConditionEvaluationReport
+remove unused imports
+remove unused imports
+add missing license headers
+add support for ResetMocksTestExecutionListener
+remove unused ignoreNestedProperties ( )
+remove unused imports
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48790 when using a bug
+add missing license headers
+add support for RpcException
+remove unused imports
+add support to CookiesTest
+add license headers .
+remove unused imports
+add license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+add missing license headers
+remove unused imports
+remove unused imports
+remove unused imports
+add missing license headers
+remove unused imports
+remove unused imports
+add support for RSocketMessagingAutoConfiguration and RSocketMessagingAutoConfigurationTests to RSocketMessagingAutoConfiguration
+add support for PrefixMetricGroupExporter
+add support to AuthenticationManagerConfiguration
+add support to PropertySourcesPropertyValues
+add support to JavaBeanBinder
+add missing license headers
+remove unused imports
+remove unused imports
+add support to TestRestTemplate
+remove unused imports
+remove unused imports
+add support for TestClass and TestClass ( # getAnnotatedFieldValues ) this commit we can be able to the TestClass and the TestClass to be able to be used to the TestClass . this commit updates the TestClass and the TestClass , the TestClass and the TestClass and the
+remove unused imports
+remove unused imports
+remove unused imports
+fix issue with CallTest summary : this is a bug in a bug . test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+fix bug in ConsumerContextClusterInterceptor issue : # before
+add callAdapterFactories ( ) method to Retrofit summary : this will be used to Retrofit to the CallAdapter . reviewed by : ttsugriy fbshipit-source-id : bobyangyf
+remove unused imports
+remove unused imports
+add missing license headers .
+add support to URL
+remove unused imports
+add support for HibernateJpaConfiguration
+remove unused imports
+add support for tests

@@ -1,0 +1,1000 @@
+add test for error message to be used
+[ hotfix ] [ test ] add DefaultServletWebServerFactoryCustomizerTests
+[ hotfix ] [ tests ] add PropertySourcesPropertyValues to PropertySourcesPropertyValues
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add tests ] [
+remove unused method
+update javadoc for javadoc
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the LogManager in the LogManager .
+[ hotfix ] [ tests ] add LocalHostWebConnectionHtmlUnitDriverTests # LocalHostWebConnectionHtmlUnitDriverTests
+remove unused method
+[ hotfix ] [ tests ] fix AbstractReactiveWebServerFactoryTests # AbstractReactiveWebServerFactoryTests # AbstractReactiveWebServerFactoryTests
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 in WebFluxAnnotationAutoConfigurationTests
+add a test for a test
+fix WebRequestTraceFilter # addTimeTaken ( ) method to use the default value
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ test ] [ tests ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ test ] [ test ] [ test ] [ tests ] [ tests ] [ tests ] [ test ] [
+remove unused method
+remove unused imports
+[ hotfix ] [ tests ] fix SpringBootVersion
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test to the ]
+remove unused method
+remove unused method
+remove unused method
+add missing HalBrowserLocation ( ) method
+fix test on test case
+add test for test
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+HtmlIdentifier : fix HtmlIdentifier # shouldBeInjected .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in GraalCompiler
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add EqualsAvoidNullCheck ] to EqualsAvoidNullCheck # getChildren method to EqualsAvoidNullCheck # getChildren .
+HiveEventClient : HiveEventClient should use the default table table table debug .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't use the patch .
+TikaConfig : TikaConfig # TikaConfig # mime
+[ hotfix ] fix HasChildQueryParser # HasChildQueryParser
+[ hotfix ] [ tests ] add AbstractTestContextBootstrapper to AbstractTestContextBootstrapper
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't use the ajp
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 use the AbstractTestQueries to use the test to use the same in the same to be used in the same to be used in the same to be used in the same to be able ( )
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+fix issue in AbstractCredential
+make DefaultExecutorServiceStrategy onThreadPoolCreated ( ) method
+remove unused method
+remove unused method
+[ test ] add test for test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the ` TikaCLI ` TikaCLI ` .
+fix a bug in SpannerIO summary : we should use the ` SpannerIO ` getSpannerOptions ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy
+remove unused method
+add some methods to TCPTransportTests
+[ hotfix ] [ tests ] add ColumnSerializer to ColumnSerializer
+remove unused import
+remove unused imports
+remove ignore ignore
+add deleteAsync method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be test plan : ci
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the ticketGrantingTicket to the patch by default to be able ( )
+[ test ] fix AMQ4930Test # AMQ4930Test # AMQ4930Test
+[ hotfix ] [ tests ] add CCRFeatureSetTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the repeat in the repeat to use the repeat to use the repeat to be able to be used to be to be to be to be to be to be to be to be able to
+add missing deprecated deprecated
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a assert to the ` ShieldActionMapper ` ShieldActionMapper ` .
+remove unused method
+test : fix test for test
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 not do n't do n't do n't do n't have a for the file ( ) to be used .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be PlatformDependent
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a DynamicHub in ReflectionDataBuilder for the hub for the hub ( ) for the user , so that we do n't do n't have a DynamicHub .
+remove unnecessary code
+[ test ] fix IngestBootstrapperTests # IngestBootstrapperTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in a server .
+[ hotfix ] add TransformEvaluatorFactory # forApplication
+fix a bug in MapType
+add some methods to BuckParserDefinition
+remove unused method
+[ hotfix ] [ tests ] add DefaultCxfRsBinding
+remove unused import
+add a method to use of the LDAMapper
+remove unused method
+remove unused method
+[ hotfix ] fix DirectedMultiGraph # getOutgoingEdgesMap
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a netty to the default default default netty is not be used in the same is not be used to the ` NettyProducer ` NettyProducer ` is not be used .
+ZipScrubber : add localEntryName method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 do n't do n't do n't use the ` DistBuildArtifactCacheImpl ` is the ` , which is the ` is the ` DistBuildArtifactCacheImpl ` is the ` . test plan : ci reviewed by : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko fbshipit-source-id : coneko fbshipit-source-id : styurin
+[ hotfix ] [ tests ] add ZlibCodecFactory to ZlibCodecFactory
+add more tests to TestCipher
+make sure the CompilationUnit
+remove unused method
+[ hotfix ] add handle ( ) to handle ( ) to handle
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a AuthenticationException .
+remove unused method
+remove unused method
+update javadoc for comment
+add test for fuser .
+remove unused method
+[ hotfix ] fix LuaInPlaceBinary # LuaInPlaceBinary
+remove unused method
+remove unused import
+remove unused method
+[ hotfix ] [ tests ] add SpanishTokenizerTest
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test to TestVarbinaryFunctions , the test the ] [ test ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] fix
+remove unused method
+remove unused method
+remove unused method
+fix a bug in RandomDate
+remove unused imports
+[ hotfix ] [ tests ] add DefaultGroovyMethods # leftShift method to DefaultGroovyMethods
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch in StringHelper ( ) instead of the same for the patch by jbellis ( )
+add some tests
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add AllChecksTest to AllChecksTest
+remove unused method
+remove unused method
+add some tests
+javadoc : add javadoc to javadoc for DefaultGroovyMethods
+update javadoc for javadoc
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add attachingPool by default from the vm .
+add a test for the test case
+console : fix bug in initServer
+test : add more tests to PooledTopicPublisherTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in SecondaryStorageManagerImpl
+remove unused method
+add invalidateCache method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a tempDataStore .
+update javadoc for javadoc
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ]
+test : fix test for test
+javadoc : add missing javadoc to Debugger .
+add javadoc for javadoc
+remove unused method
+TruffleSplittingStrategy : remove unused method
+[ hotfix ] [ tests ] add CausalClusteringSettings # CausalClusteringSettings
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a List in OSecurityShared .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] add ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in the JDBCAccessLogValve table is not be used in a true .
+remove unused COMMENT
+javadoc : add javadoc for ArrayUtil .
+remove unused method
+remove unused method
+remove unused method
+add some more tests
+add test to OnSubscribeRangeTest
+remove unused import
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the directory .
+add more tests for test
+add test for tests
+[ hotfix ] [ tests ] add Version
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 in ArrayIntersectFunction
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default .
+BytecodeParser : use of a single getGraphBuilderInstance .
+fix PerBuildStateFactory summary : we should use the ` PerBuildStateFactory ` PerBuildStateFactory ` . test plan : ci
+add testBasicInternalPunc method
+mute RecoveryIT # testRecoveryWithConcurrentIndexing
+update javadoc for javadoc
+remove unused method
+remove unused method
+remove unused import
+remove unnecessary code
+fix issue in DefaultJavaLibraryBuilder summary : we should use the ` DefaultJavaLibraryBuilder ` DefaultJavaLibraryBuilder ` ( ` ) ` ( ` ) ` ( ` ) ` ( ) ` ( ) ` ) ` ( ) ` ( ) ` ( ) ` ) ` ( ` ) ` ) ` ( ` ( ` ) ` ) ` ) ` ) ` ( ` ) ` (
+fix a bug in the AbstractChannelHandlerContext to be used by default value
+remove unused method
+add BytecodePositionWithId .
+add a method to SaveService
+make GcsPath static
+remove unused method
+remove unused method
+add javadoc to DefaultGroovyMethods
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the vpn if the same vpn is not have a single vpn .
+remove unused method
+fix TestXPathExtractor # TestXPathExtractor # junit
+[ hotfix ] [ tests ] add DemandForwardingBridgeSupport to DemandForwardingBridgeSupport
+remove unused method
+remove unused method
+add a suppressed method to the OptionValuesImpl
+fix a bug in FailoverTransport - add a reconnectOk
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in AnalyzerMapper
+[ hotfix ] [ tests ] add NetworkManagerImpl to NetworkManagerImpl
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 do n't do n't do n't use the gapPolicy for the patch in the units .
+remove unused method
+[ test ] fix Neo4jHAPropertiesMustExistRuleTest # CONFIG_KEY_SERVER
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+add missing javadoc to EmbeddedNeo .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in build ( cherry picked from commit updates )
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in PojoMethodMapping
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] fix ] [ tests ] [ tests ] [ tests ] [ tests ]
+[ hotfix ] [ tests ] add SupportsInputBasedRuleKey # isSupported method to SupportsInputBasedRuleKey
+add javadoc to CometEvent
+[ test ] VMTransportThreadSafeTest # run ( ) this commit updates the wait for the test .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ java ] [ tests ] [ tests ] [ tests ] [ # id ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ 1 ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [
+fix bug in ODatabaseRecordAbstract
+remove unused method
+add javadoc to PDFParser
+fix bug in NetworkManagerImpl
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the default value for the same host .
+remove unused import
+remove unused method
+[ hotfix ] add ProjectCommand to ProjectCommand
+add javadoc to IdempotentRepository
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused method
+remove unused method
+remove unused import
+PEAReadEliminationTest : add more tests
+add a method to the correct the TransactionTemplate
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a test plan for the test case .
+add more tests to Stomp11Test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the script to the same time .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a tests to the default logprop
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch in the test .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 not do n't use the softly in a softly in the softly
+fix IndicesQueriesRegistry # IndicesQueriesRegistry
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't have a vm .
+remove unused method
+remove unused imports
+remove unused code
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the patch by brandonwilliams .
+[ hotfix ] [ tests ] add TestNonBlockingAPI to TestNonBlockingAPI
+remove unused method
+[ hotfix ] [ tests ] add Upgrade229to2210 # Upgrade229to2210 # Upgrade229to2210
+remove unused method
+add a method to the default value
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add DispatcherServlet # setDisableLoggingRequestDetails .
+add SctpNotificationEven # SctpNotificationEven # SctpNotificationEven
+remove unused imports
+remove unused import
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] add test ] add test ] add test ] add test
+add javadoc to Source
+add test for tests
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused method
+[ hotfix ] [ tests ] add OperationObserveFromAndroidComponent to OperationObserveFromAndroidComponent
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a vm for the same the same time for the same to the same vm .
+[ hotfix ] [ tests ] add deprecated DefaultServlet
+add missing javadoc to FilterBase ( )
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] to CppTarget # getVersion method to CppTarget # getVersion method .
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] this ] [ tests ]
+[ test ] fix SearchServiceTests # doRewrite .
+ActorGestureListener : remove unused method
+[ hotfix ] add HiveClient to HiveClient
+[ hotfix ] [ tests ] add MigrationRequestVerbHandler
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48729 null check in BaseTemplate
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53793 ajp
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 test plan : ci
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch in the same time .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't use the patch by the same for the patch
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+add javadoc for TokenTypes .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default is not do n't do n't if the update is not have a host , which is not have a update the agent . this is not have been created by the same . this is not have the
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add
+remove unnecessary code
+fix SqlQueryManager # run .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default
+[ hotfix ] fix LifecycleSettings # LifecycleSettings
+remove unused method
+add subscribeBeforeEvents ( ) to ReplaySubjectPerf
+remove unused method
+remove unused method
+minor : add missing ( )
+remove unused import
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+fix IndicesService # canDeleteIndexContents ( ) this commit fixes a bug in the IndicesService # canDeleteIndexContents .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch by brandonwilliams .
+remove unused method
+add a method to avoid the same nlp and not a bit
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+[ hotfix ] [ tests ] add ChannelHandlerAdapter
+remove unused method
+[ hotfix ] [ tests ] add AuthIT to AuthIT
+[ hotfix ] fix Client # Client
+remove unused method
+remove unused import
+remove unused method
+remove unused method
+remove unused method
+OConstants : OConstants # getVersion . summary : we should use the version of the version to be used to be used to the version to be used to be used to be to be to be to be to be to be to be to be able to the ` to the
+add missing createScriptEvaluationException method
+[ hotfix ] [ deprecated deprecated deprecated deprecated deprecated deprecated deprecated ( # hover )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48729 setParallelism method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't use the test the test the test for the test case .
+add javadoc to MapsTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't use the plugin .
+remove unused method
+remove unused import
+remove unused method
+[ hotfix ] [ tests ] add ParDo to ParDo
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't have a binary .
+add missing version
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ hotfix ] [ hotfix ] [ : https : https : https : https : https : https : https : https : https : https : rohit yadav < rohit.yadav >
+remove unused import
+add isCacheable ( ) to JsFile
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a _systemUser in getSystemUser ( ) method to the _systemUser is not be used .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't use the patch ( ) on the same to the same to the same to be used .
+javadoc : add missing header to javadoc .
+[ hotfix ] fix TypeSignature # TypeSignature
+remove unused import
+[ hotfix ] [ tests ] add AnalyzingCompletionLookupProvider # AnalyzingCompletionLookupProvider
+[ hotfix ] [ tests ] add VersionUtils
+TaskExecutor : fix TaskExecutor # TaskExecutor
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 do n't do n't do n't use the patch by brandonwilliams ( )
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused import
+fix a bug in PlanFragmenter
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the required .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 vm by default
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48729 compact patch by jbellis .
+remove unused method
+fix issue in OrientGraphFactory
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the ` SearchContext ` SearchContext ` .
+add test for test case
+[ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ tests ] [ hotfix ] [ hotfix ] [
+javadoc : add javadoc for javadoc for javadoc .
+minor : add some tests
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be test plan : ci
+GenericTableMetaDataProvider : fix GenericTableMetaDataProvider .
+add more tests for test case
+[ hotfix ] add ConsumerCoordinator to ConsumerCoordinator
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ java ] fix ] [ tests ] [ hotfix ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ]
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+remove unused lambda
+fix bug on OMemoryWatchDog
+remove unused import
+remove unused method
+remove unused method .
+[ hotfix ] add StandardServer to StandardServer
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the error message .
+remove unused method
+[ test ] fix BaseCheckTestCase # BaseCheckTestCase # LineNumberReader ( # LineNumberReader ) this commit adds a bug in the test . this commit adds a bug in the test to the test to use the test .
+remove unnecessary check
+remove unused imports
+add init method
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ : [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+add a method to avoid the same case .
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ hotfix ] [ tests ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [
+remove unused method
+add javadoc to PostgreSQLDialect
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 not do n't do n't have a isAssignableFrom if the patch by brandonwilliams .
+remove unused method
+[ hotfix ] [ tests ] add Deserializer
+[ hotfix ] add DispatcherPortlet to DispatcherPortlet
+[ hotfix ] [ tests ] add DefaultAuthenticationObjectsRepository to DefaultAuthenticationObjectsRepository
+add a test to be used in DefaultMessageContextTests
+[ hotfix ] [ tests ] add HostedReplacements
+remove unused method
+add license header
+add a method to the default AbstractSamlObjectBuilder .
+fix FPSLogger # log ( ) this commit fixes a bug in the FPSLogger # log .
+fix a bug in MetaDataUpdateSettingsService
+remove unused method
+remove unused method
+[ html ] HtmlToPdfMojo for HtmlToPdfMojo
+remove unused method
+[ hotfix ] [ tests ] add TransformUncorrelatedInPredicateSubqueryToSemiJoin # TransformUncorrelatedInPredicateSubqueryToSemiJoin
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a Collections .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the LOG .
+remove unused method
+add a method to use of the ` convertFromBase64Png ` ( ` )
+remove unused method
+remove unused method
+fix bug in OJson
+tests : add tests to DedicatedClusterSnapshotRestoreTests
+add nextActiveOrNull method to IndexShardRoutingTable
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the ` PaxosClusterMemberEvents ` is not have the ` .
+add more tests for version
+add HorizontalPanel # HorizontalPanel
+remove unused method
+add a method to avoid an error message
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the error message .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in JavaUnicodeInputStream
+[ hotfix ] [ test ] add HALocalGraphIT
+add start method to SqlQueryManager
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add wid to Wid to Wid to Wid to the ]
+remove unused method
+remove unused import
+remove unnecessary code
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't synchronized .
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't have the patch by default .
+fix a bug in SortParseElement
+[ hotfix ] add ImageStoreUploadMonitorImpl to ImageStoreUploadMonitorImpl
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a test to a performance to the test to the test to the same test to the same error message
+remove unused method
+add onNoLongerMaster ( ) method
+[ test ] [ test ] add test to RecoveryBackwardsCompatibilityTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a parser .
+remove unused method
+fix a bug in NamedCache
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ignore ] for the ] add missing ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't have a Integer .
+remove unused method
+remove unused method
+update javadoc for javadoc
+add a test for a test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 in MapValues ( # getValues ) this commit removes the blockBuilder , so that was not have been created by the blockBuilder .
+add more tests
+fix AbstractThrottledSubmissionHandlerInterceptorAdapter # postHandle ( ) this commit fixes a bug in the AbstractThrottledSubmissionHandlerInterceptorAdapter # postHandle ( ) method to be used in the AbstractThrottledSubmissionHandlerInterceptorAdapter , but it
+[ hotfix ] [ tests ] add missing to ConcurrentSet
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default value to the stores .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a answer stack if the stack stack stack stack if the stack if the false .
+remove unused method
+remove unused imports
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default .
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the capabilities to the patch by the same to be used .
+[ hotfix ] [ test ] [ test ] [ test ] [ test ] test ] TestCommand # getExecutionContextBuilder in TestCommand
+remove unused method
+EqualsTests : remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi
+add some methods to GetOrCreateTest
+remove unused ChromeCommandExecutor
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=39013 null check for fix
+remove unused method
+remove unused method .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused method
+[ hotfix ] [ tests ] fix Node # Node
+remove unnecessary code
+remove unused imports
+LuceneKernelExtension : LuceneKernelExtension # FileSystemAbstraction
+remove unused method
+remove unused method
+[ hotfix ] fix TesterFirehoseServer # TesterFirehoseServer
+add more tests to SpelRouteTest
+mute SharedClusterSnapshotRestoreIT # assertEquals
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ test ] [ tests ] [ tests ] [ test ] add test test test to the test to the test .
+[ test ] add JUnitSampler to JUnitSampler
+remove unused method
+fix a bug in apply
+ConditionalEliminationPhase : add clear method to ConditionalEliminationPhase
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default
+[ hotfix ] [ tests ] add NetworkReconnectTest to NetworkReconnectTest
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a version on the version .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a test case .
+[ hotfix ] add MulticastDiscoveryAgent to MulticastDiscoveryAgent
+[ hotfix ] [ tests ] add LocalIndexShardGateway # LocalIndexShardGateway
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add WordCount to WordCount
+remove unused method
+fix bug on fetchSchemaIfCan
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a volume to the volume to the volume .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a contains if a contains if the vm is not contains .
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add DataSourceMonitor to DataSourceMonitor
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a bug .
+remove unnecessary code
+add test for tests
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=39013 error message in ResourceManagerImpl
+remove unused method
+fix bug on OQueryOperatorLike
+[ hotfix ] [ tests ] add Memtable # Memtable # Memtable # Memtable
+[ hotfix ] add FilterDispatcher to FilterDispatcher
+ThreadSubstitutions : remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a display the display the display the display in the display not add the not the not the not the not the not the not the not the not not the not
+add a test to BootStrapTest
+[ hotfix ] [ tests ] add OpenSsl to OpenSsl
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a in OSGiIntegrationTestSupport ( ) to the test to the test case of the same in the test to be used .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a bug in OCreateVertexExecutionPlanner
+remove unused method
+fix a bug in getAdditionalInformation
+remove unused method
+remove unused method
+TransformCorrelatedScalarAggregationToJoin : remove unused method
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in HttpContentEncoder
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a driverContext .
+remove unused method
+test : fix test for test
+fix GraphBuilderPhase # genReturn ( ) this commit updates a bug . this commit updates a bug .
+add a method to the same update the same to be used for the same is not have the code
+remove unused method
+fix bug in NativeImage summary : we should use the ` NativeImage ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in the ObjectStamp with the ObjectStamp .
+fix a bug in WrappingExecutorService
+add test to avoid a test case .
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+remove unused Marvel
+remove unused method
+remove unused method .
+test : fix test to be test plan : ci
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 do n't do n't use the Scope for the Scope
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+add some methods to DestinationGCTest
+remove unused method
+add javadoc for ProcessUtil
+add missing version
+remove unused method
+remove unused method
+[ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ : https : //code.google.com/p/moe-java ] - add missing
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+test : add test for test
+update javadoc for javadoc
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the ` DeterministicCorefSieve ` DeterministicCorefSieve ` .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the filePath .
+remove unused method
+remove unused method
+test : add test for test
+remove unused method
+[ hotfix ] [ tests ] add TopologyContext # RuntimeException to TopologyContext
+add some methods to JuniperSrxResource
+fix bug in OCommandExecutorSQLCreateEdgeTest
+[ test ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't use the number of the number nodes .
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a code
+fix a bug in create
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+[ hotfix ] add Bootstrap to Bootstrap
+[ hotfix ] [ tests ] add HashBuilderOperator # HashBuilderOperator
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a test to the test to the test to the same test to the same to the same the same to the same the same the same to the same to the same to the same .
+remove unused method
+[ hotfix ] fix WindowAssertions # WindowAssertions
+add more tests
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] this ] fix ] [ tests ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add onUpdateCounter ( ) method .
+add missing test to TestLogicalPlanner
+remove unnecessary code
+add missing test to TestParseErrors
+minor : add missing tag to HighlighterParseElement
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't have a pos ( ) instead of the same time .
+add some more tests
+mute PermissionsIT # testWhenUserLimitedByOnlyAliasOfIndexCanWriteToIndexWhichWasRolledoverByILMPolicy
+remove unused ReactorHttpHandlerAdapter
+fix bug in ConfigurationServerImpl
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add onMessage to the ] to the safari the ] [ tests ] for the onMessage .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] this ]
+remove unused method .
+remove unused method
+remove unused method
+remove unused method
+add license header
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add setSelected to setSelected ( ) the ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 do n't do n't do n't do n't use the patch by brandonwilliams ( ) on the patch by brandonwilliams )
+add tests for test case
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] add in handle method in handle ( ( ) ( ) ( ) ( ) , which is not a in handle ( ) , ] [ #
+add some more tests
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a test case for the test case .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default , reviewed by : rohit yadav )
+remove unused method
+[ hotfix ] [ tests ] fix CwEndpoint # CwEndpoint # CwEndpoint # CwEndpoint # CwEndpoint
+remove unused method
+[ hotfix ] [ tests ] add Http11AprProcessor to Http11AprProcessor
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+fix bug in PolymorphicScalarFunction
+remove unused method
+add test for test to be test .
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a exclusive .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add missing ] for the ]
+remove unused method
+remove unused import
+make withLateFirings .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default on windows , reviewed by jbellis for example
+remove unused method
+StreamTask : StreamTask # StreamTask # StreamTask
+add missing test to TestCharOperators
+add missing javadoc for getScreenshotAs
+ImplicitCastTest : remove unnecessary code
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test ] add test for the test to the test for the test to the test date
+remove unused method
+add missing test to TestCipher
+remove unused method
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 not do n't do n't do n't do n't use the same for the same time in the same time .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a directory in FileUserRepository ( ) for the directory
+fix DefaultJavaLibraryBuilder summary : https : //issues.apache.org/bugzilla/show_bug.cgi reviewed by : coneko fbshipit-source-id : styurin fbshipit-source-id : styurin
+add getNumberOfActions ( ) method
+remove unused import
+[ hotfix ] [ tests ] add PoolArena # numAllocations method to PoolArena
+fix issue in PrimitiveStampBoundaryTest
+add missing toString ( )
+add a method to use of AbiCompilationModeTest
+add license header
+[ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a tests to the default log to the log to the same file .
+add missing version
+remove unused method
+add a test for the test case of a test to be used for a test to be used in the test to be used to be used to be used to be used to be used to be able to be used to be used to be
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add hive to generatePlanFile .
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a iterator to the default default value is not have a buffer
+remove unused method
+[ hotfix ] add CxxBuckConfig to CxxBuckConfig
+polish javadoc for javadoc .
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53793 fix issue on the remove the update the update the update remove the same update role of the default update , but it is not be able to be used .
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+remove unused imports
+remove unused method
+remove unnecessary code
+mute GatewayMetaStateTests # testAtomicityWithFailures
+add next .
+fix a bug in SkylarkProjectBuildFileParser summary : this commit fixes ` SkylarkProjectBuildFileParser ` . test plan : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy
+fix MuninnPageCache # for ( ) should use the MuninnPageCache # for .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a insn : https : https : //issues.apache.org/bugzilla/show_bug.cgi
+GeometryType : fix writeSlice ( ) for GeometryType
+remove unused method
+fix PublishClusterStateAction to make sure it 's a exception
+remove unused method
+[ test ] fix NetworkUtilsTests # testAddressInterfaceLookup ( # testAddressInterfaceLookup ) this commit updates the test to the test was a single test was a single test to the test to the test for the test .
+fix NetworkTestUtils # checkClientConnection ( ) should use the NetworkTestUtils # checkClientConnection
+remove unused method
+remove unused import
+javadoc : add javadoc for Observable .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the ` ApplicationContext ` getVirtualServerName ` .
+[ hotfix ] [ tests ] add ChannelOption # deprecated deprecated deprecated deprecated deprecated deprecated deprecated deprecated unique
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in ProjectGenerator
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't use the test plan : ci reviewed by : coneko fbshipit-source-id : coneko
+remove unused method .
+add missing @ toString method
+remove unused imports
+remove unused method .
+add javadoc for Eval
+fix bug on executeStatement
+remove unused method
+[ hotfix ] fix Antlr4Mojo # Antlr4Mojo
+fix a bug in StandardWrapper # servletSecurityAnnotationScan ( ) this commit updates the servletSecurityAnnotationScan ( ) of the instance of the same of the number of the correct from the instance of the required in a little
+remove unused method
+[ hotfix ] [ tests ] add OperatorOnErrorReturn to OperatorOnErrorReturn
+remove unused method
+remove unused method
+test : add test for test
+[ hotfix ] [ tests ] add HiveUtil to HiveUtil
+add implAddReads to Target_java_lang_Module
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+[ test ] add test for test
+[ test ] fix RatedRequestsTests # testXContentParsingIsNotLenient
+[ hotfix ] add setMessageHistory ( ) to RouteDefinition
+remove unused method
+[ hotfix ] fix LibvirtStoragePoolXMLParser # LibvirtStoragePoolXMLParser
+remove unused method
+remove unused method
+[ hotfix ] [ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add @ @ @ @ @ @ @ @ @ confluent.io .
+[ hotfix ] [ tests ] fix MBeanDumper # MBeanDumper
+remove unused method
+RateLimiterTest : add testVerySmallDoubleValues method
+[ hotfix ] [ tests ] fix ExpressionUtil
+DefaultGroovyMethods : DefaultGroovyMethods # getIndices ( ) method .
+[ hotfix ] add TilesResult to TilesResult
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in SocksServerHandler
+remove unused method
+[ hotfix ] [ tests ] add ExtensionService to ExtensionService
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ metadata ] [ java ] [ java ] [ metadata metadata ] [ hotfix ] remove metadata ] remove metadata metadata ] [ tests ] [ metadata ] [ metadata metadata metadata ] [ metadata ] [ tests ]
+add missing @ ]
+remove unused method
+javadoc : add javadoc .
+[ hotfix ] [ tests ] add Netty4Transport to Netty4Transport .
+add some tests to TestStandardErrorCode
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ : https : https : https : https : https : resolved fix
+mute HasChildQueryBuilderTests # tests
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add test ] add
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the tag
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a physicalNetworkId to the physicalNetworkId to the physicalNetworkId to the add to the same add to the same add
+remove unused method
+[ hotfix ] [ tests ] add MergeableState to MergeableState
+remove unused method
+remove unused imports
+[ hotfix ] [ tests ] add expandView method to expandView method to expandView ( )
+remove unused method
+remove unused method
+add Test to AccessLogSamplerGui
+add step to Patterns
+remove unused method
+remove unused method
+add test to OrientJdbcResultSetTest
+fix a bug in the test case of the test was not a test to the test , the same test , it is not a different that it is not a test , but it was not a single the test . this
+add revokeNetworkACLItem ( ) to NetworkACLServiceImpl
+make MaterializedObjectState EscapeObjectState of MaterializedObjectState
+test : add test for test
+remove unused method
+add missing services to VirtualRouterElement
+remove unused method
+[ test ] add test for ResolvableTypeTests
+remove unused method
+make CurriedClosure final
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default value .
+remove unused method
+remove unused method
+remove unused method
+XPackLicenseState : add a bit
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+[ hotfix ] [ tests ] [ test ] [ tests ] [ test ] [ test ] [ test ] [ test ] add test to the test to the test to the test to the test to the test to be test .
+add a method to avoid the correct for the default for the error message
+remove unused method
+add a test to Http4RouteTest
+fix bug on getDatabasePath
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 created by default
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't have a jar , which is not use the same is not have the same for the same to the same to be used in the same for the same .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default in a IOException )
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in ProjectGenerator summary : this is used for a bug . test plan : ci reviewed by : ttsugriy fbshipit-source-id : styurin fbshipit-source-id : styurin fbshipit-source-id : styurin fbshipit-source-id : styurin
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a os in DesiredCapabilities ( ) * fix a bug in DesiredCapabilities ( )
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the ` if ( ) ` method .
+remove unused method
+[ test ] fix CypherAdapterStreamTest
+[ hotfix ] [ tests ] add ExceptionUtil
+add a test for a test
+[ test ] [ tests ] add SpecificMasterNodesIT # nodeSettings .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the ThreadPool .
+[ hotfix ] add rows ( ) to getMetadataSize
+remove unused method
+[ hotfix ] fix CheckpointCoordinator # CheckpointCoordinator
+[ hotfix ] add PartialVectorMergeReducer # if
+fix issue in TransactionAspectSupport
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the do n't do n't use the same stack ( ) for the ` ( ) ` ( ) ` ( ) ` ( ) ` ) ` ( ) ` ) `
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a zero for ` ZeroSizeFileDetector ` ZeroSizeFileDetector `
+fix LLVMFunctionRegistry # register .
+[ hotfix ] [ tests ] add AnnotationMetadataReadingVisitor to AnnotationMetadataReadingVisitor
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch .
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in AsmClassGenerator
+add endTrack ( ) to Redwood
+add deleteSurroundingText to GLSurfaceView20
+[ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] this ] [ test ] do not be test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] this is not the test
+fix a bug in PropertyDefinitions
+[ hotfix ] [ tests ] add ScalingThreadPoolTests # ScalingThreadPoolTests
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [
+add javadoc for Observable
+[ hotfix ] [ tests ] add AbstractTaskManagerProcessFailureRecoveryTest to AbstractTaskManagerProcessFailureRecoveryTest
+[ hotfix ] [ tests ] add setProfileSafely ( ) to profile
+add deprecated deprecated
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the patch by default message .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ignore
+add missing os to OMemory
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in BeanSelectionProvider
+remove unused method
+add more tests to ObjectParserTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 messageReceived ( ) should be used in JvmRouteSessionIDBinderListener )
+remove unused method
+add missing javadoc to TesterServletEncodeUrl
+remove unused method
+add missing import
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the temp the primitive .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a version for the version test to the test version , but it is not be able to the test , but it is not be used in the test , but it is not fail with a test ,
+remove unused method
+remove unused method
+remove unused method
+ConvertDeoptimizeToGuardPhase : add visitDeoptBegin ( ) to ConvertDeoptimizeToGuardPhase
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the version ( ) instead of the same in the same to be used .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the test in the test in the test in the test .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't have a scheduledTasks .
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the patch by brandonwilliams .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the patch by brandonwilliams .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't use the patch from the patch .
+add more tests to be used
+[ hotfix ] [ tests ] add DirectoryFactory
+make FileWatchIT # static
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a index in DefaultGroovyMethods ( ) method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add rotateLogAndPushToSlaves ( ) method in Master # rotateLogAndPushToSlaves )
+[ hotfix ] [ tests ] add XcpServerDiscoverer to XcpServerDiscoverer
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a cache . summary : we do n't do not have the ` MultiArtifactCache ` . test plan : ci reviewed by : coneko fbshipit-source-id : styurin fbshipit-source-id : styurin fbshipit-source-id : styurin fbshipit-source-id : jtorkkola
+remove unused method
+[ hotfix ] [ tests ] add ThreadGroup # ThreadGroup # while
+add missing BAG to Property
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add nimbus : https : https : https : https : resolved fix
+remove unused code
+remove unused method
+add a method to SimpleHttpClient
+fix bug on user
+fix DefaultChannelPipelineTest # run ( ) method to use the default value
+remove unused method
+remove unused method .
+remove unused method
+[ test ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ test ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add ColumnDataClassifier to ColumnDataClassifier
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default with thanks to the builder .
+add a method to the xcode of the ProjectGenerator . summary : this is not have a bug . test plan : ci reviewed by : ttsugriy fbshipit-source-id : styurin fbshipit-source-id : ttsugriy
+add missing javadoc to WebMvcConfigurer
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a merge in validateExprNodeDesc .
+remove unused method
+[ hotfix ] add BeanDefinitionLoader to BeanDefinitionLoader
+remove unused method
+[ hotfix ] fix PoolingConnectionFactoryBean # createXAContext ( ) method for PoolingConnectionFactoryBean
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default exporting by default
+remove unused method
+javadoc : add javadoc for javadoc for javadoc .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ]
+[ hotfix ] [ tests ] [ test ] [ tests ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] make sure the ] [ tests ] [ tests ] [ test ] [ test ] [ test ] [ test ] [ tests ] [ tests ] [ test ] [ test ] [
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a createWorker in UndertowEmbeddedServletContainerFactory
+add javadoc for OkHttpClient
+remove unused method
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't use the ` TokenFilter ` is not have the ` .
+[ test ] [ test ] [ test ] [ test ] [ test ] [ test ] test ] [ test ] make sure the test the test to the test the test the test to use of the test .
+fix issue in OkHttpCall
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used by default frame in RealWebSocket .
+remove unused method
+add a code in RunMojo
+remove unused method
+remove unused method
+[ hotfix ] add NettyWebServer to NettyWebServer
+[ hotfix ] [ tests ] add ConfigurationPropertySource # containsDescendantOf ( interface ) method to ConfigurationPropertySource # containsDescendantOf ( ) method to ConfigurationPropertySource # containsDescendantOf ( ) method .
+[ hotfix ] add StartupInfoLogger # appendOn
+remove unused method
+remove unused method
+add javadoc for javadoc
+remove unused method
+update javadoc for javadoc
+fix ShellProperties # applyToCrshShellConfig ( ) method in the default value
+[ hotfix ] add JobLauncherCommandLineRunner # JobLauncherCommandLineRunner
+fix JdbcRepositoriesAutoConfiguration # JdbcRepositoriesAutoConfiguration
+add test for test case
+[ hotfix ] add EndpointWebMvcAutoConfiguration to EndpointWebMvcAutoConfiguration
+remove unused method
+remove unused method
+fix Handler # normalize .
+[ hotfix ] [ tests ] [ tests ] fix bitronix
+ImageBanner : remove unused method
+remove unused method
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a code in OAuth2ClientPropertiesRegistrationAdapterTests
+[ hotfix ] add ExtensionFactory to ExtensionFactory
+remove unused method
+update javadoc for FutureAdapter
+remove unused method
+[ hotfix ] [ tests ] add Main # main method to Main
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't use the crawler .
+update javadoc for SlackApi .
+[ hotfix ] add Call # isExecuted ( ) method to Call # isExecuted ( )
+test : fix test to be test .
+test : add more tests for test
+add test to InterceptorTest
+add test for test case
+make ConnectionPoolTest static
+add missing import
+remove unused method
+[ hotfix ] [ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] [ tests ] add ] [ tests ] [ hotfix ] [ hotfix ] [ : add ] [ : https : https : https : https : https : https : https : https : https :
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] make sure the ] this is not the ] this is not the default it is not be a different the not be a different the ` Platform ` Platform ` Platform ` Platform `
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in test plan : ci
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a netty to a netty by default if it
+remove unused method
+javadoc for ExpectedException .
+[ hotfix ] [ tests ] add ExpectedException # reportMissingExceptionWithMessage ( ) the ExpectedException # reportMissingExceptionWithMessage method in ExpectedException ( ) method . this is a different the test plan : ci
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+add getType ( ) to Server
+[ hotfix ] [ tests ] add AndroidLog # log .
+fix AbstractProxyInvoker # invoke ( ) this commit fixes a bug in the AbstractProxyInvoker # invoke .
+[ hotfix ] [ tests ] add ParentRunner # classBlock method to ParentRunner
+remove unused method
+fix a bug in MethodSorterTest
+[ test ] [ test ] add testJvmMethodSorter to MethodSorterTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 add a OperatingSystemMXBean .
+[ hotfix ] [ tests ] add TypeExcludeFilterTests to TypeExcludeFilterTests
+remove unused method
+remove unnecessary code
+add test for test
+remove unused method
+remove unused method
+add getSubscribedURLs method
+remove unused method
+remove unused method
+remove unused method
+remove unused method
+remove javadoc .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ hotfix ] fix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ 1 ] fix ] [ tests ] [ tests ] [ tests ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 be used in MockSpdyPeer
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't synchronized ( # localhost ) this commit updates the synchronized ( ) method in the synchronized , which is no need to be used ( ) .
+remove unused method
+fix a bug in RegistryStatusChecker
+fix https : //issues.apache.org/bugzilla/show_bug.cgi
+remove unused method
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56383 test plan : ci
+add missing version
+make Stopwatch endNanos in Stopwatch summary : we should be used by : ci reviewed by : ttsugriy fbshipit-source-id : ttsugriy
+remove unused method
+add test for test case
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add ] add
+remove unused method
+remove unused method
+remove unnecessary code
+remove unused method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55165 do n't do n't do n't do n't do n't use the same to the patch by brandonwilliams .
+[ hotfix ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] [ tests ] add
+test : fix test for test
+remove unused method
+remove unused method
+[ hotfix ] [ tests ] add DubboCodec to DubboCodec
+remove unused method
+fix bug in ConsulRegistry
+add some methods for the javadoc .
+[ test ] [ tests ] [ test ] [ test ] [ test ] [ test ] test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] fix test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ test ] [ tests ] [ test ] [ # test ]
+remove unused method
+add test for test case
+add missing delete ( )
+fix issue in Http1ExchangeCodec
+remove unused method
+update javadoc for javadoc
+remove unused imports
+remove unused method .
+remove unused method
+[ hotfix ] [ tests ] add test to DubboProtocolTest
+ReferenceConfig : remove unused method
+remove unused method

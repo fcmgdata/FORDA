@@ -1,0 +1,1000 @@
+add test to add a new test to make it easier to ensure that the binding of the properties is used in the properties . fixes gh-1689
+add test to cover customized the test .
+remove MutablePropertySources support
+polish 'add support for documentation for running in spring mvc tests
+fix tests for RunningDocumentationTests
+remove unnecessary casts
+polish 'remove an unnecessary ' closes gh-16262
+remove @ ignore annotation
+simplify code .
+test : do n't get rid of the logging if we do n't need to get the logging
+fix a bug in LocalHostWebConnectionHtmlUnitDriverTests now .
+use try-with-resources instead of FilterOutputStream
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42077 do n't use correct value .
+polish 'add support for annotation adapter ' closes gh-14156
+add a test for properties in tests
+fix a typo in WebRequestTraceFilter this commit fixes a bug in WebRequestTraceFilter .
+make sure that the webEnvironment is used in port on windows . fixes # 2608
+remove unnecessary println
+remove unused imports
+make SpringBootVersion final
+add test for issue # 219
+[ hotfix ] [ runtime ] remove redundant print method in SpringApplicationBannerPrinter
+remove unused code
+use the correct ServletContextInitializer rather than the undertow
+fix typo in hal error message
+fix test for https : //bz.apache.org/bugzilla/show_bug.cgi
+disable SampleCouchbaseApplicationTests # testDefaultSettings
+fix test failure
+simplify code in IntegrationAutoConfigurationScanRegistrar
+[ test ] use task in ESRestTestCase
+fix test to work .
+fix error message for invalid identifier
+GraalCompiler : use try instead of deprecated method
+remove unused field reviewed by : styurin fbshipit-source-id : 186d61eef3
+implement getChildren ( ) and getChildren ( )
+fix hive log message
+fix InternalTestClusterTests . this commit fixes InternalTestClusterTests .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52326 fix npe patch provided by sebb
+TikaConfig : use getText instead of builder
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in the query is not initialized .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct method in AbstractTestContextBootstrapper
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling of the patch provided by sebb
+fix broken test for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47512 fix the test case
+fix a bug in FromFileInterceptSendToIssue
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48729 do n't use null as null as null as null as null .
+fix a typo in DefaultExecutorServiceStrategy
+use readerFromFile instead of InputStreamReader
+make sure that InstrumentationTestLanguage are not used in an exception .
+add some more tests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct output output .
+fix bug on creation of SpannerOptions options
+remove unnecessary casts
+[ tests ] add TCPTransportTests # testCompressRequest
+[ hotfix ] [ runtime ] add serializer to ColumnSerializer
+remove unused import
+remove unused imports
+fix test bug
+[ hotfix ] [ runtime ] add deleteAsync method to SimulatorImageStoreDriverImpl
+[ test ] add a outputTestNames to the output FIREFOX
+fix a bug in TestFlatten
+correct javadoc of JpaTransactionManager javadoc
+[ hotfix ] [ runtime ] TicketRegistryDecorator # toLowerCase original commit : elastic/x-pack-elasticsearch @ ticket
+fix test bug
+[ test ] fix init to init
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52591 use correct method in CasHazelcastThrottlingConfiguration
+deprecate AbstractChannel # invalidateLocalAddress ( )
+add null check for null value to avoid npe in shield
+add more logging to ClassNode
+fix a bug in ConfiguredAuthScenariosInteractionTestBase
+fix bug on fix by using the patch .
+[ hotfix ] [ tests ] use SpringExtension # beforeEach method
+[ hotfix ] [ runtime ] do n't android unsafe unsafe unsafe android unsafe in the platform buffer message .
+applied patch by luca molino to fix the issue of the issue with thanks to the patch .
+use stopServices in DirectComponent
+[ test ] fix logging in IngestBootstrapperTests
+do n't throw an error message when the nio future is not found
+add missing @ since tag to TransformEvaluatorFactory
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 use correct UnsupportedOperationException
+add missing override annotation .
+remove unused code
+add more debug output
+remove unused import
+add ArrayIndexOutOfBoundsException to LDAMapper
+[ hotfix ] [ runtime ] make TargetPatternEvaluator extend TargetPatternEvaluator # preloadTargetPatterns
+remove dead code
+[ hotfix ] [ runtime ] add javadoc for DirectedMultiGraph constructor
+[ hotfix ] [ runtime ] NettyProducer # debug to debug logging debug to debug to debug of NettyProducer
+add some more support .
+fix a typo in DistBuildArtifactCacheImpl test plan : ci reviewed by : coneko fbshipit-source-id : 137a9bc
+[ hotfix ] [ tests ] [ runtime ] [ tests ] [ tests ] [ runtime ] [ tests ] [ tests ] [ tests ] [ runtime ] [ tests ] [ tests ] [ tests ] [ tests ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ] [ runtime ,
+add test for openssl cipher
+make the field final
+remove unused code
+[ hotfix ] [ runtime ] handle log path for log in handle
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 use the correct reauthentication .
+[ hotfix ] [ tests ] remove unused code in ComputeCapacityListener
+fix test case for issue on windows .
+improve documentation of documentation
+add test to prove
+use unmodifiableSet instead of copyOf
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct of .
+remove debug code
+fix cs for camel-restlet
+remove unnecessary null check
+rename SpanishTokenizerTest to SpanishTokenizerITest
+fix test failure
+remove the system.out.println
+remove unused method .
+refactor CxxInferEnhancer to use ImmutableSet summary : this makes it easier to be more consistent with multiple times . test plan : ci reviewed by : coneko fbshipit-source-id : 439d492
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct formatter .
+fix javadoc example in replayingdecoder
+fix a typo in DefaultGroovyMethods
+[ test ] add more logging in RelocationIT
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 patch provided by sebb
+add logging to ec
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 do n't throw an exception when the SAXException name .
+fix a bug in SelectBox .
+[ hotfix ] [ tests ] fix AllChecksTest # getCheckStyleChecksReferencedInConfig
+[ hotfix ] [ tests ] refactor SparkProcessContext # noElementWindowedValue
+remove javadoc for @ override
+add background to ArgumentsPanel
+correct javadoc typo
+add missing @ since tag
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 if there is no attachingPool
+tests : add more logging to ApplicationContextExpressionTests
+add more info to the console name of the default value for the test
+add more tests to PooledTopicPublisherTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47881 fix npe when the secondary secondary storage
+simplify code .
+fix a bug in case of MockConfigurationDaoImpl .
+fix a typo in RuleKeyDiagnosticsListener summary : fix a bug that was not used . test plan : ci reviewed by : coneko fb-gh-sync-id : coneko fb-gh-sync-id : coneko fb-gh-sync-id : 57ea914
+rename InputNoJavadic to InputNoJavadoc
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49075 npe when a BrokerService is n't closed . patch provided by brandonwilliams .
+add missing license header
+polish javadoc for AbstractPerfTimesStats
+[ test ] add more logging to TestApplicationContext
+[ hotfix ] [ tests ] fix PipelineTest # testMultipleApply
+fix for : https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47518 do n't use debugger for debugger .
+add more javadoc to BehaviorProcessor .
+increase default value for default value to help text
+truffle : do not based on split splitting .
+improve error message for the clustering descriptions in CausalClusteringSettings .
+add test for streams
+minor : remove the code of security security security methods
+fix test bug
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use the true for the log
+fix cs for camel-base
+improve javadoc .
+revert `` fix for https : //bz.apache.org/bugzilla/show_bug.cgi '' this reverts commit 45c375c38e1a02347c17d172a6bd7dc68aebcdd4 .
+[ hotfix ] [ runtime ] refactor InternalResourceGroup
+fix a bug in CassandraClientModule . summary : fix a bug where the cassandra was not being used in the cassandra that the same thing . test plan : ci
+improve error message for the test case .
+add test for issue # testRangeWithOverflow
+remove unused imports
+remove @ beta from Joiner -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=24676130
+correct javadoc typos
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 avoid npe when a new one files .
+[ test ] make sure that the stack trace is not used by default .
+add test case to StubJarTest
+[ hotfix ] [ runtime ] rename Version to Version
+use sendClose close method
+fix test bug
+use saturatedAdd instead of ArithmeticException
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52725 do n't include the count when intersect are provided by intersect
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct size
+add support for GraphBuilderPhase in BytecodeParser
+rename PerBuildStateFactory to use targetNodeFactory instead of TargetNodeFactory .
+add more tests
+mute RecoveryIT # testRecoveryWithConcurrentIndexing relates to # testRecoveryWithConcurrentIndexing
+add missing @ since tag
+simonstewart : add some more useful for the By methods .
+use AsyncRestTemplate instead of MockRestServiceServer
+fix cs for camel-restlet
+make ResourceEntry volatile volatile that we can be used by default . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=114967372
+fix a bug in DefaultJavaLibraryBuilder summary : use the ` sourceAbisEnabled ` sourceAbisEnabled ` . test plan : ci reviewed by : coneko fb-gh-sync-id : 4daeb17
+remove unnecessary casts
+RegisterTemplateCmd : remove unnecessary since value
+[ scene2d ] add InliningLog # BytecodePositionWithId
+add $Revision final
+make GcsPath final
+remove unnecessary casts
+polish javadoc for testcontextbootstrapper '
+add @ since tag
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct regression in the patch provided by sebb
+remove duplicate code
+fix test failure
+add some more logging to DemandForwardingBridgeSupport
+remove unnecessary casts
+make TypedSet use IntBigArray
+make sure we add an exception to the engine to the descriptors
+fix a typo in FailoverTransport this commit fixes a typo in a bug in the failover failover failover .
+[ hotfix ] [ tests ] fix AnalyzerMapper # postParse
+fix a bug where the ip was not using the exception instead of the same thing . the api call to warn the api from the api in the api .
+fix a bug in DerivativePipelineAggregatorBuilder .
+fix test bug
+fix a bug in the test case .
+[ test ] fix typo in RelocationTests this commit fixes a bug in RelocationTests .
+add some javadoc
+fix a typo in AccessLogSampler
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48050 createsubcontext error message for the correct image .
+remove deprecated code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 fix npe protection to a bug in PojoMethodMapping constructor .
+rename TestPBECredentialHandler to TestSecretKeyCredentialHandler
+[ hotfix ] [ runtime ] use null check in PageSinkManager
+use BuildEngineAction instead of inputBasedRuleKeyIsEnabled . summary : this is a way that SupportsInputBasedRuleKey can be used in SupportsInputBasedRuleKey reviewed by : ttsugriy fbshipit-source-id : d7c593e
+add missing @ since tag
+fix test bug
+fix a bug in RegexLanguage .
+minor : improved message
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42077 do n't use correct attributes .
+add missing license header .
+fix a bug in NetworkManagerImpl
+use EC instead of EC
+remove unused import
+improve error message for the runner . summary : this is no need for this . test plan : ci reviewed by : coneko fbshipit-source-id : 3fcf11e
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . summary : fix a bug where project is n't used . test plan : ci reviewed by : coneko fb-gh-sync-id : bertmaher fbshipit-source-id : dca4cf9
+[ hotfix ] [ docs ] add javadocs for IdempotentRepository
+minor : improved message in log message
+[ hotfix ] [ runtime ] refactor AbstractJob methods in AbstractJob
+remove unnecessary casts
+fix cs for camel-restlet
+add some more tests
+[ hotfix ] [ transaction ] add error message to TransactionTemplate
+[ hotfix ] [ tests ] refactor test configure
+add test case for issue # testSendAfterMissingHeartbeat
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 fix npe patch provided by sebb
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use the correct value rather than one instead of the correct value for the locale
+remove unnecessary null check
+fix issue on fix by
+make constructor public
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct failure message patch provided by sebb
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607
+remove an unused imports
+remove unused fields
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct value .
+fix a bug in CompatibleMarshallingDecoder . this commit fixes a bug in CompatibleMarshallingDecoder .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 patch provided by sebb
+[ hotfix ] [ tests ] fix TestNonBlockingAPI # TestNonBlockingAPI # start
+[ hotfix ] [ tests ] remove LOG message in FileCache
+improve error message for better error message
+remove unnecessary code
+[ hotfix ] [ state ] DaemonicParserState # toString
+remove unused code
+remove unused method
+add some more details of logging
+add some javadoc
+remove unused imports
+remove unused import
+alexeibarantsev : add missing test for test
+add missing @ since tag
+[ test ] add more tests to AnnotationScopeMetadataResolverTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47881 fix npe patch provided by sebb
+add missing dimensions to StructLiteralNode
+make sure that the the the the OnSubscribeBase can be used for the it 's possible to be used in the test .
+fix a bug in case of a bug
+deprecate render ( String ) methods
+add some javadoc .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45628 fix typo
+remove unnecessary casts
+polish javadoc for KafkaConfiguration
+[ test ] fix typo in AnnotationOutputterITest this test was fix in https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49860 test was fix .
+[ test ] fix typo in SearchServiceTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 a patch provided by sebb
+improve error message
+[ hotfix ] [ runtime ] do n't do n't do n't do n't do this closes # doVerb .
+add null check for null values in BaseTemplate
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use getBytes . patch provided by sebb
+fix test bug
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 fix a bug where possible npe is not used .
+fix javadoc typo .
+[ hotfix ] [ network ] use KafkaMessageId ( ) in PartitionManager
+fix javadoc comments .
+[ test ] TooManyJobsIT # ensureStableCluster after fix
+add missing license header .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53725 fix npe when agent to a host is not sure that is not closed .
+TestStartupTimeout : use TargetDirectory instead of ` TargetDirectory `
+[ hotfix ] [ runtime ] make explicitNoUnsafeCause0 ( ) in PlatformDependent0 # explicitNoUnsafeCause0 ( )
+[ hotfix ] [ tests ] make sure that SqlQueryManager # run
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct code patch provided by sebb
+LifecycleSettings : LifecycleSettings should use the correct value instead of the current time
+add missing @ since annotations to NdkLibrary summary : this makes it easier to run a little more consistent with a little bit more clear . test plan : ci
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 patch provided by sebb
+add more logging to NodeClass
+fix javadoc typo in TokenVocabParser
+add remove methods to JMeterVariables
+remove unused imports
+[ hotfix ] [ tests ] improve create method create
+[ hotfix ] [ runtime ] make sure that IndicesService # canDeleteIndexContents ( ) is used by default .
+fix an issue with the patch by jbellis
+remove unused method
+improve error message for the demo of demo of demo in the demo of the demo of the demo of the nlp .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=58058 patch provided by sebb
+deprecate exceptionCaught ( ) . -- -- -- -- -- -- - created by moe : https : //github.com/google/moe moe_migrated_revid=149314468
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch by jbellis
+[ hotfix ] [ tests ] fix typo in AuthIT
+fix error message for invalid client ip
+fix a typo in EndpointPair
+remove unused import
+handle debug in PublishClusterStateAction
+fix a typo in StubPageCursor # shouldRetry
+update copyright year in @ link
+add major to OConstants
+add more debug output
+deprecate hover ( ) . -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=64573579
+[ hotfix ] [ runtime ] refactor DataSink to use default parallelism
+remove unused code
+[ test ] fix typo in UberTestCase2
+add a comment
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 do n't use the tag .
+add test case for BuckEventBus summary : this makes it easier to be more readable . test plan : ci reviewed by : coneko fbshipit-source-id : d304270
+remove unused import
+fix typo in default error message . test plan : unit test reviewed by : coneko fb-gh-sync-id : coneko fbshipit-source-id : 2d0cf9a
+improve error message for invalid par
+fix cs for camel-restlet
+fix issue on http version of client
+[ version ] add version constant
+minor : add description of GenericFileConsumer constructor . author : ismael juma < ismael @ juma.me.uk > reviewers : ismael juma < jason gustafson < jason gustafson < jason @ confluent.io >
+remove unused import
+add isCacheable to JsFile summary : we need to make it easier to make it more clear . reviewed by : styurin fbshipit-source-id : 901aae7b59
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 patch provided by sebb
+remove dead code
+minor : fix issue with the patch by eevans
+add missing license header .
+remove unnecessary casts
+fix cs for camel-base
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 do n't use correct value .
+fix a typo in TaskExecutor constructor
+simplify logic of defaultBrowser
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52725 use correct java .
+use debug instead of debug
+remove unused imports
+extract methods in PlanFragmenter
+fix an issue with the correct id in ConfigurationManagerImpl
+fix a bug in the case .
+[ hotfix ] [ runtime ] refactor ObjectDecoder # close ( ) * fix ObjectDecoder # close ( # close )
+fix a typo in ThreadPool .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=39013 use correct iCreate in OrientGraphFactory
+improve error message for invalid search by default
+add test case for issue # 219
+[ hotfix ] [ runtime ] add javadoc to @ @ @ link comment
+improve documentation of @ link in javadoc . -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=41796838
+add some more tests
+[ hotfix ] [ runtime ] refactor AStar
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 use correct method .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 patch provided by sebb
+add test for issue # 561
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52326 log exception message patch provided by sebb
+[ hotfix ] [ tests ] remove printStackTrace in StreamTaskTest
+fix for https : //issues.apache.org/activemq/browse/amq-1475
+use writeFloatingPoint instead of writeFloatingPoint
+remove unused code
+make removeFromLeaf public
+do n't use paragraph for javadoc for JavadocParagraphCheck
+[ hotfix ] [ tests ] add AmazonLambdaClientMock # AmazonLambdaClientMock
+minor : improved message
+remove unused imports
+fix issue with the patch
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45628 fix typo
+fix issue with the patch . thanks for the patch .
+[ hotfix ] [ runtime ] refactor BaseOneByteHeaderRecordFormat # isInUse
+fix test case .
+remove debug code
+remove unused imports
+[ hotfix ] add JLabeledTextField constructor
+fix typo in Response this commit fixes a typo in Response .
+[ hotfix ] [ tests ] add debuggerMessage method to DataflowPipelineRunner
+[ hotfix ] [ runtime ] improve CompileStack # getVariable ( String )
+fix a typo in FileSystemProviderFeature .
+add more javadoc to PostgreSQLDialect
+[ hotfix ] [ runtime ] make sure from TypeExtractor # isAssignableFrom .
+remove unused field .
+use instantiators in Deserializer
+[ hotfix ] [ runtime ] add DispatcherPortlet # doRender method
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 use correct required instead of required for the new repository
+add some more debug output
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47881 fix npe when the npe is not used .
+add long constant for the bytes of PageBuilderStatus in the page in the page in the page in the status of the page in the page in the page and the PageBuilderStatus in the page in the status of the page the page in the page in the currentSize and the page in the page in the currentSize and the currentSize .
+add missing license header
+add a attribute to the default ns
+[ hotfix ] [ runtime ] [ runtime ] [ network ] [ network ]
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 patch provided by sebb
+remove unused code
+[ test ] remove unused variable in GetActionTests
+ensure that the pdf can be used
+simplify TakesScreenshotTest # testSaveScreenshotAsBytes
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct use correct method for a patch provided by sebb
+[ hotfix ] [ runtime ] change TaskExecutor to minimumNumberOfTasks
+ensure that the shuffle byte time . patch by jbellis
+improve error message for ScheduledPollConsumer .
+remove unused field
+add toString and toString and toString
+remove unnecessary null .
+revert `` fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=47881 '' this reverts commit e3d30c6be661bc52bcac23470f14bd0bd89b8641 .
+patch by luca molino about issue 3001
+add admin logging to DedicatedClusterSnapshotRestoreTests
+add counter to IndexShardRoutingTable
+remove unnecessary casts
+[ test ] delete writer to delete writer that we should not be used to delete writer .
+add HorizontalPanel constructor
+[ hotfix ] [ runtime ] add javadocs for Observable
+[ hotfix ] [ tests ] add CharSequenceEncoder # charsetToMaxBytesPerChar
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=55291 avoid npe when a processing of the processing is not initialized .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct host .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in JavaUnicodeInputStream .
+increase the per thread safety failures .
+add missing postconstruct to SqlQueryManager
+remove unused field
+Wid : use uuid instead of uuid
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42077 do n't use the same thing as the object .
+remove unused import
+[ hotfix ] [ tests ] remove unnecessary call to exceptionCaught
+minor refactor - remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53541 fix by correct test
+remove javadoc comments
+use the brokerUri instead of the BROKER_URI instead of the one
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct space .
+sort exception message
+increase default value for default value of image
+parallel native index generic in GenericNativeIndexProvider
+add more info to test case
+remove unused code
+add onNoLongerMaster ( ) method
+[ test ] disable RecoveryBackwardsCompatibilityTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48097 patch provided by sebb
+[ hotfix ] [ tests ] remove unused method in StoragePoolMonitor
+do n't throw an exception if the cache is not found
+suppress deprecation warning
+fix a bug in MasterServer
+[ hotfix ] [ runtime ] refactor EventDrivenConsumerRoute # addServices ( Route )
+AsmClassGenerator : use replace instead of static method
+fix javadoc example for trailingcommentcheck
+add more tests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct BlockBuilder .
+add property to PropertyNames
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 use correct trace instead of trace instead of recordEvent .
+add missing @ deprecated to javadoc
+better error message when the reloading is not null
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49075 npe protection to avoid npe .
+remove the system.out.println
+fix cs for camel-base
+remove EcmaDecryptor call to EcmaDecryptor
+NodeLIRBuilder : implement allowObjectConstantToStackMove .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 fix a bug that was not used .
+fix a bug in NodeManager .
+remove unused code
+fix a typo in FieldCapabilities
+fix a bug in TestCommand summary : the test plan : ci reviewed by : coneko fbshipit-source-id : b47da45
+disable UserAggregationFunctionProcessorTest # processor .
+[ test ] mute failing EqualsTests # testBranchEqualsDefAndPrimitive
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 do n't throw an exception when transaction , it 's possible for each time
+[ hotfix ] [ tests ] use failure in GetOrCreateTest
+remove unused imports
+minor : improved error message
+use ErrorHandler in MessageDispatchInterceptor
+remove debug code
+fix error message for build
+remove unnecessary code
+do n't use correct value for version number of # info
+fix a bug in SortParseElement
+issue # 2276
+add constructor .
+[ test ] use build in AbstractSimpleTransportTestCase
+make TextField static
+increase default value for time to be NUMBER2
+add a test case for a spel spel .
+[ test ] mute SharedClusterSnapshotRestoreIT # testSnapshotSucceedsAfterSnapshotFailure
+add setUp method to TestShowStats
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by brandonwilliams , reviewed by brandonwilliams for cassandra-3972
+remove unused code
+extract methods in apply method
+add clear .
+fix cs for camel-base
+use getMessageCount in RepairCallback
+fix test case .
+[ hotfix ] [ network ] use LINUX to LINUX ( ) for LINUX
+minor : improved message
+[ test ] add port tests to ensure that the port is closed
+make the agent of MulticastDiscoveryAgent static uri .
+[ hotfix ] [ runtime ] refactor LocalIndexShardGateway # updateStage
+[ test ] remove unused code from MonitoringIT
+fix AbstractSockJsIntegrationTests issue with AbstractSockJsIntegrationTests update ` AbstractSockJsIntegrationTests ` to use ` ErrorFilter ` . see gh-13511
+fix an issue with the patch by eevans
+update javadoc for JdbcInterceptor .
+make the KEYSPACE final
+remove debug code
+fix issue on closing of db
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49075 npe when the api is not closed .
+better error message when logging fails
+simplify isDisplayed
+remove unnecessary nullable annotations
+make sure that JdbcTemplate is used by default
+remove debug code from WebappClassLoader
+fix a typo in NodeTool
+[ hotfix ] [ runtime ] make MetaDataMappingService # onAckTimeout
+add test for issue # 334 .
+remove unused code
+fix problem with error messages
+DynamicIndexStoreViewIT , fix DynamicIndexStoreViewIT javadoc
+fix issue with the patch by luca molino about the fix to fix problem
+log level . patch by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in FilterDispatcher .
+change ThreadSubstitutions to use threadAlias
+[ java ] add a new scroll scroll scroll builder ( )
+[ test ] add test for j
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48097 patch provided by sebb
+minor : add test to OSGiIntegrationTestSupport
+fix npe on vertex issue on windows .
+[ hotfix ] [ runtime ] add support isDeclaredMethod method to ElementUtils
+fix npe on windows by using patch by eevans ; reviewed by slebresne for cassandra-9864
+make Master more efficient
+rename FtoReconnectAttemptServerStoppedTest to FtpReconnectAttemptServerStoppedTest
+remove unnecessary casts
+remove unnecessary casts
+remove unnecessary casts
+[ test ] fix SetValueTests
+InternalSearchHit uses sourceAsBytes instead of source
+make parseBytes synchronized
+avoid possible npe
+[ hotfix ] [ runtime ] add freeMemory operator .
+remove IOException from RankEvalYamlIT
+fix test failure
+GraphBuilderPhase should not be constant .
+add update to ChooseTargetAction
+issue # 2276 . OCamlRuleBuilder : remove PrintStream from OCamlRuleBuilder
+fix bug on sql image image .
+fix a couple of static methods in FormatHelper
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=56318 use correct method in URIEditor
+use Gson instead of Gson
+simplify IsNullNode # push .
+use throwIfUnchecked instead of RuntimeException
+add more test case for issue : spr-12059
+[ test ] mute failing GatewayIndexStateIT # testRecoverBrokenIndexMetadata
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't include the mappingTable
+remove unused imports
+remove unused code
+remove unused code
+increase timeout for timeout
+fix a typo in DeploymentClusterPlanner constructor
+fix findbugs sql_prepared_statement_generated_from_nonconstant_string warning in LibvirtComputingResource
+https : //issues.apache.org/jira/browse/amq-6422 add unit tests to DestinationGCTest
+[ hotfix ] [ tests ] remove BasicSPARCTest # BasicSPARCTest
+add some javadoc
+[ version ] add version constant
+[ hotfix ] [ runtime ] make ScanBatch in MapRDBScanBatchCreator
+remove unused code .
+[ hotfix ] [ tests ] move to package imports .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch by brandonwilliams .
+[ test ] fix MarvelIntegTestCase
+[ test ] add testCountAllWithComparison to TestQueries
+polish 'remove an example in the javadoc ' see gh-22213
+remove unnecessary casts
+fix issue on windows by using the patch .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in HttpRequestHdr needs to be used instead of equals .
+fix javadoc typo in javadoc
+add missing @ test
+rename getAutocompleterModel ( ) to getAutocompleterModel ( )
+add null check in TopologyContext
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48097 patch provided by sebb
+fix test on slower boxes
+[ test ] fix AwarenessAllocationTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling of `` intValue '' .
+[ test ] remove redundant failures in SearchWithRejectionsTests
+[ hotfix ] [ runtime ] rename ParameterTool # getLong method
+add some more logging to SPARCHotSpotMove
+[ hotfix ] [ tests ] fix create method in Flag # create
+minor : fix test bug
+deprecate unused code .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't need to be used .
+[ hotfix ] [ runtime ] refactor UnpooledUnsafeNoCleanerDirectByteBuf
+fix test failure
+minor : improved documentation of OSQLFunctionSysdate
+fix typo in WindowAssertions
+bug 13454 : console - add `` console '' error message for `` _ '' and `` supported by default .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by brandonwilliams reviewed by jbellis for cassandra-1154
+OProfilerListener : remove unnecessary method
+add test case for issue # testJoinOutputPruning
+remove unnecessary casts
+add test for issue # 561 .
+[ hotfix ] [ tests ] [ tests ] [ element tag ] default default default tag ...
+fix issue with the patch . thanks for the patch .
+add tests to BeanFactoryGenericsTests
+mute PermissionsIT # testWhenUserLimitedByOnlyAliasOfIndexCanWriteToIndexWhichWasRolledoverByILMPolicy
+[ hotfix ] [ runtime ] make ReactorHttpHandlerAdapter extend Mono
+minor : use the correct map instead of the same thing
+improve error message for invalid log message
+disable IndexWorkSyncTransactionApplicationStressIT for now
+fix documentation for Polygon . # 1555 fixes ` constantonlhsofcomparison ` inspection violations . description : > reports all ( ) methods are not allowed . methods that methods are not allowed .
+remove javadoc .
+fix javadoc example in replayingdecoder
+remove unused imports
+add more comments
+simonstewart : fix the issue where the `` driver '' is not found in the driver
+fix a bug in configureConnectors
+add test case to TestUtf8Extended
+[ hotfix ] [ network ] handle request in handle
+make sure we use the detector to use the same way the same way
+remove redundant cast
+LinearScanLifetimeAnalysisPhase : use try instead of Indent
+fix a bug in CompilationWrapperTest
+remove unused code
+only return an Skip for the m
+use LinkedHashMap in BaseExecutionContext
+[ hotfix ] [ runtime ] refactor CwEndpoint to avoid npe when cw
+remove unnecessary code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=46105 do n't use correct input output buffer when input output input buffer .
+[ test ] fix typo in PluginManagerIT
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+rename setHeaders ( ) to setHeaders
+ignore a test that is failing on windows .
+[ hotfix ] [ tests ] use correct options in TestCompiler
+fix bug on shared exception message
+minor : fix typo in VirtualWebappLoader author : ismael juma < ismael @ juma.me.uk > reviewers : ismael juma < ismael @ juma.me.uk > closes # 2592 from ymatsuda/minor
+remove unused method .
+fix cs for camel-restlet
+[ hotfix ] [ runtime ] rename AfterWatermarkStateMachine # withEarlyFirings ( )
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48097 patch provided by sebb
+remove debug code
+[ hotfix ] [ runtime ] make sure offsets and offsets and offsets are not available in StreamTask # consumer .
+add test for operators
+add missing @ since tag
+ImplicitCastTest : improve assertion
+add test case for issue # testDateConversion
+[ hotfix ] [ runtime ] rename Slider constructor of Slider # stepSize .
+update for gump now these are known ciphers
+remove dead code from EnumSerializer
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 fix a bug where possible to use the recordAt rather than one
+do n't users if there is no files
+use BuildTarget instead of BuildRule instead of BuildRule summary : this is used anywhere in BuildRule . test plan : ci reviewed by : coneko fbshipit-source-id : 90dde62
+add asList method to addAction summary : this method is n't used anywhere , so we can use it . reviewed by : jtorkkola fbshipit-source-id : 44c86b2
+remove unused import
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=54044 patch provided by sebb
+fix test case .
+add toString method
+make the compilation error message . summary : the test plan : ci reviewed by : coneko fb-gh-sync-id : asp2insp fbshipit-source-id : 3fcf11e
+add missing license header
+javadoc .
+improve error message
+[ version ] add version constant
+AbstractCxxSourceRuleFactory : use preprocessable instead of type ( ) summary : this makes it easier to be more consistent with an unnecessary . test plan : ci reviewed by : coneko fbshipit-source-id : 57ea914
+add test for issue # 219
+simonstewart : allowing the populate HiveConf for the populate errors
+do n't return value for null before starting the HttpMessageDecoder .
+[ hotfix ] [ runtime ] refactor Preloader to loaded
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 do n't use the correct value for the iterator methods .
+[ hotfix ] [ tests ] make ClasspathChecker extend Predicate
+add link flag . reviewed by : styurin fbshipit-source-id : 1ed876f131
+update copyright year
+remove dead code
+remove redundant method in FileServer
+improve error message for api message .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 use correct Aggregate in dialect instead .
+add missing override annotation .
+[ hotfix ] [ tests ] remove redundant method npe in TestLimitLatch
+increase timeout to COUNT
+remove unused imports
+[ hotfix ] [ tests ] use correct key in HazelcastAggregationRepositoryOperationsTest
+fix an issue with the patch by eevans
+mute GatewayMetaStateTests # testAtomicityWithFailures
+add next to Observable
+use buckGlobals in SkylarkProjectBuildFileParser summary : no need to use ` getBuckRuleFunctions ` . reviewed by : jtorkkola fbshipit-source-id : 4b7aae00c8
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 change writeLock to writeLock . patch provided by brandonwilliams .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49075 npe protection fix for npe
+handle null in GeometryType
+remove unused code
+fix error message in PublishClusterStateAction .
+[ tests ] [ tests ] fix HttpExporterResourceTests the alert for the change tests for the current tests .
+[ test ] fix NetworkUtilsTests to use SocketException instead of SocketException
+[ test ] use NetworkSend in NetworkTestUtils
+remove the system.out.println
+remove unused imports
+correct javadoc .
+use Engine instead of Host
+deprecate unused methods in ChannelOption
+remove unused imports
+add support for add support in ProjectGenerator summary : this makes it easier to ensure that the path is used for each other threads . test plan : ci reviewed by : asp2insp fbshipit-source-id : 960f544
+[ hotfix ] [ tests ] make FileWatchIT use databaseDirectory instead of databaseDirectory original commit : elastic/x-pack-elasticsearch @ while
+remove unused method
+add toString ( ) .
+fix javadoc example in replayingdecoder
+use Column instead TokenizerMapper
+add more javadoc
+fix a bug on Object
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+make sure that Antlr4Mojo can be used with a variable .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 avoid npe in servletSecurityAnnotationScan ( )
+fix a bug in BlueprintsTest
+[ hotfix ] [ runtime ] add OperatorOnErrorReturn # call
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't print the default groovy parameter .
+[ hotfix ] [ runtime ] make TransactionalSpoutCoordinator # getComponentConfiguration method setMaxTaskParallelism
+add test case for issue # 777 ( )
+[ hotfix ] [ tests ] improve HiveUtil # HIVE_UNSUPPORTED_FORMAT
+implement Target_java_lang_Module # isReflectivelyExportedOrOpen
+use sstableLock_ instead of ReentrantReadWriteLock .
+[ hotfix ] [ tests ] add TestStream # addElements ( ) to TestStream # addElements ( ) .
+remove unused code
+simplify decimalEncoding method
+add more tests
+[ test ] fix RatedRequestsTests original commit : elastic/x-pack-elasticsearch @ awaitsfix
+add missing @ xmlattribute to RouteDefinition
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 only once when the fieldError is used for the fieldError .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+remove the unused code
+minor : remove unnecessary values
+add @ checkreturnvalue to parametersarenonnullbydefault parametersarenonnullbydefault the @ checkreturnvalue of the issue of the old behavior .
+fix a typo in MBeanDumper
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48387 use correct method names .
+[ test ] add more tests to RateLimiterTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=42077 do n't use boolean flag .
+made DefaultGroovyMethods public
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=46105 do n't do n't do n't do . patch provided by jbellis
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+[ hotfix ] [ tests ] add capturing to CapturingLogger # TestLoggers
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53541 fix npe when the exception is closed , when a output , we do n't error .
+revert `` fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52055 '' this reverts commit 26f77eb70d68a9382d64535c8dbd07d42842d252 .
+add missing @ since tag
+use encodeToString in KotlincToJarStepFactory
+2.x : add marble diagrams .
+[ hotfix ] [ runtime ] Netty4Transport # error ( # error ) this closes # error .
+add test case to TestStandardErrorCode
+avoid npe when using OpenALMusic
+[ test ] mute HasChildQueryBuilderTests original commit : elastic/x-pack-elasticsearch @ tests
+fix a typo in afterSession
+[ test ] use buckConfig1 in DaemonIntegrationTest summary : test plan : ci reviewed by : coneko fbshipit-source-id : 33977c5
+make sure that start can be able to be able to be null
+[ hotfix ] [ runtime ] add add add to add dvo in provider to NetworkServiceImpl
+remove unused code
+[ hotfix ] [ runtime ] add javadoc to MergeableState
+remove unnecessary casts
+remove javadoc comments .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=49075 npe protection ( cherry picked from commit e5d3e496ab22be2bcbb7f92e6c80bfad8e503153 )
+minor : fix typo in AsyncStateMachine author : ismael juma < ismael @ gmail.com > reviewers : ismael juma < ismael juma < ismael @ juma.me.uk > , guozhang wang < wangguoz @ gmail.com > closes # ismael juma
+add missing @ since tags for Maybe .
+[ test ] add Test to AccessLogSamplerGui
+add step ( ) method
+remove unused code
+simplify code .
+add test case for issue # testNoResult
+fix a bug in BatchProcessTest
+bug 57193 : default revoke - a vpc status 13454 : resolved fix
+make MaterializedObjectState final
+add test case for issue # testLeftRightReplace
+[ hotfix ] [ runtime ] javadoc of NioChannel # close
+add virtual services for VirtualRouterElement
+fix for : https : //issues.apache.org/jira/browse/amq-4237
+[ test ] add a test for the ResolvableTypeTests to ensure that the signature that the method that the method is used for the type that the same package method .
+fix test case .
+make CurriedClosure final
+minor : fix bug in case of server 's search vlan
+fix test case for https : //issues.apache.org/jira/browse/amq-4268
+remove unused code
+[ hotfix ] [ tests ] fix typo in InternetExplorerDriverTest
+add a check for acknowledgement in XPackLicenseState
+fix test bug
+simonstewart : allowing the test cases for the number of the test case
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 when the domain is not needed to avoid npe .
+use Randomness instead of Randomness
+add a test case for issue # 334
+fix issue with the patch by andrey .
+make the debug output final
+[ hotfix ] [ runtime ] refactor APKModuleGraph # ImmutableMultimap summary : for the a a builder was not being used in the builder implementation . test plan : ci reviewed by : coneko fb-gh-sync-id : coneko fb-gh-sync-id : coneko fb-gh-sync-id : coneko fb-gh-sync-id : coneko fb-gh-sync-id : coneko fb-gh-sync-id : 57ea914
+[ hotfix ] [ runtime ] improve DefaultSubscriptionRegistry # toString
+simplify SoapSampler # writeRequest
+[ test ] fix WatcherWithMustacheIT
+fix a bug in ProjectGenerator summary : we were using the ` SourceTreePath ` . test plan : ci reviewed by : coneko fbshipit-source-id : 19d625f
+better error message when creating a desired map . fixes issue 1627
+simplify FieldSampleComparator # compare .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't use correct value . patch provided by sebb
+use emptyList instead of null in SearchSourceBuilder
+make CypherAdapterStreamTest more robust
+add more debug output
+[ test ] add test to TheTest
+[ test ] use DISCOVERY_ZEN_MINIMUM_MASTER_NODES_SETTING to use DISCOVERY_ZEN_MINIMUM_MASTER_NODES_SETTING instead of Settings
+fix a typo in MetaDataDeleteIndexService
+add some comments to use of the rows method
+use Http2ConnectionHandlerBuilder in NoPriorityByteDistributionBenchmark
+fix a typo in CheckpointCoordinator
+make sure we use the correct NamedVector
+avoid possible npe
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by jbellis
+fix issue with the issue with the patch by eevans ;
+handle null when using ZeroSizeFileDetector
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in LLVMFunctionRegistry
+avoid possible npe
+[ hotfix ] [ runtime ] make sure that ExecutionJobVertex # host
+[ hotfix ] [ tests ] add Dialog # initialize
+[ hotfix ] [ runtime ] use correct elementPath in Lists
+reduce the visibility of menuBar
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling of line length in AsmClassGenerator
+add Redwood # forceTrack .
+[ add ] GLSurfaceView20 # onCreateInputConnection .
+increase timeout for timeout
+improve error message for invalid exception
+[ test ] fix ScalingThreadPoolTests this commit fixes a bug in ScalingThreadPoolTests so that the scaling of the scaling of the thread pool of the scaling .
+[ hotfix ] [ runtime ] refactor SockJsClient methods in SockJsClient
+[ hotfix ] [ runtime ] add javadocs for Observable
+[ hotfix ] [ tests ] [ tests ] fix AbstractTaskManagerProcessFailureRecoveryTest # testTaskManagerFailure
+add null check for null value of safely
+add deprecated methods
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch applied patch provided by sebb
+disable MultiJvmWithZooKeeperTest # MultiJvmWithZooKeeperTest
+minor : add logging in case of exception
+remove unused imports
+avoid possible npe
+use TEAR_DOWN_SET to use TEAR_DOWN_SET in JavaSampler
+[ tests ] add ObjectParserTests
+remove unnecessary check
+remove duplicate code in AndroidLibraryDescription reviewed by : bobyangyf fbshipit-source-id : 186d61eef3
+add missing javadoc for TesterServletEncodeUrl .
+[ test ] use url in TestContextConfigAnnotation
+add missing import
+fix a typo in DrillCursor javadoc
+[ test ] make MapperServiceTest extend ESSingleNodeTestCase
+minor : improved documentation of OFetchHelper methods
+fix a bug in Utils
+fix test to use the interface . summary : . test plan : ci
+[ test ] do n't use the same scorer instead of the same leaf .
+remove javadoc .
+remove the system.out.println
+add a little bit to ConvertDeoptimizeToGuardPhase
+fix a bug in VerifyRepositoryResponse .
+refactor JettyAppServer method
+fix test failure
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53607 . patch provided by sebb
+[ hotfix ] [ runtime ] make sure that AsyncBackgroundTaskManager # remove . this closes # 5186
+[ hotfix ] [ runtime ] refactor GBPTree
+[ hotfix ] [ network ] add missing ROW operator for ROW OR TIMES
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=41824 patch provided by sebb
+check for null adapters before checking
+add missing iphone to touch change
+use the correct mb for the merge
+increase timeout in test failures
+rename get ( String )
+fix a bug in Master
+bug 13075 : set hypervisor id for the correct xcp by default status 6746 : resolved fix
+fix for https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct test case .
+fix a bug in MultiArtifactCache summary : there is no need to use ` borrowablePath ` . test plan : ci reviewed by : coneko fbshipit-source-id : 4f2ac96d24
+fix javadoc example in replayingdecoder
+fix a bug where the thread can not be used as it 's possible that are not being used .
+[ hotfix ] [ runtime ] make Property constructor static methods
+LocalCluster : topology replication replication replication replication replication replication in the cluster .
+remove unused code
+[ hotfix ] [ tests ] use correct hdfs for the hdfs hdfs hdfs as the hdfs is not used by using the same as the hdfs .
+add isResponse501 .
+add setUser method to ODatabaseRecordWrapperAbstract
+remove unnecessary casts
+remove unused constructor .
+minor refactoring .
+simplify code .
+[ test ] fix logging in ClassPathTest this commit adds a test to ensure that the test can not be loaded .
+[ test ] remove awaitsfix from StringTermsTests
+[ hotfix ] [ network ] add apicommand to apicommand of apicommand
+remove a reference
+[ hotfix ] [ tests ] remove disconnectWithInvestigation attache in DirectAgentAttache
+[ hotfix ] [ tests ] simplify SavepointITCase # map
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct use correct method in CookieRetrievingCookieGenerator
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52725 use correct test in ColumnDataClassifier
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling of d and correct handling
+improve error message when creating a generator is not found . summary : when a generator was not being created with a generator , so that it is not being used . test plan : ci reviewed by : coneko fbshipit-source-id : ttsugriy
+update javadoc for WebMvcConfigurer .
+remove unused import
+improve error message for invalid aggregator in validate
+remove javadoc comments
+make GroovyBeanDefinitionSource a protected .
+[ test ] fix CentralDirectoryParserTests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53541 fix npe patch provided by sebb
+simplify logic of null check
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=45628 fix npe when a dubbo is not found
+fix javadoc example for comment . reviewed by : styurin fbshipit-source-id : c87f2a08ea
+polish javadoc for mergedcontextconfiguration
+[ test ] use InOrder in RestTemplateBuilderTests this commit adds a RestTemplateBuilderTests to a InOrder and fix a test .
+[ hotfix ] [ tests ] remove noTheoryAnnotationMeansAssumeShouldIgnore method in AssumingInTheoriesTest
+remove unnecessary casts
+improve error message for undertow
+correct javadoc .
+remove duplicate code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in HttpTunnelPayload
+[ hotfix ] [ runtime ] use initCause in ArrayComparisonFailure
+improve error message for exception message
+[ hotfix ] [ tests ] fix MethodSorterTest # getDeclaredMethods
+close rawBody in OkHttpCall
+use webSocketUpgradeFailed instead of webSocketUpgradeFailed failed . fixes issue 6770
+fix Converter javadoc
+add optimizedLaunch support for the default forked
+change Utils to nullable nullable nullable nullable annotation .
+change RequestFactory to nullable annotations
+[ hotfix ] [ tests ] add ERROR_NO_EACCES netty error messages to NettyWebServer
+make ConfigurationPropertySource more robust
+add logging to StartupInfoLogger
+refactor AbstractLoggingSystemTests to use TemporaryFolder
+use beforeeach instead of beforeeach
+add missing license header
+[ hotfix ] [ metrics ] use CouchbaseDataAutoConfiguration in auto auto cassandra the same package of the same package couchbase is not found .
+polish 'remove an unnecessary ' closes gh-16262
+minor : make the port port port port
+[ hotfix ] [ tests ] add setJobNames method to JobLauncherCommandLineRunner
+make JdbcRepositoriesAutoConfiguration conditional on JdbcRepositoriesAutoConfiguration proxyBeanMethods closes configuration
+[ test ] [ test ] add test for LaunchedURLClassLoaderTests
+improve error message when creating a mvc servletContainerFactory is not used . fixes gh-1689
+[ hotfix ] [ tests ] refactor FilteredClassPathRunner # createTest
+simplify TomcatGracefulShutdown # active .
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48282 correct handling in the same thing
+add missing @ autoconfigurebefore to auto HibernateJpaAutoConfiguration transaction in HibernateJpaAutoConfiguration . fixes # 313
+add more debug output
+[ hotfix ] [ runtime ] use ApplicationEnvironmentPreparedEvent in ClasspathLoggingApplicationListener
+fix typo in EndpointWebMvcAutoConfigurationTests this commit fixes a typo in EndpointWebMvcAutoConfigurationTests so that the test can not be created on the reflection ( ) . relates # 1555
+fix test bug
+add @ deprecated to ExtensionFactory
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=52591 avoid npe when using the patch provided by sebb
+add missing @ since tag
+use mDaemon in NamedThreadFactory .
+use STOP instead of ReentrantLock
+Crawler : add original commit : elastic/x-pack-elasticsearch @ 1337fbc9c73d484b856f75eaa9b89fad35a8457c
+update javadoc for SlackApi .
+add isExecuted .
+fix a bug in CallTest
+add some more tests
+add test for issue # 334
+[ test ] add test for requestA and requestA
+increase the default value for keep test
+add missing import
+polish javadoc for RequestInterceptor
+fix a typo in RetrofitError
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 do n't include the found in exception message patch provided by sebb
+fix RequestInterceptor javadoc
+[ hotfix ] add test to OkApacheClientTest
+correct javadoc .
+improve error message for invalid timeout timeout timeout
+simplify code in RpcUtils
+improve ExpectedException javadoc . -- -- -- -- -- -- -- - created by moe : http : //code.google.com/p/moe-java moe_migrated_revid=64573579
+do n't return the expectation when the missingExceptionMessage is called on the same time . this commit makes it easier for some more clear .
+remove unused code
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=53828 do n't use correct change in ApolloDynamicConfiguration constructor .
+[ hotfix ] [ tests ] use getRegisteredSize in DubboRegistryTest
+remove unused field
+add getType method to Server
+add a method for the Log .
+minor refactoring .
+[ hotfix ] [ runtime ] refactor ParentRunner # classBlock
+[ test ] use testServicePutParam annotation for tests in RestAdapterTest
+use assertArrayEquals .
+add a unit tests
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=57180 fix a bug where possible for a patch provided by sebb
+fix TypeExcludeFilterTests issue with AnnotationConfigApplicationContext
+[ hotfix ] [ tests ] fix typo in Comparators
+fix an issue with the `` null '' .
+add new test case for issue # test
+better handling of method names
+remove @ parameter from ConfigCenterConfig constructor .
+add some methods to MetadataReport .
+use the correct value for the configuration property rather than the default for the handlers . this fixes the change of handlers of handlers when the default value is created with the default value of handlers , so that the default value can not be remove from the default value of the default value of the default . fixes [ ]
+rename testComparisonErrorWithNullArgument .
+use encodeString instead of
+[ hotfix ] [ runtime ] fix javadoc of RequestBody
+update copyright year
+do n't use TLS_1_1 in ConnectionSpec .
+use printStackTrace instead of RuntimeException
+[ test ] add more logging to ResponseCacheTest
+SslContextBuilder : remove redundant cast .
+remove unused code
+simplify code in RegistryStatusChecker
+remove unnecessary null check
+remove unnecessary casts
+remove unnecessary casts
+fix a bug in CallTest
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? version fix typo
+make sure that Stopwatch is used by default .
+simplify ParallelMethodTest # one .
+add test case for properties
+[ test ] add more logging to TestCaseClassLoaderTest
+deprecate deprecated methods .
+avoid unnecessary boxing/unboxing
+fix exception message for invalid sb
+remove null check
+[ hotfix ] Utils # toString method
+add more debug output
+fix a test bug
+make sure volatile volatile are used in TestName
+fix a typo in RequestInterceptor interface
+[ hotfix ] [ runtime ] DubboCodec # channel in
+use ArrayList in RouterChain
+fix a bug in ConsulRegistry
+add some javadoc .
+fix a typo in AccessLogFilterTest
+remove duplicate code
+add test for issue # 219
+add delete method
+improve error message for exception message .
+remove ExpectedExceptionClause from ExpectedExceptionRuleTest
+add missing license header
+remove javadoc comments
+make CommandContext constructor public
+remove unused code
+add closeAll test
+fix https : //issues.apache.org/bugzilla/show_bug.cgi ? id=48387 use correct prefix instead of prifix .
+use ArrayList instead of CopyOnWriteArrayList .
